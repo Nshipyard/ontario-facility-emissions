@@ -1,0 +1,46 @@
+# Ontario Facility Emissions Spine
+
+Open Nshipyard project P5. The missing identity key between Ontario's two facility emissions registries.
+
+## What it is
+
+Ontario's MECP (Greenhouse Gas Emissions Reporting By Facility, 2010-2024) and the federal GHGRP (Emissions by Gas, 2004-2024, ECCC) name the same Ontario plants differently and publish no shared facility key.
+
+- **MECP program**: 480 unique facility IDs, 420 reporting in 2024, Reg 390/18.
+- **Federal GHGRP (Ontario)**: 491 unique Ontario facility IDs, 418 reporting in 2024.
+
+This project resolves them into 513 canonical facilities: 458 anchored on exact normalized name plus same city (89.3%), 0 resolved (strict rules rejected every fuzzy near-miss), 55 honestly unmatched (22 Ontario-only, 33 federal-only, nearly all stopped reporting before 2024). 30,693 EWRB large-building rows (2018-2024) are quarantined because the program publishes no building names or street addresses.
+
+## Why the anchors are trusted
+
+416 anchored facilities report 2024 totals to both programs. Ontario's published total includes biomass CO2; the federal total excludes it. After subtracting biomass from the Ontario side, the largest absolute gap is 3,392 tonnes at Greenstone Mine (+2.2%) and the largest percentage gap is +3.5% at Musselwhite Mine (1,105 tonnes). Near-zero deltas across 416 independent pairs validate the anchors.
+
+## Data files (public/data/)
+
+- `spine.json` / `spine.csv`: 513 canonical facilities with per-program name variants, 2024 totals, annual series, EWRB context where attached. Fields: spine_id, canonical_name, city, tier, programs, ontario_ghg_id, ontario_ghg_names, ghgrp_id, ghgrp_names, ontario_2024_t, ghgrp_2024_t, ontario_series, ghgrp_series, ewrb_context, match_ratio.
+- `top_emitters.json`: top 30 Ontario 2024 emitters (Algoma Steel 4,226.7 kt leads).
+- `joins/ghg_vs_ghgrp.json`: 416 matched 2024 pairs with deltas, top absolute and percentage deltas.
+- `joins/ewrb_joined.json`: 49 city manufacturing-intensity contexts; 96 facilities carry them (ecological confidence).
+- `joins/landfill_methane.json`: 89 landfill-like facilities, methane 90-100% of totals; registry join spec included.
+- `joins/merges.json`: all 458 merges with ratios and raw name pairs.
+- `anomalies.json`: 128 year-over-year flags (jumps >200% or drops >75% on bases >1,000 t).
+- `examples.json`: 9 curated entity-resolution cases (5 clean merges, 4 correctly rejected near-misses).
+- `stats.json`, `match_funnel.json`: tier and coverage counts.
+- `FINDINGS.md`: full findings writeup from the data pipeline.
+
+## API
+
+- `GET /api/v1/spine` : full spine (513 rows).
+- `GET /api/v1/search?q=&city=&tier=&program=&limit=` : search, ranked by 2024 emissions. tier: anchored|unmatched. program: both|ontario_only|federal_only.
+- `GET /api/v1/stats` : match statistics, funnel, unmatched split, top-30 emitters, EWRB quarantine, landfill methane, 2024 agreement deltas.
+- `GET /api/v1/facility/ONF-000042` : full record with both programs' name histories, annual series, 2024 totals, delta, EWRB context, methane and anomaly flags.
+- `GET /api/v1/facility/points` : slim coordinate set for the map.
+- `GET /api/openapi.json` : OpenAPI 3.1 spec.
+
+MCP (streamable HTTP): `POST /mcp` with JSON-RPC 2.0. Tools: `facility_lookup` (spine_id), `spine_search` (q, city, tier, program, limit), `match_stats`.
+
+## Limits you must state
+
+Matching requires the same normalized city, so a facility whose municipality is recorded differently in the two programs will not merge. EWRB context is city-level and ecological: never present it as a building's own intensity. The landfill registry join is a spec, not a computed join. Ontario's raw totals include biomass CO2 while the federal totals exclude it: always apply the biomass adjustment when comparing.
+
+Author: Richardson Dackam. Not affiliated with the Government of Ontario or the MECP.
