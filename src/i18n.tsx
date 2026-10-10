@@ -13,7 +13,7 @@ const en = {
   nav: { explorer: "Explorer", showcase: "Showcase", developers: "Developers", data: "Data", back: "All projects" },
   hero: {
     kicker: "Open Nshipyard · Project P5",
-    title: "One factory, five names: why Ontario's emissions data can't find itself.",
+    title: "Why does one Ontario factory show up under five different names?",
     sub: "Ontario's MECP and the federal GHGRP track the same plants under different names and publish no shared key. This project resolves 513 canonical facilities across both registries for 2010 to 2024: 458 anchored on exact normalized name plus same city, 55 honestly unmatched, 30,693 large-building rows quarantined. The payoff is identity: one query follows a plant across both programs and twenty years of history.",
     cta1: "Search the facilities",
     cta2: "Read the methodology",
@@ -65,7 +65,7 @@ const en = {
   },
   showcase: {
     kicker: "Showcase",
-    title: "One factory, five names.",
+    title: "The same factory, five different names.",
     body: "Bruce Power files as Bruce Power in one registry and Bruce Power Inc in the other. Algonquin Power became Emerald Energy from Waste in some years and not others. The Ingredion plant in Cardinal and the Ingredion plant in Port Colborne are different facilities that a name match would fuse. 133 of the 480 Ontario facility IDs changed names across years. Until someone resolved the names, nobody could follow a single plant across both registries.",
     funnelTitle: "How the identity spine was matched",
     funnelSub: "971 program-side facility IDs collapse into 513 canonical facilities. The EWRB building program sits outside the spine: all 30,693 rows are quarantined.",
@@ -197,7 +197,7 @@ const fr: Dict = {
   nav: { explorer: "Explorateur", showcase: "Vitrine", developers: "Développeurs", data: "Données", back: "Tous les projets" },
   hero: {
     kicker: "Open Nshipyard · Projet P5",
-    title: "Une usine, cinq noms : pourquoi les données d'émissions de l'Ontario ne se retrouvent pas.",
+    title: "Pourquoi une usine ontarienne apparaît-elle sous cinq noms différents ?",
     sub: "Le MECP de l'Ontario et le PDGES fédéral suivent les mêmes usines sous des noms différents et ne publient aucune clé commune. Ce projet résout 513 installations canoniques dans les deux registres de 2010 à 2024 : 458 appariements directs sur le nom normalisé exact plus la même ville, 55 honnêtement non appariées, 30 693 lignes de grands bâtiments mises en quarantaine. Le gain est l'identité : une seule requête suit une usine dans les deux programmes et vingt ans d'historique.",
     cta1: "Rechercher les installations",
     cta2: "Lire la méthodologie",
@@ -249,7 +249,7 @@ const fr: Dict = {
   },
   showcase: {
     kicker: "Vitrine",
-    title: "Une usine, cinq noms.",
+    title: "La même usine, cinq noms différents.",
     body: "Bruce Power déclare comme Bruce Power dans un registre et Bruce Power Inc dans l'autre. Algonquin Power est devenue Emerald Energy from Waste certaines années et pas d'autres. L'usine Ingredion de Cardinal et celle de Port Colborne sont des installations différentes qu'un appariement de noms fusionnerait. 133 des 480 ID ontariens ont changé de nom au fil des ans. Avant que quelqu'un ne résolve les noms, personne ne pouvait suivre une seule usine dans les deux registres.",
     funnelTitle: "Comment la colonne vertébrale a été appariée",
     funnelSub: "971 ID côté programmes se condensent en 513 installations canoniques. Le programme des grands bâtiments PGRGE reste hors de la colonne : ses 30 693 lignes sont toutes mises en quarantaine.",
