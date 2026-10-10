@@ -1,0 +1,122 @@
+[
+ {
+  "kind": "merged",
+  "tier": "anchored",
+  "ratio": 1.0,
+  "note": "Ownership rebrand visible in both programs' histories: Dofasco became ArcelorMittal Dofasco. The 2024 names match exactly, and the spine preserves the old names as variants.",
+  "ontario_variants": [
+   "ArcelorMittal Dofasco",
+   "Dofasco Hamilton"
+  ],
+  "ghgrp_variants": [
+   "ArcelorMittal Dofasco",
+   "ArcelorMittal Dofasco Hamilton",
+   "Dofasco Hamilton"
+  ],
+  "city": "Hamilton",
+  "spine_id": "ONF-000005"
+ },
+ {
+  "kind": "merged",
+  "tier": "anchored",
+  "ratio": 1.0,
+  "note": "Acquisition rename: Algonquin Power's energy-from-waste plant became Emerald. Both programs recorded the old and new names in different years.",
+  "ontario_variants": [
+   "Algonquin Power  Energy from Waste Inc.",
+   "Emerald Energy from Waste Inc."
+  ],
+  "ghgrp_variants": [
+   "Algonquin Power  Energy from Waste Inc.",
+   "Emerald Energy from Waste Inc."
+  ],
+  "city": "Brampton",
+  "spine_id": "ONF-000003"
+ },
+ {
+  "kind": "merged",
+  "tier": "anchored",
+  "ratio": 1.0,
+  "note": "Legal-suffix normalization: 'Brampton Brick' vs 'Brampton Brick Limited' normalize to the same key; the raw variants are kept on the record.",
+  "ontario_variants": [
+   "Brampton Brick",
+   "Brampton Brick Limited"
+  ],
+  "ghgrp_variants": [
+   "Brampton Brick",
+   "Brampton Brick Limited"
+  ],
+  "city": "Brampton",
+  "spine_id": "ONF-000011"
+ },
+ {
+  "kind": "merged",
+  "tier": "anchored",
+  "ratio": 1.0,
+  "note": "Descriptor drift: reported as 'North Bay' in some years and 'North Bay Power Plant' in others. The 2024 names agree, variants retained.",
+  "ontario_variants": [
+   "North Bay",
+   "North Bay Power Plant"
+  ],
+  "ghgrp_variants": [
+   "North Bay",
+   "North Bay Power Plant"
+  ],
+  "city": "North Bay",
+  "spine_id": "ONF-000009"
+ },
+ {
+  "kind": "merged",
+  "tier": "anchored",
+  "ratio": 1.0,
+  "note": "'Bruce Power Inc' vs 'Bruce Power': trailing legal token stripped by normalization, exact match on what remains.",
+  "ontario_variants": [
+   "Bruce Power",
+   "Bruce Power Inc"
+  ],
+  "ghgrp_variants": [
+   "Bruce Power"
+  ],
+  "city": "Tiverton",
+  "spine_id": "ONF-000015"
+ },
+ {
+  "kind": "rejected",
+  "tier": "unmatched",
+  "ontario_variant": "Canada Brick - Aldershot",
+  "ghgrp_variant": "Hanson Brick - Aldershot",
+  "city": "Aldershot",
+  "raw_name_ratio": 0.818,
+  "note": "NOT merged. Full-name ratio is only 0.76, and the shared token 'Aldershot' is the city name itself, so it cannot serve as a plant identifier. Different owners (Brampton Brick vs Hanson/Heidelberg) reporting plants in the same city."
+ },
+ {
+  "kind": "rejected",
+  "tier": "unmatched",
+  "ontario_variant": "BUNGE CANADA - HAMILTON",
+  "ghgrp_variant": "Hamilton",
+  "city": "Hamilton",
+  "raw_name_ratio": 0.552,
+  "note": "NOT merged. The Ontario name's site portion is just 'Hamilton', which is also the city, so there is no plant-level evidence they are the same facility. Full-name ratio is 0.52. Left unmatched rather than guessed."
+ },
+ {
+  "kind": "rejected",
+  "tier": "unmatched",
+  "ontario_variant": "Ingredion Canada Corporation",
+  "ghgrp_variant": "Ingredion Canada Incorporated - Port Colborne Plant",
+  "city_o": "Cardinal",
+  "city_f": "Port Colborne",
+  "raw_name_ratio": 0.492,
+  "note": "NOT merged. Same company, different plants in different cities (Cardinal vs Port Colborne). The site-suffix veto blocks cross-plant merges even when the company name matches."
+ },
+ {
+  "kind": "merged",
+  "tier": "anchored",
+  "ratio": 1.0,
+  "spine_id": "ONF-000045",
+  "ontario_variant": "Woodstock Plant",
+  "ghgrp_variant": "Woodstock Plant",
+  "city": "Woodstock",
+  "ontario_2024_t": 373834,
+  "ghgrp_2024_t": 373477,
+  "note": "Tie-break done right. Two federal facilities in Woodstock share the name 'Woodstock Plant': G10114 (Federal White Cement, 373,477 t in 2024) and G10172 (Lafarge, 220,315 t). Anchored full-name matches are assigned before sub-form matches, so the Ontario record (owner Federal White Cement, 373,834 t) paired with G10114. Emissions agree to 0.1 percent, confirming the choice."
+ }
+]

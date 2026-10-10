@@ -1,0 +1,45 @@
+{
+ "spine_rows": 513,
+ "tiers": {
+  "anchored": 458,
+  "resolved": 0,
+  "unmatched": 55,
+  "quarantined": 0
+ },
+ "programs": {
+  "ontario_ghg": 480,
+  "federal_ghgrp": 491,
+  "ewrb_context": 96
+ },
+ "coverage": {
+  "all_3_programs": 96,
+  "two_programs": 362,
+  "one_program": 55
+ },
+ "merges": {
+  "total": 458,
+  "anchored": 458,
+  "resolved": 0
+ },
+ "ewrb": {
+  "rows": 30693,
+  "buildings": 9250,
+  "years": [
+   2018,
+   2019,
+   2020,
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "quarantined_rows": 30693,
+  "quarantine_reasons": {
+   "no_building_identifier": 30693,
+   "zero_intensity": 3002,
+   "absurd_ghg_intensity": 508
+  }
+ },
+ "anomalies": 128,
+ "merge_log": "public/data/joins/merges.json"
+}

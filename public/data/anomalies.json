@@ -1,0 +1,1282 @@
+[
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1407",
+  "facility_name": "Rainy River Mine",
+  "year_from": 2018,
+  "year_to": 2019,
+  "prev_t": 4660.0,
+  "curr_t": 146180.0,
+  "pct_change": 3036.9
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10567",
+  "facility_name": "University of Windsor",
+  "year_from": 2009,
+  "year_to": 2010,
+  "prev_t": 1010.8,
+  "curr_t": 27185.6,
+  "pct_change": 2589.6
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10413",
+  "facility_name": "Portlands Energy Centre",
+  "year_from": 2008,
+  "year_to": 2009,
+  "prev_t": 10744.6,
+  "curr_t": 284238.4,
+  "pct_change": 2545.4
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1191",
+  "facility_name": "ARLANXEO Butyl",
+  "year_from": 2016,
+  "year_to": 2017,
+  "prev_t": 12199.0,
+  "curr_t": 318019.0,
+  "pct_change": 2506.9
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1104",
+  "facility_name": "Atikokan Generating Station",
+  "year_from": 2013,
+  "year_to": 2014,
+  "prev_t": 3991.0,
+  "curr_t": 42166.0,
+  "pct_change": 956.5
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G12825",
+  "facility_name": "Maple Leaf Foods - London Poultry",
+  "year_from": 2022,
+  "year_to": 2023,
+  "prev_t": 1801.3,
+  "curr_t": 15293.7,
+  "pct_change": 749.0
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1557",
+  "facility_name": "Maple Leaf Foods - London Poultry",
+  "year_from": 2022,
+  "year_to": 2023,
+  "prev_t": 1802.0,
+  "curr_t": 15294.0,
+  "pct_change": 748.7
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1144",
+  "facility_name": "Sarnia Regional Cogeneration Facility",
+  "year_from": 2017,
+  "year_to": 2018,
+  "prev_t": 123496.0,
+  "curr_t": 982208.0,
+  "pct_change": 695.3
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1521",
+  "facility_name": "Côté Gold",
+  "year_from": 2022,
+  "year_to": 2023,
+  "prev_t": 12387.0,
+  "curr_t": 91043.0,
+  "pct_change": 635.0
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G12466",
+  "facility_name": "Côté Gold",
+  "year_from": 2022,
+  "year_to": 2023,
+  "prev_t": 12386.2,
+  "curr_t": 91042.1,
+  "pct_change": 635.0
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1038",
+  "facility_name": "Enbridge Gas Distribution Inc.",
+  "year_from": 2015,
+  "year_to": 2016,
+  "prev_t": 39942.0,
+  "curr_t": 286651.0,
+  "pct_change": 617.7
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1402",
+  "facility_name": "Meridian Lightweight Technologies Inc",
+  "year_from": 2018,
+  "year_to": 2019,
+  "prev_t": 16715.0,
+  "curr_t": 114815.0,
+  "pct_change": 586.9
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1373",
+  "facility_name": "Englehart Oriented Strand Board Plant",
+  "year_from": 2018,
+  "year_to": 2019,
+  "prev_t": 11153.0,
+  "curr_t": 68276.0,
+  "pct_change": 512.2
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G11808",
+  "facility_name": "Ashbridges Bay Treatment Plant",
+  "year_from": 2021,
+  "year_to": 2022,
+  "prev_t": 13951.2,
+  "curr_t": 85357.1,
+  "pct_change": 511.8
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1428",
+  "facility_name": "Napanee Generating Station",
+  "year_from": 2019,
+  "year_to": 2020,
+  "prev_t": 109608.0,
+  "curr_t": 646474.0,
+  "pct_change": 489.8
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G12145",
+  "facility_name": "Napanee Generating Station",
+  "year_from": 2019,
+  "year_to": 2020,
+  "prev_t": 109599.7,
+  "curr_t": 646424.0,
+  "pct_change": 489.8
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1403",
+  "facility_name": "Meridian Lightweight Technologies Inc. Plant E",
+  "year_from": 2018,
+  "year_to": 2019,
+  "prev_t": 15214.0,
+  "curr_t": 89472.0,
+  "pct_change": 488.1
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G11743",
+  "facility_name": "Green Electron Power Plant",
+  "year_from": 2017,
+  "year_to": 2018,
+  "prev_t": 27186.8,
+  "curr_t": 151498.8,
+  "pct_change": 457.3
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1136",
+  "facility_name": "Tenaris Algoma Tubes",
+  "year_from": 2016,
+  "year_to": 2017,
+  "prev_t": 13309.0,
+  "curr_t": 72273.0,
+  "pct_change": 443.0
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1357",
+  "facility_name": "Green Electron Power Plant",
+  "year_from": 2017,
+  "year_to": 2018,
+  "prev_t": 27170.0,
+  "curr_t": 147423.0,
+  "pct_change": 442.6
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10407",
+  "facility_name": "Greenfield Energy Centre LP",
+  "year_from": 2008,
+  "year_to": 2009,
+  "prev_t": 193668.2,
+  "curr_t": 1018142.0,
+  "pct_change": 425.7
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1198",
+  "facility_name": "Porcupine Gold Mines",
+  "year_from": 2018,
+  "year_to": 2019,
+  "prev_t": 10436.0,
+  "curr_t": 51695.0,
+  "pct_change": 395.4
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10285",
+  "facility_name": "AV Terrace Bay",
+  "year_from": 2010,
+  "year_to": 2011,
+  "prev_t": 26672.4,
+  "curr_t": 124730.5,
+  "pct_change": 367.6
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1138",
+  "facility_name": "AV Terrace Bay",
+  "year_from": 2020,
+  "year_to": 2021,
+  "prev_t": 168988.0,
+  "curr_t": 782440.0,
+  "pct_change": 363.0
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1104",
+  "facility_name": "Atikokan Generating Station",
+  "year_from": 2014,
+  "year_to": 2015,
+  "prev_t": 42166.0,
+  "curr_t": 194299.0,
+  "pct_change": 360.8
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1064",
+  "facility_name": "Hamilton Specialty Bar (2007) Inc.",
+  "year_from": 2010,
+  "year_to": 2011,
+  "prev_t": 9468.0,
+  "curr_t": 41598.0,
+  "pct_change": 339.4
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1138",
+  "facility_name": "AV Terrace Bay",
+  "year_from": 2010,
+  "year_to": 2011,
+  "prev_t": 236238.0,
+  "curr_t": 1032961.0,
+  "pct_change": 337.3
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G11719",
+  "facility_name": "Whitby",
+  "year_from": 2019,
+  "year_to": 2020,
+  "prev_t": 18877.6,
+  "curr_t": 78661.9,
+  "pct_change": 316.7
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1012",
+  "facility_name": "Brighton Beach Power",
+  "year_from": 2021,
+  "year_to": 2022,
+  "prev_t": 63027.0,
+  "curr_t": 257748.0,
+  "pct_change": 308.9
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10031",
+  "facility_name": "Brighton Beach Power",
+  "year_from": 2021,
+  "year_to": 2022,
+  "prev_t": 63113.6,
+  "curr_t": 257747.8,
+  "pct_change": 308.4
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1138",
+  "facility_name": "AV Terrace Bay",
+  "year_from": 2012,
+  "year_to": 2013,
+  "prev_t": 260607.0,
+  "curr_t": 1059387.0,
+  "pct_change": 306.5
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10769",
+  "facility_name": "Meridian Lightweight Technologies Inc. Plant E",
+  "year_from": 2017,
+  "year_to": 2018,
+  "prev_t": 12631.6,
+  "curr_t": 51199.2,
+  "pct_change": 305.3
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10042",
+  "facility_name": "Calstock Power Plant",
+  "year_from": 2004,
+  "year_to": 2017,
+  "prev_t": 5890.8,
+  "curr_t": 23517.7,
+  "pct_change": 299.2
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1236",
+  "facility_name": "MSSC Canada",
+  "year_from": 2019,
+  "year_to": 2020,
+  "prev_t": 6775.0,
+  "curr_t": 26927.0,
+  "pct_change": 297.4
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10830",
+  "facility_name": "MSSC Canada",
+  "year_from": 2019,
+  "year_to": 2020,
+  "prev_t": 6770.7,
+  "curr_t": 26903.8,
+  "pct_change": 297.4
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10453",
+  "facility_name": "East Windsor Cogeneration Centre",
+  "year_from": 2009,
+  "year_to": 2010,
+  "prev_t": 32678.8,
+  "curr_t": 126051.6,
+  "pct_change": 285.7
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10683",
+  "facility_name": "Kawartha Ethanol Inc.",
+  "year_from": 2012,
+  "year_to": 2013,
+  "prev_t": 21942.5,
+  "curr_t": 82825.7,
+  "pct_change": 277.5
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G11034",
+  "facility_name": "Roseburg Forest Products Canada Ltd. (Pembroke MDF)",
+  "year_from": 2019,
+  "year_to": 2020,
+  "prev_t": 10553.2,
+  "curr_t": 38354.8,
+  "pct_change": 263.4
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10251",
+  "facility_name": "Sarnia Cogen Plant",
+  "year_from": 2005,
+  "year_to": 2006,
+  "prev_t": 46019.8,
+  "curr_t": 165728.4,
+  "pct_change": 260.1
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G11082",
+  "facility_name": "G.E. Booth Water Resource Recovery Facility",
+  "year_from": 2022,
+  "year_to": 2023,
+  "prev_t": 15275.8,
+  "curr_t": 54844.3,
+  "pct_change": 259.0
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10532",
+  "facility_name": "Plasco Trail Road",
+  "year_from": 2010,
+  "year_to": 2012,
+  "prev_t": 3383.0,
+  "curr_t": 11853.1,
+  "pct_change": 250.4
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1108",
+  "facility_name": "Thunder Bay Generating Station",
+  "year_from": 2015,
+  "year_to": 2016,
+  "prev_t": 6642.0,
+  "curr_t": 23251.0,
+  "pct_change": 250.1
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10141",
+  "facility_name": "Hendrickson Springs",
+  "year_from": 2004,
+  "year_to": 2017,
+  "prev_t": 3468.5,
+  "curr_t": 11981.0,
+  "pct_change": 245.4
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1410",
+  "facility_name": "Impala Canada Ltd.",
+  "year_from": 2018,
+  "year_to": 2019,
+  "prev_t": 15022.0,
+  "curr_t": 50927.0,
+  "pct_change": 239.0
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1114",
+  "facility_name": "Plasco Trail Road",
+  "year_from": 2010,
+  "year_to": 2012,
+  "prev_t": 7145.0,
+  "curr_t": 23202.0,
+  "pct_change": 224.7
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1132",
+  "facility_name": "INEOS Styrolution",
+  "year_from": 2016,
+  "year_to": 2017,
+  "prev_t": 107678.0,
+  "curr_t": 343763.0,
+  "pct_change": 219.3
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10622",
+  "facility_name": "Thorold Cogen Generating Station",
+  "year_from": 2017,
+  "year_to": 2018,
+  "prev_t": 54242.5,
+  "curr_t": 168065.4,
+  "pct_change": 209.8
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1128",
+  "facility_name": "St. Clair Energy Center",
+  "year_from": 2017,
+  "year_to": 2018,
+  "prev_t": 99135.0,
+  "curr_t": 304025.0,
+  "pct_change": 206.7
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10554",
+  "facility_name": "St. Clair Energy Center",
+  "year_from": 2017,
+  "year_to": 2018,
+  "prev_t": 99203.1,
+  "curr_t": 304226.4,
+  "pct_change": 206.7
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1099",
+  "facility_name": "Thorold Cogen Generating Station",
+  "year_from": 2017,
+  "year_to": 2018,
+  "prev_t": 54519.0,
+  "curr_t": 164593.0,
+  "pct_change": 201.9
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1041",
+  "facility_name": "Essar Power Canada Ltd",
+  "year_from": 2016,
+  "year_to": 2017,
+  "prev_t": 1315976.0,
+  "curr_t": 0.0,
+  "pct_change": -100.0
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1068",
+  "facility_name": "Walkerville",
+  "year_from": 2022,
+  "year_to": 2023,
+  "prev_t": 64159.0,
+  "curr_t": 0.0,
+  "pct_change": -100.0
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1095",
+  "facility_name": "Cochrane Generating Station",
+  "year_from": 2015,
+  "year_to": 2016,
+  "prev_t": 109009.0,
+  "curr_t": 0.0,
+  "pct_change": -100.0
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1107",
+  "facility_name": "Nanticoke Generating Station",
+  "year_from": 2015,
+  "year_to": 2016,
+  "prev_t": 5818.0,
+  "curr_t": 0.0,
+  "pct_change": -100.0
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1142",
+  "facility_name": "Mississauga Cogeneration Plant",
+  "year_from": 2016,
+  "year_to": 2017,
+  "prev_t": 352026.0,
+  "curr_t": 0.0,
+  "pct_change": -100.0
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1007",
+  "facility_name": "Kapuskasing Power Plant",
+  "year_from": 2016,
+  "year_to": 2017,
+  "prev_t": 128658.0,
+  "curr_t": 120.0,
+  "pct_change": -99.9
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1008",
+  "facility_name": "Nipigon Power Plant",
+  "year_from": 2016,
+  "year_to": 2017,
+  "prev_t": 115642.0,
+  "curr_t": 123.0,
+  "pct_change": -99.9
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1009",
+  "facility_name": "North Bay Power Plant",
+  "year_from": 2016,
+  "year_to": 2017,
+  "prev_t": 126883.0,
+  "curr_t": 77.0,
+  "pct_change": -99.9
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1010",
+  "facility_name": "Tunis Power Plant",
+  "year_from": 2014,
+  "year_to": 2015,
+  "prev_t": 119161.0,
+  "curr_t": 152.0,
+  "pct_change": -99.9
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10114",
+  "facility_name": "Woodstock Plant",
+  "year_from": 2008,
+  "year_to": 2009,
+  "prev_t": 512944.9,
+  "curr_t": 750.0,
+  "pct_change": -99.9
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10410",
+  "facility_name": "Kapuskasing Power Plant",
+  "year_from": 2016,
+  "year_to": 2019,
+  "prev_t": 128741.5,
+  "curr_t": 142.1,
+  "pct_change": -99.9
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10432",
+  "facility_name": "North Bay Power Plant",
+  "year_from": 2016,
+  "year_to": 2019,
+  "prev_t": 126963.7,
+  "curr_t": 143.6,
+  "pct_change": -99.9
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1009",
+  "facility_name": "North Bay Power Plant",
+  "year_from": 2022,
+  "year_to": 2023,
+  "prev_t": 45157.0,
+  "curr_t": 114.0,
+  "pct_change": -99.7
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10432",
+  "facility_name": "North Bay Power Plant",
+  "year_from": 2022,
+  "year_to": 2023,
+  "prev_t": 45156.1,
+  "curr_t": 113.5,
+  "pct_change": -99.7
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1014",
+  "facility_name": "Lake Superior Power",
+  "year_from": 2014,
+  "year_to": 2015,
+  "prev_t": 49969.0,
+  "curr_t": 266.0,
+  "pct_change": -99.5
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1105",
+  "facility_name": "Lambton Generating Station",
+  "year_from": 2013,
+  "year_to": 2014,
+  "prev_t": 1599873.0,
+  "curr_t": 7845.0,
+  "pct_change": -99.5
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10335",
+  "facility_name": "Lake Superior Power",
+  "year_from": 2014,
+  "year_to": 2017,
+  "prev_t": 50000.9,
+  "curr_t": 291.7,
+  "pct_change": -99.4
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10072",
+  "facility_name": "Cochrane Generating Station",
+  "year_from": 2015,
+  "year_to": 2024,
+  "prev_t": 42095.9,
+  "curr_t": 283.3,
+  "pct_change": -99.3
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1107",
+  "facility_name": "Nanticoke Generating Station",
+  "year_from": 2013,
+  "year_to": 2014,
+  "prev_t": 1538092.0,
+  "curr_t": 13970.0,
+  "pct_change": -99.1
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10285",
+  "facility_name": "AV Terrace Bay",
+  "year_from": 2023,
+  "year_to": 2024,
+  "prev_t": 142527.2,
+  "curr_t": 2348.3,
+  "pct_change": -98.4
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10203",
+  "facility_name": "Nipigon Power Plant",
+  "year_from": 2016,
+  "year_to": 2019,
+  "prev_t": 115716.5,
+  "curr_t": 2320.2,
+  "pct_change": -98.0
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G11479",
+  "facility_name": "Stoney Creek Regional Facility",
+  "year_from": 2021,
+  "year_to": 2022,
+  "prev_t": 52030.6,
+  "curr_t": 1394.8,
+  "pct_change": -97.3
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1138",
+  "facility_name": "AV Terrace Bay",
+  "year_from": 2023,
+  "year_to": 2024,
+  "prev_t": 983345.0,
+  "curr_t": 29499.0,
+  "pct_change": -97.0
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1425",
+  "facility_name": "Stoney Creek Regional Facility",
+  "year_from": 2021,
+  "year_to": 2022,
+  "prev_t": 46456.0,
+  "curr_t": 1395.0,
+  "pct_change": -97.0
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10293",
+  "facility_name": "Tunis Power Plant",
+  "year_from": 2014,
+  "year_to": 2019,
+  "prev_t": 119238.3,
+  "curr_t": 4604.4,
+  "pct_change": -96.1
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G11793",
+  "facility_name": "ARLANXEO Butyl",
+  "year_from": 2018,
+  "year_to": 2019,
+  "prev_t": 306072.4,
+  "curr_t": 12782.4,
+  "pct_change": -95.8
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1145",
+  "facility_name": "Windsor Essex Cogeneration Plant",
+  "year_from": 2016,
+  "year_to": 2017,
+  "prev_t": 177492.0,
+  "curr_t": 7748.0,
+  "pct_change": -95.6
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1512",
+  "facility_name": "Brampton Westwyn",
+  "year_from": 2022,
+  "year_to": 2023,
+  "prev_t": 20027.0,
+  "curr_t": 1014.0,
+  "pct_change": -94.9
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G12529",
+  "facility_name": "Brampton Westwyn",
+  "year_from": 2022,
+  "year_to": 2023,
+  "prev_t": 20026.6,
+  "curr_t": 1013.4,
+  "pct_change": -94.9
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1097",
+  "facility_name": "Kingston CoGen",
+  "year_from": 2017,
+  "year_to": 2018,
+  "prev_t": 21993.0,
+  "curr_t": 1195.0,
+  "pct_change": -94.6
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10004",
+  "facility_name": "Kingston CoGen",
+  "year_from": 2017,
+  "year_to": 2018,
+  "prev_t": 22007.1,
+  "curr_t": 1195.4,
+  "pct_change": -94.6
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1093",
+  "facility_name": "WINDSOR ALUMINUM PLANT",
+  "year_from": 2020,
+  "year_to": 2021,
+  "prev_t": 11100.0,
+  "curr_t": 707.0,
+  "pct_change": -93.6
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G11126",
+  "facility_name": "WINDSOR ALUMINUM PLANT",
+  "year_from": 2020,
+  "year_to": 2021,
+  "prev_t": 11094.0,
+  "curr_t": 706.4,
+  "pct_change": -93.6
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1096",
+  "facility_name": "Iroquois Falls Generating Station",
+  "year_from": 2016,
+  "year_to": 2017,
+  "prev_t": 288610.0,
+  "curr_t": 19963.0,
+  "pct_change": -93.1
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10151",
+  "facility_name": "Iroquois Falls Generating Station",
+  "year_from": 2016,
+  "year_to": 2017,
+  "prev_t": 288795.5,
+  "curr_t": 20017.8,
+  "pct_change": -93.1
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1108",
+  "facility_name": "Thunder Bay Generating Station",
+  "year_from": 2014,
+  "year_to": 2015,
+  "prev_t": 93640.0,
+  "curr_t": 6642.0,
+  "pct_change": -92.9
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1097",
+  "facility_name": "Kingston CoGen",
+  "year_from": 2016,
+  "year_to": 2017,
+  "prev_t": 299217.0,
+  "curr_t": 21993.0,
+  "pct_change": -92.6
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1191",
+  "facility_name": "ARLANXEO Butyl",
+  "year_from": 2017,
+  "year_to": 2018,
+  "prev_t": 318019.0,
+  "curr_t": 23660.0,
+  "pct_change": -92.6
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10004",
+  "facility_name": "Kingston CoGen",
+  "year_from": 2016,
+  "year_to": 2017,
+  "prev_t": 299408.8,
+  "curr_t": 22007.1,
+  "pct_change": -92.6
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10339",
+  "facility_name": "Ottawa Landfill",
+  "year_from": 2005,
+  "year_to": 2017,
+  "prev_t": 175940.8,
+  "curr_t": 13334.7,
+  "pct_change": -92.4
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10323",
+  "facility_name": "Windsor Essex Cogeneration Plant",
+  "year_from": 2016,
+  "year_to": 2018,
+  "prev_t": 177373.9,
+  "curr_t": 13690.2,
+  "pct_change": -92.3
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10532",
+  "facility_name": "Plasco Trail Road",
+  "year_from": 2009,
+  "year_to": 2010,
+  "prev_t": 40378.8,
+  "curr_t": 3383.0,
+  "pct_change": -91.6
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1104",
+  "facility_name": "Atikokan Generating Station",
+  "year_from": 2012,
+  "year_to": 2013,
+  "prev_t": 46885.0,
+  "curr_t": 3991.0,
+  "pct_change": -91.5
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1033",
+  "facility_name": "Espanola Mill",
+  "year_from": 2023,
+  "year_to": 2024,
+  "prev_t": 569520.0,
+  "curr_t": 52096.0,
+  "pct_change": -90.9
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1025",
+  "facility_name": "Brampton Assembly Plant",
+  "year_from": 2023,
+  "year_to": 2024,
+  "prev_t": 62846.0,
+  "curr_t": 6879.0,
+  "pct_change": -89.1
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10027",
+  "facility_name": "Brampton Assembly Plant",
+  "year_from": 2023,
+  "year_to": 2024,
+  "prev_t": 62845.1,
+  "curr_t": 6878.5,
+  "pct_change": -89.1
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1051",
+  "facility_name": "West Windsor Power",
+  "year_from": 2016,
+  "year_to": 2017,
+  "prev_t": 189283.0,
+  "curr_t": 21904.0,
+  "pct_change": -88.4
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10315",
+  "facility_name": "West Windsor Power",
+  "year_from": 2016,
+  "year_to": 2017,
+  "prev_t": 188861.1,
+  "curr_t": 21918.3,
+  "pct_change": -88.4
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1144",
+  "facility_name": "Sarnia Regional Cogeneration Facility",
+  "year_from": 2016,
+  "year_to": 2017,
+  "prev_t": 1026896.0,
+  "curr_t": 123496.0,
+  "pct_change": -88.0
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10332",
+  "facility_name": "Glanbrook Landfill Site",
+  "year_from": 2006,
+  "year_to": 2011,
+  "prev_t": 141064.0,
+  "curr_t": 20578.7,
+  "pct_change": -85.4
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G12114",
+  "facility_name": "Nairn Centre Sawmill",
+  "year_from": 2018,
+  "year_to": 2019,
+  "prev_t": 71088.8,
+  "curr_t": 10474.6,
+  "pct_change": -85.3
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1104",
+  "facility_name": "Atikokan Generating Station",
+  "year_from": 2010,
+  "year_to": 2011,
+  "prev_t": 501183.0,
+  "curr_t": 77941.0,
+  "pct_change": -84.4
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10016",
+  "facility_name": "Atikokan Generating Station",
+  "year_from": 2010,
+  "year_to": 2011,
+  "prev_t": 501504.9,
+  "curr_t": 78023.2,
+  "pct_change": -84.4
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1148",
+  "facility_name": "Hamilton",
+  "year_from": 2010,
+  "year_to": 2011,
+  "prev_t": 2611837.0,
+  "curr_t": 418078.0,
+  "pct_change": -84.0
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1034",
+  "facility_name": "Maitland",
+  "year_from": 2010,
+  "year_to": 2012,
+  "prev_t": 19752.0,
+  "curr_t": 3190.0,
+  "pct_change": -83.8
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1014",
+  "facility_name": "Lake Superior Power",
+  "year_from": 2013,
+  "year_to": 2014,
+  "prev_t": 305658.0,
+  "curr_t": 49969.0,
+  "pct_change": -83.7
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10275",
+  "facility_name": "Hamilton",
+  "year_from": 2010,
+  "year_to": 2011,
+  "prev_t": 2625385.7,
+  "curr_t": 428838.0,
+  "pct_change": -83.7
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10335",
+  "facility_name": "Lake Superior Power",
+  "year_from": 2013,
+  "year_to": 2014,
+  "prev_t": 305854.0,
+  "curr_t": 50000.9,
+  "pct_change": -83.7
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1138",
+  "facility_name": "AV Terrace Bay",
+  "year_from": 2019,
+  "year_to": 2020,
+  "prev_t": 986760.0,
+  "curr_t": 168988.0,
+  "pct_change": -82.9
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10276",
+  "facility_name": "Lake Erie",
+  "year_from": 2008,
+  "year_to": 2009,
+  "prev_t": 3648782.0,
+  "curr_t": 666170.0,
+  "pct_change": -81.7
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1008",
+  "facility_name": "Nipigon Power Plant",
+  "year_from": 2022,
+  "year_to": 2023,
+  "prev_t": 1957.0,
+  "curr_t": 362.0,
+  "pct_change": -81.5
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10203",
+  "facility_name": "Nipigon Power Plant",
+  "year_from": 2022,
+  "year_to": 2023,
+  "prev_t": 1956.9,
+  "curr_t": 361.7,
+  "pct_change": -81.5
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1143",
+  "facility_name": "Ottawa Health Sciences Centre (OHSC) Cogeneration Facility",
+  "year_from": 2013,
+  "year_to": 2014,
+  "prev_t": 148139.0,
+  "curr_t": 28114.0,
+  "pct_change": -81.0
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10215",
+  "facility_name": "Ottawa Health Sciences Centre (OHSC) Cogeneration Facility",
+  "year_from": 2013,
+  "year_to": 2014,
+  "prev_t": 148040.6,
+  "curr_t": 28094.0,
+  "pct_change": -81.0
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1119",
+  "facility_name": "Fort Frances Division",
+  "year_from": 2013,
+  "year_to": 2014,
+  "prev_t": 171452.0,
+  "curr_t": 33326.0,
+  "pct_change": -80.6
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1019",
+  "facility_name": "Cardinal Power",
+  "year_from": 2014,
+  "year_to": 2015,
+  "prev_t": 421614.0,
+  "curr_t": 84803.0,
+  "pct_change": -79.9
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10047",
+  "facility_name": "Cardinal Power",
+  "year_from": 2014,
+  "year_to": 2015,
+  "prev_t": 421884.0,
+  "curr_t": 84823.6,
+  "pct_change": -79.9
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1098",
+  "facility_name": "Kirkland Lake Generating Station",
+  "year_from": 2021,
+  "year_to": 2022,
+  "prev_t": 212524.0,
+  "curr_t": 44555.0,
+  "pct_change": -79.0
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10212",
+  "facility_name": "Oakville Refinery",
+  "year_from": 2004,
+  "year_to": 2005,
+  "prev_t": 702357.5,
+  "curr_t": 155382.8,
+  "pct_change": -77.9
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10116",
+  "facility_name": "Fort Frances Division",
+  "year_from": 2013,
+  "year_to": 2014,
+  "prev_t": 135396.0,
+  "curr_t": 30500.2,
+  "pct_change": -77.5
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1099",
+  "facility_name": "Thorold Cogen Generating Station",
+  "year_from": 2016,
+  "year_to": 2017,
+  "prev_t": 241217.0,
+  "curr_t": 54519.0,
+  "pct_change": -77.4
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1015",
+  "facility_name": "Bruce Power",
+  "year_from": 2013,
+  "year_to": 2014,
+  "prev_t": 16215.0,
+  "curr_t": 3681.0,
+  "pct_change": -77.3
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10287",
+  "facility_name": "Thunder Bay Generating Station",
+  "year_from": 2008,
+  "year_to": 2009,
+  "prev_t": 832077.9,
+  "curr_t": 190283.4,
+  "pct_change": -77.1
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1373",
+  "facility_name": "Englehart Oriented Strand Board Plant",
+  "year_from": 2017,
+  "year_to": 2018,
+  "prev_t": 47745.0,
+  "curr_t": 11153.0,
+  "pct_change": -76.6
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10285",
+  "facility_name": "AV Terrace Bay",
+  "year_from": 2008,
+  "year_to": 2009,
+  "prev_t": 171951.3,
+  "curr_t": 40192.5,
+  "pct_change": -76.6
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G10622",
+  "facility_name": "Thorold Cogen Generating Station",
+  "year_from": 2016,
+  "year_to": 2017,
+  "prev_t": 221372.9,
+  "curr_t": 54242.5,
+  "pct_change": -75.5
+ },
+ {
+  "program": "ontario_ghg",
+  "facility_id": "1542",
+  "facility_name": "Belden Canada",
+  "year_from": 2023,
+  "year_to": 2024,
+  "prev_t": 15439.0,
+  "curr_t": 3791.0,
+  "pct_change": -75.4
+ },
+ {
+  "program": "federal_ghgrp",
+  "facility_id": "G12575",
+  "facility_name": "Belden Canada",
+  "year_from": 2023,
+  "year_to": 2024,
+  "prev_t": 15438.1,
+  "curr_t": 3790.3,
+  "pct_change": -75.4
+ }
+]

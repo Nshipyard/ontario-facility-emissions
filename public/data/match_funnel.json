@@ -1,0 +1,21 @@
+{
+ "funnel": [
+  {
+   "tier": "anchored",
+   "count": 458
+  },
+  {
+   "tier": "resolved",
+   "count": 0
+  },
+  {
+   "tier": "unmatched",
+   "count": 55
+  },
+  {
+   "tier": "quarantined",
+   "count": 0
+  }
+ ],
+ "note": "quarantined tier applies to EWRB building records (no building identifier published); facility spine rows are anchored/resolved/unmatched only."
+}

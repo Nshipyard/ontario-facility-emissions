@@ -1,0 +1,272 @@
+[
+ {
+  "rank": 1,
+  "spine_id": "ONF-000042",
+  "name": "Algoma Steel Inc",
+  "city": "Sault Ste. Marie",
+  "kt_co2e_2024": 4226.7,
+  "tier": "anchored",
+  "ghgrp_2024_t": 4226731.318
+ },
+ {
+  "rank": 2,
+  "spine_id": "ONF-000005",
+  "name": "ArcelorMittal Dofasco",
+  "city": "Hamilton",
+  "kt_co2e_2024": 4165.9,
+  "tier": "anchored",
+  "ghgrp_2024_t": 4164816.182
+ },
+ {
+  "rank": 3,
+  "spine_id": "ONF-000149",
+  "name": "Lake Erie",
+  "city": "Haldimand County",
+  "kt_co2e_2024": 3770.0,
+  "tier": "anchored",
+  "ghgrp_2024_t": 3769989.221
+ },
+ {
+  "rank": 4,
+  "spine_id": "ONF-000059",
+  "name": "Greenfield Energy Centre LP",
+  "city": "Courtright",
+  "kt_co2e_2024": 1723.2,
+  "tier": "anchored",
+  "ghgrp_2024_t": 1723218.36
+ },
+ {
+  "rank": 5,
+  "spine_id": "ONF-000147",
+  "name": "TransCanada Pipeline, Ontario",
+  "city": "Kenora",
+  "kt_co2e_2024": 1567.9,
+  "tier": "anchored",
+  "ghgrp_2024_t": 1567887.341
+ },
+ {
+  "rank": 6,
+  "spine_id": "ONF-000330",
+  "name": "Napanee Generating Station",
+  "city": "BATH",
+  "kt_co2e_2024": 1471.9,
+  "tier": "anchored",
+  "ghgrp_2024_t": 1471876.538
+ },
+ {
+  "rank": 7,
+  "spine_id": "ONF-000120",
+  "name": "Thunder Bay Operations",
+  "city": "Thunder Bay",
+  "kt_co2e_2024": 1384.3,
+  "tier": "anchored",
+  "ghgrp_2024_t": 202544.3922
+ },
+ {
+  "rank": 8,
+  "spine_id": "ONF-000074",
+  "name": "Sarnia Refinery Plant",
+  "city": "Sarnia",
+  "kt_co2e_2024": 1329.5,
+  "tier": "anchored",
+  "ghgrp_2024_t": 1329468.837
+ },
+ {
+  "rank": 9,
+  "spine_id": "ONF-000146",
+  "name": "Halton Hills Generating Station",
+  "city": "Halton Hills",
+  "kt_co2e_2024": 1208.3,
+  "tier": "anchored",
+  "ghgrp_2024_t": 1208341.268
+ },
+ {
+  "rank": 10,
+  "spine_id": "ONF-000144",
+  "name": "Sarnia Regional Cogeneration Facility",
+  "city": "Sarnia",
+  "kt_co2e_2024": 1186.9,
+  "tier": "anchored",
+  "ghgrp_2024_t": 1186861.005
+ },
+ {
+  "rank": 11,
+  "spine_id": "ONF-000057",
+  "name": "Goreway Power Station",
+  "city": "Brampton",
+  "kt_co2e_2024": 1173.9,
+  "tier": "anchored",
+  "ghgrp_2024_t": 1173946.903
+ },
+ {
+  "rank": 12,
+  "spine_id": "ONF-000116",
+  "name": "Portlands Energy Centre",
+  "city": "Toronto",
+  "kt_co2e_2024": 1065.3,
+  "tier": "anchored",
+  "ghgrp_2024_t": 1065290.01
+ },
+ {
+  "rank": 13,
+  "spine_id": "ONF-000069",
+  "name": "Mississauga Cement Plant",
+  "city": "Mississauga",
+  "kt_co2e_2024": 1044.9,
+  "tier": "anchored",
+  "ghgrp_2024_t": 1044899.597
+ },
+ {
+  "rank": 14,
+  "spine_id": "ONF-000072",
+  "name": "Imperial Oil Nanticoke Refinery",
+  "city": "Nanticoke",
+  "kt_co2e_2024": 1034.3,
+  "tier": "anchored",
+  "ghgrp_2024_t": 1034331.347
+ },
+ {
+  "rank": 15,
+  "spine_id": "ONF-000129",
+  "name": "Bowmanville Cement Plant",
+  "city": "Bowmanville",
+  "kt_co2e_2024": 980.5,
+  "tier": "anchored",
+  "ghgrp_2024_t": 926880.8351
+ },
+ {
+  "rank": 16,
+  "spine_id": "ONF-000100",
+  "name": "Corunna Site",
+  "city": "Corunna",
+  "kt_co2e_2024": 945.3,
+  "tier": "anchored",
+  "ghgrp_2024_t": 945275.4274
+ },
+ {
+  "rank": 17,
+  "spine_id": "ONF-000032",
+  "name": "Dryden Mill",
+  "city": "Dryden",
+  "kt_co2e_2024": 935.7,
+  "tier": "anchored",
+  "ghgrp_2024_t": 110473.8545
+ },
+ {
+  "rank": 18,
+  "spine_id": "ONF-000128",
+  "name": "St. Clair Energy Center",
+  "city": "Corunna",
+  "kt_co2e_2024": 847.3,
+  "tier": "anchored",
+  "ghgrp_2024_t": 847335.419
+ },
+ {
+  "rank": 19,
+  "spine_id": "ONF-000133",
+  "name": "Sarnia Refinery",
+  "city": "Sarnia",
+  "kt_co2e_2024": 790.0,
+  "tier": "anchored",
+  "ghgrp_2024_t": 790036.2945
+ },
+ {
+  "rank": 20,
+  "spine_id": "ONF-000012",
+  "name": "Brighton Beach Power",
+  "city": "Windsor",
+  "kt_co2e_2024": 781.5,
+  "tier": "anchored",
+  "ghgrp_2024_t": 781478.3936
+ },
+ {
+  "rank": 21,
+  "spine_id": "ONF-000125",
+  "name": "Sarnia Manufacturing Centre",
+  "city": "Corunna",
+  "kt_co2e_2024": 721.4,
+  "tier": "anchored",
+  "ghgrp_2024_t": 721363.9138
+ },
+ {
+  "rank": 22,
+  "spine_id": "ONF-000087",
+  "name": "Bath Cement Plant",
+  "city": "Bath",
+  "kt_co2e_2024": 678.0,
+  "tier": "anchored",
+  "ghgrp_2024_t": 668452.5745
+ },
+ {
+  "rank": 23,
+  "spine_id": "ONF-000137",
+  "name": "CF Industries Courtright Nitrogen Complex",
+  "city": "Courtright",
+  "kt_co2e_2024": 582.0,
+  "tier": "anchored",
+  "ghgrp_2024_t": 581958.3512
+ },
+ {
+  "rank": 24,
+  "spine_id": "ONF-000043",
+  "name": "Picton  Plant",
+  "city": "Picton",
+  "kt_co2e_2024": 560.4,
+  "tier": "anchored",
+  "ghgrp_2024_t": 560380.2624
+ },
+ {
+  "rank": 25,
+  "spine_id": "ONF-000130",
+  "name": "St. Marys Cement Plant",
+  "city": "St. Marys",
+  "kt_co2e_2024": 498.5,
+  "tier": "anchored",
+  "ghgrp_2024_t": 487806.2618
+ },
+ {
+  "rank": 26,
+  "spine_id": "ONF-000002",
+  "name": "Corunna Hydrogen Facility",
+  "city": "Corunna",
+  "kt_co2e_2024": 465.7,
+  "tier": "anchored",
+  "ghgrp_2024_t": 465659.9809
+ },
+ {
+  "rank": 27,
+  "spine_id": "ONF-000111",
+  "name": "Mississauga Lubricants Centre",
+  "city": "Mississauga",
+  "kt_co2e_2024": 438.5,
+  "tier": "anchored",
+  "ghgrp_2024_t": 438479.9088
+ },
+ {
+  "rank": 28,
+  "spine_id": "ONF-000099",
+  "name": "Thorold Cogen Generating Station",
+  "city": "Thorold",
+  "kt_co2e_2024": 421.8,
+  "tier": "anchored",
+  "ghgrp_2024_t": 421779.7282
+ },
+ {
+  "rank": 29,
+  "spine_id": "ONF-000335",
+  "name": "Enbridge Gas Inc. - Distribution",
+  "city": "North York",
+  "kt_co2e_2024": 421.1,
+  "tier": "anchored",
+  "ghgrp_2024_t": 421124.8116
+ },
+ {
+  "rank": 30,
+  "spine_id": "ONF-000161",
+  "name": "Sarnia Cogen Plant",
+  "city": "Sarnia",
+  "kt_co2e_2024": 400.9,
+  "tier": "anchored",
+  "ghgrp_2024_t": 400899.1302
+ }
+]

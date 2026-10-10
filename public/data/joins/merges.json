@@ -1,0 +1,6414 @@
+[
+ {
+  "ratio": 1.0,
+  "o_name": "ADM AGRI-INDUSTRIES - ADM Windsor",
+  "f_name": "ADM AGRI-INDUSTRIES - ADM Windsor",
+  "o_city": "Windsor",
+  "f_city": "Windsor",
+  "pair": [
+   "ADM AGRI INDUSTRIES ADM WINDSOR",
+   "ADM AGRI INDUSTRIES ADM WINDSOR"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1001,
+  "ghgrp_id": "G10416"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Corunna Hydrogen Facility",
+  "f_name": "Corunna Hydrogen Facility",
+  "o_city": "Corunna",
+  "f_city": "Corunna",
+  "pair": [
+   "CORUNNA HYDROGEN FACILITY",
+   "CORUNNA HYDROGEN FACILITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1002,
+  "ghgrp_id": "G10360"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Emerald Energy from Waste Inc.",
+  "f_name": "Emerald Energy from Waste Inc.",
+  "o_city": "Brampton",
+  "f_city": "Brampton",
+  "pair": [
+   "EMERALD ENERGY FROM WASTE",
+   "EMERALD ENERGY FROM WASTE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1003,
+  "ghgrp_id": "G10662"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Collingwood Ethanol",
+  "f_name": "Collingwood Ethanol",
+  "o_city": "Collingwood",
+  "f_city": "COLLINGWOOD",
+  "pair": [
+   "COLLINGWOOD ETHANOL",
+   "COLLINGWOOD ETHANOL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1004,
+  "ghgrp_id": "G10603"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "ArcelorMittal Dofasco",
+  "f_name": "ArcelorMittal Dofasco",
+  "o_city": "Hamilton",
+  "f_city": "Hamilton",
+  "pair": [
+   "ARCELORMITTAL DOFASCO",
+   "ARCELORMITTAL DOFASCO"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1005,
+  "ghgrp_id": "G10091"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "111 Progress",
+  "f_name": "111 Progress",
+  "o_city": "Scarborough",
+  "f_city": "Scarborough",
+  "pair": [
+   "111 PROGRESS",
+   "111 PROGRESS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1006,
+  "ghgrp_id": "G10663"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Kapuskasing Power Plant",
+  "f_name": "Kapuskasing Power Plant",
+  "o_city": "Kapuskasing",
+  "f_city": "Kapuskasing",
+  "pair": [
+   "KAPUSKASING POWER PLANT",
+   "KAPUSKASING POWER PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1007,
+  "ghgrp_id": "G10410"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Nipigon Power Plant",
+  "f_name": "Nipigon Power Plant",
+  "o_city": "Nipigon",
+  "f_city": "Nipigon",
+  "pair": [
+   "NIPIGON POWER PLANT",
+   "NIPIGON POWER PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1008,
+  "ghgrp_id": "G10203"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "North Bay Power Plant",
+  "f_name": "North Bay Power Plant",
+  "o_city": "North Bay",
+  "f_city": "North Bay",
+  "pair": [
+   "NORTH BAY POWER PLANT",
+   "NORTH BAY POWER PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1009,
+  "ghgrp_id": "G10432"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Tunis Power Plant",
+  "f_name": "Tunis Power Plant",
+  "o_city": "Tunis",
+  "f_city": "Tunis",
+  "pair": [
+   "TUNIS POWER PLANT",
+   "TUNIS POWER PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1010,
+  "ghgrp_id": "G10293"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Brampton Brick Limited",
+  "f_name": "Brampton Brick Limited",
+  "o_city": "Brampton",
+  "f_city": "Brampton",
+  "pair": [
+   "BRAMPTON BRICK",
+   "BRAMPTON BRICK"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1011,
+  "ghgrp_id": "G10664"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Brighton Beach Power",
+  "f_name": "Brighton Beach Power",
+  "o_city": "Windsor",
+  "f_city": "Windsor",
+  "pair": [
+   "BRIGHTON BEACH POWER",
+   "BRIGHTON BEACH POWER"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1012,
+  "ghgrp_id": "G10031"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Brock University",
+  "f_name": "Brock University",
+  "o_city": "St. Catharines",
+  "f_city": "St. Catharines",
+  "pair": [
+   "BROCK UNIVERSITY",
+   "BROCK UNIVERSITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1013,
+  "ghgrp_id": "G11882"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Lake Superior Power",
+  "f_name": "Lake Superior Power",
+  "o_city": "Sault Ste Marie",
+  "f_city": "SAULT STE MARIE",
+  "pair": [
+   "LAKE SUPERIOR POWER",
+   "LAKE SUPERIOR POWER"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1014,
+  "ghgrp_id": "G10335"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Bruce Power",
+  "f_name": "Bruce Power",
+  "o_city": "Tiverton",
+  "f_city": "TIVERTON",
+  "pair": [
+   "BRUCE POWER",
+   "BRUCE POWER"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1015,
+  "ghgrp_id": "G10422"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "BUNGE CANADA - HAMILTON",
+  "f_name": "BUNGE CANADA - HAMILTON",
+  "o_city": "HAMILTON",
+  "f_city": "HAMILTON",
+  "pair": [
+   "BUNGE CANADA HAMILTON",
+   "BUNGE CANADA HAMILTON"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1016,
+  "ghgrp_id": "G10423"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Cabot Canada Limited",
+  "f_name": "Cabot Canada Limited",
+  "o_city": "Sarnia",
+  "f_city": "Sarnia",
+  "pair": [
+   "CABOT",
+   "CABOT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1017,
+  "ghgrp_id": "G10039"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "CGC Hagersville Plant",
+  "f_name": "CGC Hagersville Plant",
+  "o_city": "Hagersville",
+  "f_city": "Hagersville",
+  "pair": [
+   "CGC HAGERSVILLE PLANT",
+   "CGC HAGERSVILLE PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1018,
+  "ghgrp_id": "G10427"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Cardinal Power",
+  "f_name": "Cardinal Power",
+  "o_city": "Cardinal",
+  "f_city": "Cardinal",
+  "pair": [
+   "CARDINAL POWER",
+   "CARDINAL POWER"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1019,
+  "ghgrp_id": "G10047"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Beachville Operation",
+  "f_name": "Beachville Operation",
+  "o_city": "Ingersoll",
+  "f_city": "Ingersoll",
+  "pair": [
+   "BEACHVILLE OPERATION",
+   "BEACHVILLE OPERATION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1020,
+  "ghgrp_id": "G10051"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Dundas Operations",
+  "f_name": "Dundas Operations",
+  "o_city": "Dundas",
+  "f_city": "Dundas",
+  "pair": [
+   "DUNDAS OPERATIONS",
+   "DUNDAS OPERATIONS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1021,
+  "ghgrp_id": "G10050"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Northern Lime Limited",
+  "f_name": "Northern Lime Limited",
+  "o_city": "Blind River",
+  "f_city": "Blind River",
+  "pair": [
+   "NORTHERN LIME",
+   "NORTHERN LIME"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1022,
+  "ghgrp_id": "G10043"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Cascades Containerboard Packaging, A Division of Cascades Canada ULC.",
+  "f_name": "Cascades Containerboard Packaging, A Division of Cascades Canada ULC.",
+  "o_city": "TRENTON",
+  "f_city": "TRENTON",
+  "pair": [
+   "CASCADES CONTAINERBOARD PACKAGING A DIVISION OF CASCADES",
+   "CASCADES CONTAINERBOARD PACKAGING A DIVISION OF CASCADES"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1023,
+  "ghgrp_id": "G10434"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Toronto Board Plant",
+  "f_name": "Toronto Board Plant",
+  "o_city": "Mississauga",
+  "f_city": "Mississauga",
+  "pair": [
+   "TORONTO BOARD PLANT",
+   "TORONTO BOARD PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1024,
+  "ghgrp_id": "G11854"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Brampton Assembly Plant",
+  "f_name": "Brampton Assembly Plant",
+  "o_city": "Brampton",
+  "f_city": "Brampton",
+  "pair": [
+   "BRAMPTON ASSEMBLY PLANT",
+   "BRAMPTON ASSEMBLY PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1025,
+  "ghgrp_id": "G10027"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "FCA Canada Inc. - Windsor Assembly Plant",
+  "f_name": "FCA Canada Inc. - Windsor Assembly Plant",
+  "o_city": "Windsor",
+  "f_city": "Windsor",
+  "pair": [
+   "FCA CANADA INC WINDSOR ASSEMBLY PLANT",
+   "FCA CANADA INC WINDSOR ASSEMBLY PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1026,
+  "ghgrp_id": "G11315"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Trail Road Waste Facility",
+  "f_name": "Trail Road Waste Facility",
+  "o_city": "Ottawa",
+  "f_city": "Ottawa",
+  "pair": [
+   "TRAIL ROAD WASTE FACILITY",
+   "TRAIL ROAD WASTE FACILITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1027,
+  "ghgrp_id": "G10348"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "East Wastewater Treatment Plant",
+  "f_name": "East Wastewater Treatment Plant",
+  "o_city": "Sault Ste. Marie",
+  "f_city": "SAULT STE. MARIE",
+  "pair": [
+   "EAST WASTEWATER TREATMENT PLANT",
+   "EAST WASTEWATER TREATMENT PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1028,
+  "ghgrp_id": "G10600"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Clean Harbors Canada Inc. [Corunna]",
+  "f_name": "Clean Harbors Canada Inc. [Corunna]",
+  "o_city": "Corunna",
+  "f_city": "Corunna",
+  "pair": [
+   "CLEAN HARBORS CANADA INC CORUNNA",
+   "CLEAN HARBORS CANADA INC CORUNNA"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1029,
+  "ghgrp_id": "G10602"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Birla Carbon Canada Ltd.",
+  "f_name": "Birla Carbon Canada Ltd.",
+  "o_city": "Hamilton",
+  "f_city": "Hamilton",
+  "pair": [
+   "BIRLA CARBON",
+   "BIRLA CARBON"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1030,
+  "ghgrp_id": "G10133"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Descor Industries Inc.",
+  "f_name": "Descor Industries Inc.",
+  "o_city": "Markham",
+  "f_city": "Markham",
+  "pair": [
+   "DESCOR INDUSTRIES",
+   "DESCOR INDUSTRIES"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1031,
+  "ghgrp_id": "G10605"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Dryden Mill",
+  "f_name": "Dryden Mill",
+  "o_city": "Dryden",
+  "f_city": "Dryden",
+  "pair": [
+   "DRYDEN MILL",
+   "DRYDEN MILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1032,
+  "ghgrp_id": "G10318"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Espanola Mill",
+  "f_name": "Espanola Mill",
+  "o_city": "Espanola",
+  "f_city": "Espanola",
+  "pair": [
+   "ESPANOLA MILL",
+   "ESPANOLA MILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1033,
+  "ghgrp_id": "G10093"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Maitland",
+  "f_name": "Maitland",
+  "o_city": "Maitland",
+  "f_city": "MAITLAND",
+  "pair": [
+   "MAITLAND",
+   "MAITLAND"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1034,
+  "ghgrp_id": "G10331"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "East Windsor Cogeneration Centre",
+  "f_name": "East Windsor Cogeneration Centre",
+  "o_city": "Windsor",
+  "f_city": "Windsor",
+  "pair": [
+   "EAST WINDSOR COGENERATION CENTRE",
+   "EAST WINDSOR COGENERATION CENTRE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1035,
+  "ghgrp_id": "G10453"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Enbridge Gas Distribution Inc.",
+  "f_name": "Enbridge Gas Distribution Inc.",
+  "o_city": "North York",
+  "f_city": "NORTH YORK",
+  "pair": [
+   "ENBRIDGE GAS DISTRIBUTION",
+   "ENBRIDGE GAS DISTRIBUTION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1038,
+  "ghgrp_id": "G10109"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Pearl Street Steam Plant",
+  "f_name": "Pearl Street Steam Plant",
+  "o_city": "TORONTO",
+  "f_city": "TORONTO",
+  "pair": [
+   "PEARL STREET STEAM PLANT",
+   "PEARL STREET STEAM PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1039,
+  "ghgrp_id": "G10459"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Walton Street Steam Plant",
+  "f_name": "Walton Street Steam Plant",
+  "o_city": "TORONTO",
+  "f_city": "TORONTO",
+  "pair": [
+   "WALTON STREET STEAM PLANT",
+   "WALTON STREET STEAM PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1040,
+  "ghgrp_id": "G10460"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Essar Power Canada Ltd",
+  "f_name": "Essar Power Canada Ltd",
+  "o_city": "Sault Ste. Marie",
+  "f_city": "SAULT STE. MARIE",
+  "pair": [
+   "ESSAR POWER",
+   "ESSAR POWER"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1041,
+  "ghgrp_id": "G10462"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Algoma Steel Inc",
+  "f_name": "Algoma Steel Inc",
+  "o_city": "Sault Ste. Marie",
+  "f_city": "Sault Ste. Marie",
+  "pair": [
+   "ALGOMA STEEL",
+   "ALGOMA STEEL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1042,
+  "ghgrp_id": "G10011"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Picton  Plant",
+  "f_name": "Picton  Plant",
+  "o_city": "Picton",
+  "f_city": "Picton",
+  "pair": [
+   "PICTON PLANT",
+   "PICTON PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1043,
+  "ghgrp_id": "G10223"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Fanshawe College of Applied Arts and Technology",
+  "f_name": "Fanshawe College of Applied Arts and Technology",
+  "o_city": "London",
+  "f_city": "London",
+  "pair": [
+   "FANSHAWE COLLEGE OF APPLIED ARTS AND TECHNOLOGY",
+   "FANSHAWE COLLEGE OF APPLIED ARTS AND TECHNOLOGY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1044,
+  "ghgrp_id": "G10677"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Woodstock Plant",
+  "f_name": "Woodstock Plant",
+  "o_city": "Woodstock",
+  "f_city": "Woodstock",
+  "pair": [
+   "WOODSTOCK PLANT",
+   "WOODSTOCK PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1045,
+  "ghgrp_id": "G10114"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Flakeboard Company Limited",
+  "f_name": "Flakeboard Company Limited",
+  "o_city": "Sault Ste Marie",
+  "f_city": "Sault Ste Marie",
+  "pair": [
+   "FLAKEBOARD",
+   "FLAKEBOARD"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1046,
+  "ghgrp_id": "G10466"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Ford Oakville Assembly Complex",
+  "f_name": "Ford Oakville Assembly Complex",
+  "o_city": "Oakville",
+  "f_city": "Oakville",
+  "pair": [
+   "FORD OAKVILLE ASSEMBLY COMPLEX",
+   "FORD OAKVILLE ASSEMBLY COMPLEX"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1047,
+  "ghgrp_id": "G10467"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "London District Energy",
+  "f_name": "London District Energy",
+  "o_city": "LONDON",
+  "f_city": "LONDON",
+  "pair": [
+   "LONDON DISTRICT ENERGY",
+   "LONDON DISTRICT ENERGY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1049,
+  "ghgrp_id": "G10608"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "West Windsor Power",
+  "f_name": "West Windsor Power",
+  "o_city": "Windsor",
+  "f_city": "Windsor",
+  "pair": [
+   "WEST WINDSOR POWER",
+   "WEST WINDSOR POWER"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1051,
+  "ghgrp_id": "G10315"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "CAMI Assembly Plant",
+  "f_name": "CAMI Assembly Plant",
+  "o_city": "Ingersoll",
+  "f_city": "Ingersoll",
+  "pair": [
+   "CAMI ASSEMBLY PLANT",
+   "CAMI ASSEMBLY PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1052,
+  "ghgrp_id": "G11132"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Oshawa Assembly Plant",
+  "f_name": "Oshawa Assembly Plant",
+  "o_city": "Oshawa",
+  "f_city": "Oshawa",
+  "pair": [
+   "OSHAWA ASSEMBLY PLANT",
+   "OSHAWA ASSEMBLY PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1053,
+  "ghgrp_id": "G10213"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Gerdau Ameristeel Corporation, Cambridge Mill",
+  "f_name": "Gerdau Ameristeel Corporation, Cambridge Mill",
+  "o_city": "Cambridge",
+  "f_city": "Cambridge",
+  "pair": [
+   "GERDAU AMERISTEEL CORPORATION CAMBRIDGE MILL",
+   "GERDAU AMERISTEEL CORPORATION CAMBRIDGE MILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1054,
+  "ghgrp_id": "G10738"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Gerdau Ameristeel Corporation, Whitby Mill",
+  "f_name": "Gerdau Ameristeel Corporation, Whitby Mill",
+  "o_city": "Whitby",
+  "f_city": "Whitby",
+  "pair": [
+   "GERDAU AMERISTEEL CORPORATION WHITBY MILL",
+   "GERDAU AMERISTEEL CORPORATION WHITBY MILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1055,
+  "ghgrp_id": "G10128"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Musselwhite Mine",
+  "f_name": "Musselwhite Mine",
+  "o_city": "N/A Concession, Kenora District",
+  "f_city": "N/A Concession, Kenora District",
+  "pair": [
+   "MUSSELWHITE MINE",
+   "MUSSELWHITE MINE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1056,
+  "ghgrp_id": "G10468"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Goreway Power Station",
+  "f_name": "Goreway Power Station",
+  "o_city": "Brampton",
+  "f_city": "Brampton",
+  "pair": [
+   "GOREWAY POWER STATION",
+   "GOREWAY POWER STATION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1057,
+  "ghgrp_id": "G10469"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Toronto Pearson International Airport",
+  "f_name": "Toronto Pearson International Airport",
+  "o_city": "Mississauga",
+  "f_city": "Mississauga",
+  "pair": [
+   "TORONTO PEARSON INTERNATIONAL AIRPORT",
+   "TORONTO PEARSON INTERNATIONAL AIRPORT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1058,
+  "ghgrp_id": "G10366"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Greenfield Energy Centre LP",
+  "f_name": "Greenfield Energy Centre LP",
+  "o_city": "Courtright",
+  "f_city": "Courtright",
+  "pair": [
+   "GREENFIELD ENERGY CENTRE",
+   "GREENFIELD ENERGY CENTRE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1059,
+  "ghgrp_id": "G10407"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Chatham",
+  "f_name": "Chatham",
+  "o_city": "Chatham",
+  "f_city": "Chatham",
+  "pair": [
+   "CHATHAM",
+   "CHATHAM"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1060,
+  "ghgrp_id": "G10075"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Johnstown",
+  "f_name": "Johnstown",
+  "o_city": "Johnstown",
+  "f_city": "Johnstown",
+  "pair": [
+   "JOHNSTOWN",
+   "JOHNSTOWN"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1061,
+  "ghgrp_id": "G10472"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Highbury Canco Corporation",
+  "f_name": "Highbury Canco Corporation",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "HIGHBURY CANCO",
+   "HIGHBURY CANCO"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1062,
+  "ghgrp_id": "G10612"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "McMaster University Medical Centre Co-generation Plant",
+  "f_name": "McMaster University Medical Centre Co-generation Plant",
+  "o_city": "HAMITON",
+  "f_city": "HAMITON",
+  "pair": [
+   "MCMASTER UNIVERSITY MEDICAL CENTRE CO GENERATION PLANT",
+   "MCMASTER UNIVERSITY MEDICAL CENTRE CO GENERATION PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1063,
+  "ghgrp_id": "G11773"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Canada Brick - Aldershot",
+  "f_name": "Canada Brick - Aldershot",
+  "o_city": "ALDERSHOT",
+  "f_city": "ALDERSHOT",
+  "pair": [
+   "CANADA BRICK ALDERSHOT",
+   "CANADA BRICK ALDERSHOT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1065,
+  "ghgrp_id": "G10928"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Canada Brick - Burlington",
+  "f_name": "Canada Brick - Burlington",
+  "o_city": "BURLINGTON",
+  "f_city": "BURLINGTON",
+  "pair": [
+   "CANADA BRICK BURLINGTON",
+   "CANADA BRICK BURLINGTON"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1066,
+  "ghgrp_id": "G10927"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Walkerville",
+  "f_name": "Walkerville",
+  "o_city": "Windsor",
+  "f_city": "Windsor",
+  "pair": [
+   "WALKERVILLE",
+   "WALKERVILLE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1068,
+  "ghgrp_id": "G10351"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Mississauga Cement Plant",
+  "f_name": "Mississauga Cement Plant",
+  "o_city": "Mississauga",
+  "f_city": "Mississauga",
+  "pair": [
+   "MISSISSAUGA CEMENT PLANT",
+   "MISSISSAUGA CEMENT PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1069,
+  "ghgrp_id": "G10192"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Honda of Canada Mfg.",
+  "f_name": "Honda of Canada Mfg.",
+  "o_city": "Alliston",
+  "f_city": "Alliston",
+  "pair": [
+   "HONDA OF CANADA MFG",
+   "HONDA OF CANADA MFG"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1070,
+  "ghgrp_id": "G10710"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Imperial Oil Nanticoke Refinery",
+  "f_name": "Imperial Oil Nanticoke Refinery",
+  "o_city": "Nanticoke",
+  "f_city": "Nanticoke",
+  "pair": [
+   "IMPERIAL OIL NANTICOKE REFINERY",
+   "IMPERIAL OIL NANTICOKE REFINERY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1072,
+  "ghgrp_id": "G10199"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Sarnia Chemical Plant",
+  "f_name": "Sarnia Chemical Plant",
+  "o_city": "Sarnia",
+  "f_city": "Sarnia",
+  "pair": [
+   "SARNIA CHEMICAL PLANT",
+   "SARNIA CHEMICAL PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1073,
+  "ghgrp_id": "G10250"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Sarnia Refinery Plant",
+  "f_name": "Sarnia Refinery Plant",
+  "o_city": "Sarnia",
+  "f_city": "Sarnia",
+  "pair": [
+   "SARNIA REFINERY PLANT",
+   "SARNIA REFINERY PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1074,
+  "ghgrp_id": "G10255"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Ingredion Canada Corporation",
+  "f_name": "Ingredion Canada Corporation",
+  "o_city": "Cardinal",
+  "f_city": "Cardinal",
+  "pair": [
+   "INGREDION",
+   "INGREDION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1075,
+  "ghgrp_id": "G11081"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Ingredion Canada Incorporated - London Plant",
+  "f_name": "Ingredion Canada Incorporated - London Plant",
+  "o_city": "London",
+  "f_city": "London",
+  "pair": [
+   "INGREDION CANADA INCORPORATED LONDON PLANT",
+   "INGREDION CANADA INCORPORATED LONDON PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1076,
+  "ghgrp_id": "G10057"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Ingredion Canada Incorporated  - Port Colborne Plant",
+  "f_name": "Ingredion Canada Incorporated  - Port Colborne Plant",
+  "o_city": "Port Colborne",
+  "f_city": "PORT COLBORNE",
+  "pair": [
+   "INGREDION CANADA INCORPORATED PORT COLBORNE PLANT",
+   "INGREDION CANADA INCORPORATED PORT COLBORNE PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1077,
+  "ghgrp_id": "G10425"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Innophos Canada, Inc.",
+  "f_name": "Innophos Canada, Inc.",
+  "o_city": "Lowbanks",
+  "f_city": "Lowbanks",
+  "pair": [
+   "INNOPHOS",
+   "INNOPHOS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1078,
+  "ghgrp_id": "G11821"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "IGPC Ethanol Inc.",
+  "f_name": "IGPC Ethanol Inc.",
+  "o_city": "Aylmer",
+  "f_city": "Aylmer",
+  "pair": [
+   "IGPC ETHANOL",
+   "IGPC ETHANOL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1079,
+  "ghgrp_id": "G10478"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Biorigin Specialty Products",
+  "f_name": "Biorigin Specialty Products",
+  "o_city": "St. Catharines",
+  "f_city": "St. Catharines",
+  "pair": [
+   "BIORIGIN SPECIALTY PRODUCTS",
+   "BIORIGIN SPECIALTY PRODUCTS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1080,
+  "ghgrp_id": "G11018"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Kingston Site",
+  "f_name": "Kingston Site",
+  "o_city": "Kingston",
+  "f_city": "Kingston",
+  "pair": [
+   "KINGSTON SITE",
+   "KINGSTON SITE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1081,
+  "ghgrp_id": "G10479"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "INVISTA (Canada) Company-Maitland Site",
+  "f_name": "INVISTA (Canada) Company-Maitland Site",
+  "o_city": "Maitland",
+  "f_city": "Maitland",
+  "pair": [
+   "INVISTA CANADA COMPANY MAITLAND SITE",
+   "INVISTA CANADA COMPANY MAITLAND SITE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1082,
+  "ghgrp_id": "G10149"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Irving Consumer Products Limited",
+  "f_name": "Irving Consumer Products Limited",
+  "o_city": "TORONTO",
+  "f_city": "TORONTO",
+  "pair": [
+   "IRVING CONSUMER PRODUCTS",
+   "IRVING CONSUMER PRODUCTS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1083,
+  "ghgrp_id": "G10481"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Ivaco Rolling Mills",
+  "f_name": "Ivaco Rolling Mills",
+  "o_city": "L'Orignal",
+  "f_city": "L'Orignal",
+  "pair": [
+   "IVACO ROLLING MILLS",
+   "IVACO ROLLING MILLS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1084,
+  "ghgrp_id": "G10614"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Jungbunzlauer Canada Inc.",
+  "f_name": "Jungbunzlauer Canada Inc.",
+  "o_city": "Port Colborne",
+  "f_city": "Port Colborne",
+  "pair": [
+   "JUNGBUNZLAUER",
+   "JUNGBUNZLAUER"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1085,
+  "ghgrp_id": "G10482"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Labatt Brewing Company Ltd",
+  "f_name": "Labatt Brewing Company Ltd",
+  "o_city": "London",
+  "f_city": "London",
+  "pair": [
+   "LABATT BREWING",
+   "LABATT BREWING"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1086,
+  "ghgrp_id": "G12170"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Bath Cement Plant",
+  "f_name": "Bath Cement Plant",
+  "o_city": "Bath",
+  "f_city": "Bath",
+  "pair": [
+   "BATH CEMENT PLANT",
+   "BATH CEMENT PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1087,
+  "ghgrp_id": "G10171"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Victoria Hospital",
+  "f_name": "Victoria Hospital",
+  "o_city": "London",
+  "f_city": "London",
+  "pair": [
+   "VICTORIA HOSPITAL",
+   "VICTORIA HOSPITAL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1090,
+  "ghgrp_id": "G11322"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Moorefield",
+  "f_name": "Moorefield",
+  "o_city": "Moorefield",
+  "f_city": "Moorefield",
+  "pair": [
+   "MOOREFIELD",
+   "MOOREFIELD"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1091,
+  "ghgrp_id": "G11028"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Maple Lodge Farms",
+  "f_name": "Maple Lodge Farms",
+  "o_city": "Brampton",
+  "f_city": "Brampton",
+  "pair": [
+   "MAPLE LODGE FARMS",
+   "MAPLE LODGE FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1092,
+  "ghgrp_id": "G11041"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "WINDSOR ALUMINUM PLANT",
+  "f_name": "WINDSOR ALUMINUM PLANT",
+  "o_city": "Windsor",
+  "f_city": "Windsor",
+  "pair": [
+   "WINDSOR ALUMINUM PLANT",
+   "WINDSOR ALUMINUM PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1093,
+  "ghgrp_id": "G11126"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "New Forest Paper Mills LP",
+  "f_name": "New Forest Paper Mills LP",
+  "o_city": "Scarborough",
+  "f_city": "Scarborough",
+  "pair": [
+   "NEW FOREST PAPER MILLS",
+   "NEW FOREST PAPER MILLS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1094,
+  "ghgrp_id": "G10621"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Cochrane Generating Station",
+  "f_name": "Cochrane Generating Station",
+  "o_city": "Cochrane",
+  "f_city": "Cochrane",
+  "pair": [
+   "COCHRANE GENERATING STATION",
+   "COCHRANE GENERATING STATION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1095,
+  "ghgrp_id": "G10072"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Iroquois Falls Generating Station",
+  "f_name": "Iroquois Falls Generating Station",
+  "o_city": "Iroquois Falls",
+  "f_city": "Iroquois Falls",
+  "pair": [
+   "IROQUOIS FALLS GENERATING STATION",
+   "IROQUOIS FALLS GENERATING STATION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1096,
+  "ghgrp_id": "G10151"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Kingston CoGen",
+  "f_name": "Kingston CoGen",
+  "o_city": "Bath",
+  "f_city": "Bath",
+  "pair": [
+   "KINGSTON COGEN",
+   "KINGSTON COGEN"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1097,
+  "ghgrp_id": "G10004"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Kirkland Lake Generating Station",
+  "f_name": "Kirkland Lake Generating Station",
+  "o_city": "Kirkland Lake",
+  "f_city": "Kirkland Lake",
+  "pair": [
+   "KIRKLAND LAKE GENERATING STATION",
+   "KIRKLAND LAKE GENERATING STATION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1098,
+  "ghgrp_id": "G10165"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Thorold Cogen Generating Station",
+  "f_name": "Thorold Cogen Generating Station",
+  "o_city": "Thorold",
+  "f_city": "Thorold",
+  "pair": [
+   "THOROLD COGEN GENERATING STATION",
+   "THOROLD COGEN GENERATING STATION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1099,
+  "ghgrp_id": "G10622"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Corunna Site",
+  "f_name": "Corunna Site",
+  "o_city": "Corunna",
+  "f_city": "Corunna",
+  "pair": [
+   "CORUNNA SITE",
+   "CORUNNA SITE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1100,
+  "ghgrp_id": "G10208"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Moore Site",
+  "f_name": "Moore Site",
+  "o_city": "Mooretown",
+  "f_city": "Mooretown",
+  "pair": [
+   "MOORE SITE",
+   "MOORE SITE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1101,
+  "ghgrp_id": "G10501"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "St. Clair River Site",
+  "f_name": "St. Clair River Site",
+  "o_city": "Corunna",
+  "f_city": "Corunna",
+  "pair": [
+   "ST CLAIR RIVER SITE",
+   "ST CLAIR RIVER SITE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1102,
+  "ghgrp_id": "G10210"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Plant #31 Brampton",
+  "f_name": "Plant #31 Brampton",
+  "o_city": "Brampton",
+  "f_city": "Brampton",
+  "pair": [
+   "PLANT 31 BRAMPTON",
+   "PLANT 31 BRAMPTON"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1103,
+  "ghgrp_id": "G10373"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Atikokan Generating Station",
+  "f_name": "Atikokan Generating Station",
+  "o_city": "Atikokan",
+  "f_city": "Atikokan",
+  "pair": [
+   "ATIKOKAN GENERATING STATION",
+   "ATIKOKAN GENERATING STATION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1104,
+  "ghgrp_id": "G10016"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Lambton Generating Station",
+  "f_name": "Lambton Generating Station",
+  "o_city": "Courtright",
+  "f_city": "COURTRIGHT",
+  "pair": [
+   "LAMBTON GENERATING STATION",
+   "LAMBTON GENERATING STATION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1105,
+  "ghgrp_id": "G10175"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Lennox Generating Station",
+  "f_name": "Lennox Generating Station",
+  "o_city": "Greater Napanee",
+  "f_city": "Greater Napanee",
+  "pair": [
+   "LENNOX GENERATING STATION",
+   "LENNOX GENERATING STATION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1106,
+  "ghgrp_id": "G10177"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Nanticoke Generating Station",
+  "f_name": "Nanticoke Generating Station",
+  "o_city": "Nanticoke",
+  "f_city": "NANTICOKE",
+  "pair": [
+   "NANTICOKE GENERATING STATION",
+   "NANTICOKE GENERATING STATION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1107,
+  "ghgrp_id": "G10198"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Thunder Bay Generating Station",
+  "f_name": "Thunder Bay Generating Station",
+  "o_city": "Thunder Bay",
+  "f_city": "THUNDER BAY",
+  "pair": [
+   "THUNDER BAY GENERATING STATION",
+   "THUNDER BAY GENERATING STATION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1108,
+  "ghgrp_id": "G10287"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Niagara PVC Plant",
+  "f_name": "Niagara PVC Plant",
+  "o_city": "Thorold",
+  "f_city": "Thorold",
+  "pair": [
+   "NIAGARA PVC PLANT",
+   "NIAGARA PVC PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1109,
+  "ghgrp_id": "G11759"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Mississauga Lubricants Centre",
+  "f_name": "Mississauga Lubricants Centre",
+  "o_city": "Mississauga",
+  "f_city": "Mississauga",
+  "pair": [
+   "MISSISSAUGA LUBRICANTS CENTRE",
+   "MISSISSAUGA LUBRICANTS CENTRE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1111,
+  "ghgrp_id": "G10191"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Sarnia Fractionation Plant",
+  "f_name": "Sarnia Fractionation Plant",
+  "o_city": "Sarnia",
+  "f_city": "Sarnia",
+  "pair": [
+   "SARNIA FRACTIONATION PLANT",
+   "SARNIA FRACTIONATION PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1113,
+  "ghgrp_id": "G10252"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Plasco Trail Road",
+  "f_name": "Plasco Trail Road",
+  "o_city": "Ottawa",
+  "f_city": "OTTAWA",
+  "pair": [
+   "PLASCO TRAIL ROAD",
+   "PLASCO TRAIL ROAD"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1114,
+  "ghgrp_id": "G10532"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Portlands Energy Centre",
+  "f_name": "Portlands Energy Centre",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "PORTLANDS ENERGY CENTRE",
+   "PORTLANDS ENERGY CENTRE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1116,
+  "ghgrp_id": "G10413"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Queen's University - Kingston Main Campus",
+  "f_name": "Queen's University - Kingston Main Campus",
+  "o_city": "Kingston",
+  "f_city": "Kingston",
+  "pair": [
+   "QUEEN S UNIVERSITY KINGSTON MAIN CAMPUS",
+   "QUEEN S UNIVERSITY KINGSTON MAIN CAMPUS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1117,
+  "ghgrp_id": "G11134"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Toronto Refinery",
+  "f_name": "Toronto Refinery",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "TORONTO REFINERY",
+   "TORONTO REFINERY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1118,
+  "ghgrp_id": "G10537"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Fort Frances Division",
+  "f_name": "Fort Frances Division",
+  "o_city": "Fort Frances",
+  "f_city": "FORT FRANCES",
+  "pair": [
+   "FORT FRANCES DIVISION",
+   "FORT FRANCES DIVISION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1119,
+  "ghgrp_id": "G10116"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Thunder Bay Operations",
+  "f_name": "Thunder Bay Operations",
+  "o_city": "Thunder Bay",
+  "f_city": "Thunder Bay",
+  "pair": [
+   "THUNDER BAY OPERATIONS",
+   "THUNDER BAY OPERATIONS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1120,
+  "ghgrp_id": "G10025"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "ROXUL Inc.",
+  "f_name": "ROXUL Inc.",
+  "o_city": "Milton",
+  "f_city": "Milton",
+  "pair": [
+   "ROXUL",
+   "ROXUL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1121,
+  "ghgrp_id": "G10697"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Oil Recovery Division",
+  "f_name": "Oil Recovery Division",
+  "o_city": "Breslau",
+  "f_city": "Breslau",
+  "pair": [
+   "OIL RECOVERY DIVISION",
+   "OIL RECOVERY DIVISION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1122,
+  "ghgrp_id": "G10994"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Sanofi Pasteur Limited",
+  "f_name": "Sanofi Pasteur Limited",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "SANOFI PASTEUR",
+   "SANOFI PASTEUR"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1123,
+  "ghgrp_id": "G10634"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "West End Water Pollution Control Plant",
+  "f_name": "West End Water Pollution Control Plant",
+  "o_city": "Sault Ste. Marie",
+  "f_city": "SAULT STE. MARIE",
+  "pair": [
+   "WEST END WATER POLLUTION CONTROL PLANT",
+   "WEST END WATER POLLUTION CONTROL PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1124,
+  "ghgrp_id": "G10636"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Sarnia Manufacturing Centre",
+  "f_name": "Sarnia Manufacturing Centre",
+  "o_city": "Corunna",
+  "f_city": "Corunna",
+  "pair": [
+   "SARNIA MANUFACTURING CENTRE",
+   "SARNIA MANUFACTURING CENTRE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1125,
+  "ghgrp_id": "G10253"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Sonoco Brantford",
+  "f_name": "Sonoco Brantford",
+  "o_city": "Brantford",
+  "f_city": "Brantford",
+  "pair": [
+   "SONOCO BRANTFORD",
+   "SONOCO BRANTFORD"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1126,
+  "ghgrp_id": "G11092"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Sonoco - Trent Valley Mill",
+  "f_name": "Sonoco - Trent Valley Mill",
+  "o_city": "Trenton",
+  "f_city": "Trenton",
+  "pair": [
+   "SONOCO TRENT VALLEY MILL",
+   "SONOCO TRENT VALLEY MILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1127,
+  "ghgrp_id": "G11094"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "St. Clair Energy Center",
+  "f_name": "St. Clair Energy Center",
+  "o_city": "Corunna",
+  "f_city": "Corunna",
+  "pair": [
+   "ST CLAIR ENERGY CENTER",
+   "ST CLAIR ENERGY CENTER"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1128,
+  "ghgrp_id": "G10554"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Bowmanville Cement Plant",
+  "f_name": "Bowmanville Cement Plant",
+  "o_city": "Bowmanville",
+  "f_city": "Bowmanville",
+  "pair": [
+   "BOWMANVILLE CEMENT PLANT",
+   "BOWMANVILLE CEMENT PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1129,
+  "ghgrp_id": "G10273"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "St. Marys Cement Plant",
+  "f_name": "St. Marys Cement Plant",
+  "o_city": "St. Marys",
+  "f_city": "St. Marys",
+  "pair": [
+   "ST MARYS CEMENT PLANT",
+   "ST MARYS CEMENT PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1130,
+  "ghgrp_id": "G10274"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Strathcona Paper LP",
+  "f_name": "Strathcona Paper LP",
+  "o_city": "Napanee",
+  "f_city": "Napanee",
+  "pair": [
+   "STRATHCONA PAPER",
+   "STRATHCONA PAPER"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1131,
+  "ghgrp_id": "G11106"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "INEOS Styrolution",
+  "f_name": "INEOS Styrolution",
+  "o_city": "Sarnia",
+  "f_city": "Sarnia",
+  "pair": [
+   "INEOS STYROLUTION",
+   "INEOS STYROLUTION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1132,
+  "ghgrp_id": "G10209"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Sarnia Refinery",
+  "f_name": "Sarnia Refinery",
+  "o_city": "Sarnia",
+  "f_city": "Sarnia",
+  "pair": [
+   "SARNIA REFINERY",
+   "SARNIA REFINERY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1133,
+  "ghgrp_id": "G10254"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "St. Clair Ethanol Plant",
+  "f_name": "St. Clair Ethanol Plant",
+  "o_city": "Mooretown",
+  "f_city": "Mooretown",
+  "pair": [
+   "ST CLAIR ETHANOL PLANT",
+   "ST CLAIR ETHANOL PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1134,
+  "ghgrp_id": "G10559"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Kapuskasing Paper Mill",
+  "f_name": "Kapuskasing Paper Mill",
+  "o_city": "Kapuskasing",
+  "f_city": "Kapuskasing",
+  "pair": [
+   "KAPUSKASING PAPER MILL",
+   "KAPUSKASING PAPER MILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1135,
+  "ghgrp_id": "G11212"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Tenaris Algoma Tubes",
+  "f_name": "Tenaris Algoma Tubes",
+  "o_city": "Sault Ste. Marie",
+  "f_city": "Sault Ste. Marie",
+  "pair": [
+   "TENARIS ALGOMA TUBES",
+   "TENARIS ALGOMA TUBES"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1136,
+  "ghgrp_id": "G10643"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "CF Industries Courtright Nitrogen Complex",
+  "f_name": "CF Industries Courtright Nitrogen Complex",
+  "o_city": "Courtright",
+  "f_city": "Courtright",
+  "pair": [
+   "CF INDUSTRIES COURTRIGHT NITROGEN COMPLEX",
+   "CF INDUSTRIES COURTRIGHT NITROGEN COMPLEX"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1137,
+  "ghgrp_id": "G10283"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "AV Terrace Bay",
+  "f_name": "AV Terrace Bay",
+  "o_city": "Terrace Bay",
+  "f_city": "Terrace Bay",
+  "pair": [
+   "AV TERRACE BAY",
+   "AV TERRACE BAY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1138,
+  "ghgrp_id": "G10285"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Agincourt Plant",
+  "f_name": "Agincourt Plant",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "AGINCOURT PLANT",
+   "AGINCOURT PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1139,
+  "ghgrp_id": "G11742"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Toyota Motor Manufacturing Canada Inc. (Cambridge)",
+  "f_name": "Toyota Motor Manufacturing Canada Inc. (Cambridge)",
+  "o_city": "Cambridge",
+  "f_city": "Cambridge",
+  "pair": [
+   "TOYOTA MOTOR MANUFACTURING CANADA INC CAMBRIDGE",
+   "TOYOTA MOTOR MANUFACTURING CANADA INC CAMBRIDGE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1140,
+  "ghgrp_id": "G10564"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Toyota Motor Manufacturing Canada Inc. (Woodstock)",
+  "f_name": "Toyota Motor Manufacturing Canada Inc. (Woodstock)",
+  "o_city": "Woodstock",
+  "f_city": "Woodstock",
+  "pair": [
+   "TOYOTA MOTOR MANUFACTURING CANADA INC WOODSTOCK",
+   "TOYOTA MOTOR MANUFACTURING CANADA INC WOODSTOCK"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1141,
+  "ghgrp_id": "G11172"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Mississauga Cogeneration Plant",
+  "f_name": "Mississauga Cogeneration Plant",
+  "o_city": "Mississauga",
+  "f_city": "MISSISSAUGA",
+  "pair": [
+   "MISSISSAUGA COGENERATION PLANT",
+   "MISSISSAUGA COGENERATION PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1142,
+  "ghgrp_id": "G10190"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Ottawa Health Sciences Centre (OHSC) Cogeneration Facility",
+  "f_name": "Ottawa Health Sciences Centre (OHSC) Cogeneration Facility",
+  "o_city": "Ottawa",
+  "f_city": "Ottawa",
+  "pair": [
+   "OTTAWA HEALTH SCIENCES CENTRE OHSC COGENERATION FACILITY",
+   "OTTAWA HEALTH SCIENCES CENTRE OHSC COGENERATION FACILITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1143,
+  "ghgrp_id": "G10215"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Sarnia Regional Cogeneration Facility",
+  "f_name": "Sarnia Regional Cogeneration Facility",
+  "o_city": "Sarnia",
+  "f_city": "Sarnia",
+  "pair": [
+   "SARNIA REGIONAL COGENERATION FACILITY",
+   "SARNIA REGIONAL COGENERATION FACILITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1144,
+  "ghgrp_id": "G10256"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Windsor Essex Cogeneration Plant",
+  "f_name": "Windsor Essex Cogeneration Plant",
+  "o_city": "Windsor",
+  "f_city": "Windsor",
+  "pair": [
+   "WINDSOR ESSEX COGENERATION PLANT",
+   "WINDSOR ESSEX COGENERATION PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1145,
+  "ghgrp_id": "G10323"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Halton Hills Generating Station",
+  "f_name": "Halton Hills Generating Station",
+  "o_city": "Halton Hills",
+  "f_city": "Halton Hills",
+  "pair": [
+   "HALTON HILLS GENERATING STATION",
+   "HALTON HILLS GENERATING STATION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1146,
+  "ghgrp_id": "G10646"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "TransCanada Pipeline, Ontario",
+  "f_name": "TransCanada Pipeline, Ontario",
+  "o_city": "Kenora",
+  "f_city": "Kenora",
+  "pair": [
+   "TRANSCANADA PIPELINE",
+   "TRANSCANADA PIPELINE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1147,
+  "ghgrp_id": "G10163"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Hamilton",
+  "f_name": "Hamilton",
+  "o_city": "Hamilton",
+  "f_city": "Hamilton",
+  "pair": [
+   "HAMILTON",
+   "HAMILTON"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1148,
+  "ghgrp_id": "G10275"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Lake Erie",
+  "f_name": "Lake Erie",
+  "o_city": "Haldimand County",
+  "f_city": "Haldimand County",
+  "pair": [
+   "LAKE ERIE",
+   "LAKE ERIE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1149,
+  "ghgrp_id": "G10276"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "UG - Natural Gas Transmission and Distribution",
+  "f_name": "UG - Natural Gas Transmission and Distribution",
+  "o_city": "Chatham",
+  "f_city": "CHATHAM",
+  "pair": [
+   "UG NATURAL GAS TRANSMISSION AND DISTRIBUTION",
+   "UG NATURAL GAS TRANSMISSION AND DISTRIBUTION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1150,
+  "ghgrp_id": "G10200"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Guelph Campus",
+  "f_name": "Guelph Campus",
+  "o_city": "Guelph",
+  "f_city": "Guelph",
+  "pair": [
+   "GUELPH CAMPUS",
+   "GUELPH CAMPUS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1151,
+  "ghgrp_id": "G10808"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "St George Campus",
+  "f_name": "St George Campus",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "ST GEORGE CAMPUS",
+   "ST GEORGE CAMPUS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1152,
+  "ghgrp_id": "G10648"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Main Campus",
+  "f_name": "Main Campus",
+  "o_city": "London",
+  "f_city": "London",
+  "pair": [
+   "MAIN CAMPUS",
+   "MAIN CAMPUS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1153,
+  "ghgrp_id": "G10644"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Copper Cliff Nickel Refinery",
+  "f_name": "Copper Cliff Nickel Refinery",
+  "o_city": "Copper Cliff",
+  "f_city": "COPPER CLIFF",
+  "pair": [
+   "COPPER CLIFF NICKEL REFINERY",
+   "COPPER CLIFF NICKEL REFINERY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1154,
+  "ghgrp_id": "G10077"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Copper Cliff Smelter",
+  "f_name": "Copper Cliff Smelter",
+  "o_city": "Copper Cliff",
+  "f_city": "Copper Cliff",
+  "pair": [
+   "COPPER CLIFF SMELTER",
+   "COPPER CLIFF SMELTER"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1155,
+  "ghgrp_id": "G10078"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Whitby Cogeneration",
+  "f_name": "Whitby Cogeneration",
+  "o_city": "WHITBY",
+  "f_city": "WHITBY",
+  "pair": [
+   "WHITBY COGENERATION",
+   "WHITBY COGENERATION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1156,
+  "ghgrp_id": "G10319"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Kidd Metallurgical Site",
+  "f_name": "Kidd Metallurgical Site",
+  "o_city": "TIMMINS/DISTRICT OF COCHRANE",
+  "f_city": "TIMMINS/DISTRICT OF COCHRANE",
+  "pair": [
+   "KIDD METALLURGICAL SITE",
+   "KIDD METALLURGICAL SITE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1157,
+  "ghgrp_id": "G10164"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Sudbury Integrated Nickel Operations Smelter",
+  "f_name": "Sudbury Integrated Nickel Operations Smelter",
+  "o_city": "Falconbridge",
+  "f_city": "Falconbridge",
+  "pair": [
+   "SUDBURY INTEGRATED NICKEL OPERATIONS SMELTER",
+   "SUDBURY INTEGRATED NICKEL OPERATIONS SMELTER"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1158,
+  "ghgrp_id": "G10398"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Keele Campus",
+  "f_name": "Keele Campus",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "KEELE CAMPUS",
+   "KEELE CAMPUS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1159,
+  "ghgrp_id": "G10652"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "York Energy Centre",
+  "f_name": "York Energy Centre",
+  "o_city": "Newmarket",
+  "f_city": "Newmarket",
+  "pair": [
+   "YORK ENERGY CENTRE",
+   "YORK ENERGY CENTRE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1160,
+  "ghgrp_id": "G10729"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Sarnia Cogen Plant",
+  "f_name": "Sarnia Cogen Plant",
+  "o_city": "Sarnia",
+  "f_city": "Sarnia",
+  "pair": [
+   "SARNIA COGEN PLANT",
+   "SARNIA COGEN PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1161,
+  "ghgrp_id": "G10251"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Glanbrook Landfill Site",
+  "f_name": "Glanbrook Landfill Site",
+  "o_city": "Hamilton",
+  "f_city": "Hamilton",
+  "pair": [
+   "GLANBROOK LANDFILL SITE",
+   "GLANBROOK LANDFILL SITE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1162,
+  "ghgrp_id": "G10332"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Tiverton",
+  "f_name": "Tiverton",
+  "o_city": "Tiverton",
+  "f_city": "Tiverton",
+  "pair": [
+   "TIVERTON",
+   "TIVERTON"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1163,
+  "ghgrp_id": "G10415"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "POLYCON INDUSTRIES",
+  "f_name": "POLYCON INDUSTRIES",
+  "o_city": "Guelph",
+  "f_city": "Guelph",
+  "pair": [
+   "POLYCON INDUSTRIES",
+   "POLYCON INDUSTRIES"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1164,
+  "ghgrp_id": "G11795"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "University of Windsor",
+  "f_name": "University of Windsor",
+  "o_city": "WINDSOR",
+  "f_city": "WINDSOR",
+  "pair": [
+   "UNIVERSITY OF WINDSOR",
+   "UNIVERSITY OF WINDSOR"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1165,
+  "ghgrp_id": "G10567"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Rain Carbon Canada Inc.",
+  "f_name": "Rain Carbon Canada Inc.",
+  "o_city": "Hamilton",
+  "f_city": "Hamilton",
+  "pair": [
+   "RAIN CARBON",
+   "RAIN CARBON"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1166,
+  "ghgrp_id": "G11097"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Kawartha Ethanol Inc.",
+  "f_name": "Kawartha Ethanol Inc.",
+  "o_city": "Havelock",
+  "f_city": "Havelock",
+  "pair": [
+   "KAWARTHA ETHANOL",
+   "KAWARTHA ETHANOL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1167,
+  "ghgrp_id": "G10683"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Copper Cliff Mining, Smelting and Refining Complex",
+  "f_name": "Copper Cliff Mining, Smelting and Refining Complex",
+  "o_city": "Copper Cliff",
+  "f_city": "Copper Cliff",
+  "pair": [
+   "COPPER CLIFF MINING SMELTING AND REFINING COMPLEX",
+   "COPPER CLIFF MINING SMELTING AND REFINING COMPLEX"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1168,
+  "ghgrp_id": "G12298"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Magellan Aerospace, Haley",
+  "f_name": "Magellan Aerospace, Haley",
+  "o_city": "HALEY",
+  "f_city": "HALEY",
+  "pair": [
+   "MAGELLAN AEROSPACE HALEY",
+   "MAGELLAN AEROSPACE HALEY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1169,
+  "ghgrp_id": "G10493"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "MCMASTER UNIVERSITY",
+  "f_name": "MCMASTER UNIVERSITY",
+  "o_city": "HAMILTON",
+  "f_city": "HAMILTON",
+  "pair": [
+   "MCMASTER UNIVERSITY",
+   "MCMASTER UNIVERSITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1170,
+  "ghgrp_id": "G11142"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Real Alloy Mississauga",
+  "f_name": "Real Alloy Mississauga",
+  "o_city": "Mississauga",
+  "f_city": "Mississauga",
+  "pair": [
+   "REAL ALLOY MISSISSAUGA",
+   "REAL ALLOY MISSISSAUGA"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1171,
+  "ghgrp_id": "G11042"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Etobicoke Casting Plant",
+  "f_name": "Etobicoke Casting Plant",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "ETOBICOKE CASTING PLANT",
+   "ETOBICOKE CASTING PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1172,
+  "ghgrp_id": "G11243"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "ConAgra DMAT ULC",
+  "f_name": "ConAgra DMAT ULC",
+  "o_city": "Dresden",
+  "f_city": "Dresden",
+  "pair": [
+   "CONAGRA DMAT",
+   "CONAGRA DMAT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1174,
+  "ghgrp_id": "G12614"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Plant #1",
+  "f_name": "Plant #1",
+  "o_city": "Stoney Creek",
+  "f_city": "Stoney Creek",
+  "pair": [
+   "PLANT 1",
+   "PLANT 1"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1175,
+  "ghgrp_id": "G11769"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "University of Waterloo-GHG",
+  "f_name": "University of Waterloo-GHG",
+  "o_city": "Waterloo",
+  "f_city": "Waterloo",
+  "pair": [
+   "UNIVERSITY OF WATERLOO GHG",
+   "UNIVERSITY OF WATERLOO GHG"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1176,
+  "ghgrp_id": "G11800"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Dundas",
+  "f_name": "Dundas",
+  "o_city": "Dundas",
+  "f_city": "Dundas",
+  "pair": [
+   "DUNDAS",
+   "DUNDAS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1177,
+  "ghgrp_id": "G11729"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Durham York Energy Centre",
+  "f_name": "Durham York Energy Centre",
+  "o_city": "Courtice",
+  "f_city": "Courtice",
+  "pair": [
+   "DURHAM YORK ENERGY CENTRE",
+   "DURHAM YORK ENERGY CENTRE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1178,
+  "ghgrp_id": "G10805"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Carleton university",
+  "f_name": "Carleton university",
+  "o_city": "Ottawa",
+  "f_city": "Ottawa",
+  "pair": [
+   "CARLETON UNIVERSITY",
+   "CARLETON UNIVERSITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1179,
+  "ghgrp_id": "G11745"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "North York Division",
+  "f_name": "North York Division",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "NORTH YORK DIVISION",
+   "NORTH YORK DIVISION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1180,
+  "ghgrp_id": "G11718"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Physical Resources Service",
+  "f_name": "Physical Resources Service",
+  "o_city": "Ottawa",
+  "f_city": "Ottawa",
+  "pair": [
+   "PHYSICAL RESOURCES SERVICE",
+   "PHYSICAL RESOURCES SERVICE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1181,
+  "ghgrp_id": "G11822"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "PLANT 051 - Toronto",
+  "f_name": "PLANT 051 - Toronto",
+  "o_city": "ETOBICOKE",
+  "f_city": "ETOBICOKE",
+  "pair": [
+   "PLANT 051 TORONTO",
+   "PLANT 051 TORONTO"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1182,
+  "ghgrp_id": "G10593"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Toronto Facility",
+  "f_name": "Toronto Facility",
+  "o_city": "Mississauga",
+  "f_city": "Mississauga",
+  "pair": [
+   "TORONTO FACILITY",
+   "TORONTO FACILITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1183,
+  "ghgrp_id": "G12182"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Roseburg Forest Products Canada Ltd. (Pembroke MDF)",
+  "f_name": "Roseburg Forest Products Canada Ltd. (Pembroke MDF)",
+  "o_city": "Pembroke",
+  "f_city": "Pembroke",
+  "pair": [
+   "ROSEBURG FOREST PRODUCTS CANADA LTD PEMBROKE MDF",
+   "ROSEBURG FOREST PRODUCTS CANADA LTD PEMBROKE MDF"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1184,
+  "ghgrp_id": "G11034"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Great Lakes Copper Ltd.",
+  "f_name": "Great Lakes Copper Ltd.",
+  "o_city": "London",
+  "f_city": "London",
+  "pair": [
+   "GREAT LAKES COPPER",
+   "GREAT LAKES COPPER"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1185,
+  "ghgrp_id": "G11046"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "ArcelorMittal long Products Canada - Hamilton East",
+  "f_name": "ArcelorMittal long Products Canada - Hamilton East",
+  "o_city": "Hamilton",
+  "f_city": "Hamilton",
+  "pair": [
+   "ARCELORMITTAL LONG PRODUCTS CANADA HAMILTON EAST",
+   "ARCELORMITTAL LONG PRODUCTS CANADA HAMILTON EAST"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1186,
+  "ghgrp_id": "G11765"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Juravinski Hospital and Cancer Center Cogeneration Plant",
+  "f_name": "Juravinski Hospital and Cancer Center Cogeneration Plant",
+  "o_city": "Hamilton",
+  "f_city": "Hamilton",
+  "pair": [
+   "JURAVINSKI HOSPITAL AND CANCER CENTER COGENERATION PLANT",
+   "JURAVINSKI HOSPITAL AND CANCER CENTER COGENERATION PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1187,
+  "ghgrp_id": "G11774"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Hamilton General Hospital Cogeneration Plant",
+  "f_name": "Hamilton General Hospital Cogeneration Plant",
+  "o_city": "Hamilton",
+  "f_city": "Hamilton",
+  "pair": [
+   "HAMILTON GENERAL HOSPITAL COGENERATION PLANT",
+   "HAMILTON GENERAL HOSPITAL COGENERATION PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1188,
+  "ghgrp_id": "G11775"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Port Colborne Refinery",
+  "f_name": "Port Colborne Refinery",
+  "o_city": "Port Colborne",
+  "f_city": "Port Colborne",
+  "pair": [
+   "PORT COLBORNE REFINERY",
+   "PORT COLBORNE REFINERY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1189,
+  "ghgrp_id": "G11723"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "ARLANXEO Butyl",
+  "f_name": "ARLANXEO Butyl",
+  "o_city": "Sarnia",
+  "f_city": "Sarnia",
+  "pair": [
+   "ARLANXEO BUTYL",
+   "ARLANXEO BUTYL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1191,
+  "ghgrp_id": "G11793"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Sudbury Operations Mines Mill - Onaping Area",
+  "f_name": "Sudbury Operations Mines Mill - Onaping Area",
+  "o_city": "Onaping",
+  "f_city": "Onaping",
+  "pair": [
+   "SUDBURY OPERATIONS MINES MILL ONAPING AREA",
+   "SUDBURY OPERATIONS MINES MILL ONAPING AREA"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1192,
+  "ghgrp_id": "G10580"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Red Lake Operation",
+  "f_name": "Red Lake Operation",
+  "o_city": "Balmertown",
+  "f_city": "Balmertown",
+  "pair": [
+   "RED LAKE OPERATION",
+   "RED LAKE OPERATION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1193,
+  "ghgrp_id": "G10902"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Apotex Inc. Etobicoke Site",
+  "f_name": "Apotex Inc. Etobicoke Site",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "APOTEX INC ETOBICOKE SITE",
+   "APOTEX INC ETOBICOKE SITE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1194,
+  "ghgrp_id": "G11013"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Agriville Farms Ltd",
+  "f_name": "Agriville Farms Ltd",
+  "o_city": "Kingsville",
+  "f_city": "Kingsville",
+  "pair": [
+   "AGRIVILLE FARMS",
+   "AGRIVILLE FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1195,
+  "ghgrp_id": "G11839"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Mucci Farms Ltd.",
+  "f_name": "Mucci Farms Ltd.",
+  "o_city": "Kingsville",
+  "f_city": "Kingsville",
+  "pair": [
+   "MUCCI FARMS",
+   "MUCCI FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1196,
+  "ghgrp_id": "G11836"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Southshore Greenhouses Inc.",
+  "f_name": "Southshore Greenhouses Inc.",
+  "o_city": "Kingsville",
+  "f_city": "Kingsville",
+  "pair": [
+   "SOUTHSHORE GREENHOUSES",
+   "SOUTHSHORE GREENHOUSES"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1197,
+  "ghgrp_id": "G11840"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Porcupine Gold Mines",
+  "f_name": "Porcupine Gold Mines",
+  "o_city": "South Porcupine",
+  "f_city": "South Porcupine",
+  "pair": [
+   "PORCUPINE GOLD MINES",
+   "PORCUPINE GOLD MINES"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1198,
+  "ghgrp_id": "G10924"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Greenhill Produce (2)",
+  "f_name": "Greenhill Produce (2)",
+  "o_city": "Kent Bridge",
+  "f_city": "Kent Bridge",
+  "pair": [
+   "GREENHILL PRODUCE 2",
+   "GREENHILL PRODUCE 2"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1199,
+  "ghgrp_id": "G11801"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Elmira Facility",
+  "f_name": "Elmira Facility",
+  "o_city": "Elmira",
+  "f_city": "Elmira",
+  "pair": [
+   "ELMIRA FACILITY",
+   "ELMIRA FACILITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1200,
+  "ghgrp_id": "G12292"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Great Northern Hydroponics",
+  "f_name": "Great Northern Hydroponics",
+  "o_city": "Kingsville",
+  "f_city": "Kingsville",
+  "pair": [
+   "GREAT NORTHERN HYDROPONICS",
+   "GREAT NORTHERN HYDROPONICS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1201,
+  "ghgrp_id": "G11786"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Twin Peaks Hydroponics Inc.",
+  "f_name": "Twin Peaks Hydroponics Inc.",
+  "o_city": "Kingsville",
+  "f_city": "Kingsville",
+  "pair": [
+   "TWIN PEAKS HYDROPONICS",
+   "TWIN PEAKS HYDROPONICS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1203,
+  "ghgrp_id": "G11785"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "1808278 Ontario Inc.",
+  "f_name": "1808278 Ontario Inc.",
+  "o_city": "Kingsville",
+  "f_city": "Kingsville",
+  "pair": [
+   "1808278",
+   "1808278"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1204,
+  "ghgrp_id": "G11784"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "DiCiocco Farms Eastside Inc.",
+  "f_name": "DiCiocco Farms Eastside Inc.",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "DICIOCCO FARMS EASTSIDE",
+   "DICIOCCO FARMS EASTSIDE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1205,
+  "ghgrp_id": "G11783"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Cervini Farms (1993) Inc.",
+  "f_name": "Cervini Farms (1993) Inc.",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "CERVINI FARMS 1993",
+   "CERVINI FARMS 1993"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1206,
+  "ghgrp_id": "G11782"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Collingwood Distillery",
+  "f_name": "Collingwood Distillery",
+  "o_city": "Collingwood",
+  "f_city": "Collingwood",
+  "pair": [
+   "COLLINGWOOD DISTILLERY",
+   "COLLINGWOOD DISTILLERY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1207,
+  "ghgrp_id": "G10667"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Enwave Windsor Limited Parnership",
+  "f_name": "Enwave Windsor Limited Parnership",
+  "o_city": "WINDSOR",
+  "f_city": "WINDSOR",
+  "pair": [
+   "ENWAVE WINDSOR LIMITED PARNERSHIP",
+   "ENWAVE WINDSOR LIMITED PARNERSHIP"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1208,
+  "ghgrp_id": "G11811"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Johnson Electric Canada Ltd. - Stratford",
+  "f_name": "Johnson Electric Canada Ltd. - Stratford",
+  "o_city": "Stratford",
+  "f_city": "Stratford",
+  "pair": [
+   "JOHNSON ELECTRIC CANADA LTD STRATFORD",
+   "JOHNSON ELECTRIC CANADA LTD STRATFORD"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1209,
+  "ghgrp_id": "G11812"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "AMCO Farms Inc.",
+  "f_name": "AMCO Farms Inc.",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "AMCO FARMS",
+   "AMCO FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1210,
+  "ghgrp_id": "G11792"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Timmins Micronizing Plant",
+  "f_name": "Timmins Micronizing Plant",
+  "o_city": "Timmins",
+  "f_city": "Timmins",
+  "pair": [
+   "TIMMINS MICRONIZING PLANT",
+   "TIMMINS MICRONIZING PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1212,
+  "ghgrp_id": "G10912"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "617885 Ontario Limited o/a Jem Farms",
+  "f_name": "617885 Ontario Limited o/a Jem Farms",
+  "o_city": "Ruthven",
+  "f_city": "Ruthven",
+  "pair": [
+   "617885 ONTARIO LIMITED O A JEM FARMS",
+   "617885 ONTARIO LIMITED O A JEM FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1213,
+  "ghgrp_id": "G11778"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Green Rise Foods Inc.",
+  "f_name": "Green Rise Foods Inc.",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "GREEN RISE FOODS",
+   "GREEN RISE FOODS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1214,
+  "ghgrp_id": "G11780"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Orangeline Farms Limited",
+  "f_name": "Orangeline Farms Limited",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "ORANGELINE FARMS",
+   "ORANGELINE FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1215,
+  "ghgrp_id": "G11779"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "The Ottawa Hospital - Civic campus",
+  "f_name": "The Ottawa Hospital - Civic campus",
+  "o_city": "Ottawa",
+  "f_city": "Ottawa",
+  "pair": [
+   "THE OTTAWA HOSPITAL CIVIC CAMPUS",
+   "THE OTTAWA HOSPITAL CIVIC CAMPUS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1216,
+  "ghgrp_id": "G11796"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "1329606 Ontario Limited",
+  "f_name": "1329606 Ontario Limited",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "1329606",
+   "1329606"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1217,
+  "ghgrp_id": "G11834"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Great Lakes Greenhouses Inc.",
+  "f_name": "Great Lakes Greenhouses Inc.",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "GREAT LAKES GREENHOUSES",
+   "GREAT LAKES GREENHOUSES"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1218,
+  "ghgrp_id": "G11849"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Goodyear Canada Inc.",
+  "f_name": "Goodyear Canada Inc.",
+  "o_city": "Napanee",
+  "f_city": "Napanee",
+  "pair": [
+   "GOODYEAR",
+   "GOODYEAR"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1219,
+  "ghgrp_id": "G11102"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "KUNTZ ELECTROPLATING INC.",
+  "f_name": "KUNTZ ELECTROPLATING INC.",
+  "o_city": "Kitchener",
+  "f_city": "Kitchener",
+  "pair": [
+   "KUNTZ ELECTROPLATING",
+   "KUNTZ ELECTROPLATING"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1220,
+  "ghgrp_id": "G10982"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Sunrite Greenhouses Ltd",
+  "f_name": "Sunrite Greenhouses Ltd",
+  "o_city": "Kingsville",
+  "f_city": "Kingsville",
+  "pair": [
+   "SUNRITE GREENHOUSES",
+   "SUNRITE GREENHOUSES"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1221,
+  "ghgrp_id": "G11851"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Nature Fresh Plant 1",
+  "f_name": "Nature Fresh Plant 1",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "NATURE FRESH PLANT 1",
+   "NATURE FRESH PLANT 1"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1222,
+  "ghgrp_id": "G11843"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Nature Fresh Plant 2",
+  "f_name": "Nature Fresh Plant 2",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "NATURE FRESH PLANT 2",
+   "NATURE FRESH PLANT 2"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1223,
+  "ghgrp_id": "G11844"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Zochem",
+  "f_name": "Zochem",
+  "o_city": "Brampton",
+  "f_city": "Brampton",
+  "pair": [
+   "ZOCHEM",
+   "ZOCHEM"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1224,
+  "ghgrp_id": "G11841"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "ARCELORMITTAL WINDSOR A DIVISION OF ARCELORMITTAL DOFASCO G.P.",
+  "f_name": "ARCELORMITTAL WINDSOR A DIVISION OF ARCELORMITTAL DOFASCO G.P.",
+  "o_city": "Windsor",
+  "f_city": "Windsor",
+  "pair": [
+   "ARCELORMITTAL WINDSOR A DIVISION OF ARCELORMITTAL DOFASCO G P",
+   "ARCELORMITTAL WINDSOR A DIVISION OF ARCELORMITTAL DOFASCO G P"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1225,
+  "ghgrp_id": "G11750"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Sunnybrook Health Sciences Centre",
+  "f_name": "Sunnybrook Health Sciences Centre",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "SUNNYBROOK HEALTH SCIENCES CENTRE",
+   "SUNNYBROOK HEALTH SCIENCES CENTRE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1226,
+  "ghgrp_id": "G11490"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Ecotex Healthcare Linen Service LP",
+  "f_name": "Ecotex Healthcare Linen Service LP",
+  "o_city": "Mississauga",
+  "f_city": "Mississauga",
+  "pair": [
+   "ECOTEX HEALTHCARE LINEN SERVICE",
+   "ECOTEX HEALTHCARE LINEN SERVICE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1227,
+  "ghgrp_id": "G11789"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Pomas Farms Inc.",
+  "f_name": "Pomas Farms Inc.",
+  "o_city": "Staples",
+  "f_city": "Staples",
+  "pair": [
+   "POMAS FARMS",
+   "POMAS FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1228,
+  "ghgrp_id": "G11837"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "IKO Madoc",
+  "f_name": "IKO Madoc",
+  "o_city": "MADOC",
+  "f_city": "MADOC",
+  "pair": [
+   "IKO MADOC",
+   "IKO MADOC"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1229,
+  "ghgrp_id": "G11827"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "IKO Hawkesbury",
+  "f_name": "IKO Hawkesbury",
+  "o_city": "HAWKESBURY",
+  "f_city": "HAWKESBURY",
+  "pair": [
+   "IKO HAWKESBURY",
+   "IKO HAWKESBURY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1230,
+  "ghgrp_id": "G11826"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Platinum Produce",
+  "f_name": "Platinum Produce",
+  "o_city": "Blenheim",
+  "f_city": "Blenheim",
+  "pair": [
+   "PLATINUM PRODUCE",
+   "PLATINUM PRODUCE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1231,
+  "ghgrp_id": "G11846"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Kapital Produce Ltd",
+  "f_name": "Kapital Produce Ltd",
+  "o_city": "Ruthven",
+  "f_city": "Ruthven",
+  "pair": [
+   "KAPITAL PRODUCE",
+   "KAPITAL PRODUCE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1232,
+  "ghgrp_id": "G11845"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "St. David's Hydroponics",
+  "f_name": "St. David's Hydroponics",
+  "o_city": "Niagara on the Lake",
+  "f_city": "Niagara on the Lake",
+  "pair": [
+   "ST DAVID S HYDROPONICS",
+   "ST DAVID S HYDROPONICS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1233,
+  "ghgrp_id": "G11747"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Kimberly Clark, Huntsville Mill",
+  "f_name": "Kimberly Clark, Huntsville Mill",
+  "o_city": "Huntsville",
+  "f_city": "Huntsville",
+  "pair": [
+   "KIMBERLY CLARK HUNTSVILLE MILL",
+   "KIMBERLY CLARK HUNTSVILLE MILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1234,
+  "ghgrp_id": "G11158"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "FORMET INDUSTRIES",
+  "f_name": "FORMET INDUSTRIES",
+  "o_city": "St Thomas",
+  "f_city": "St Thomas",
+  "pair": [
+   "FORMET INDUSTRIES",
+   "FORMET INDUSTRIES"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1235,
+  "ghgrp_id": "G11059"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "MSSC Canada",
+  "f_name": "MSSC Canada",
+  "o_city": "Chatham",
+  "f_city": "Chatham",
+  "pair": [
+   "MSSC",
+   "MSSC"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1236,
+  "ghgrp_id": "G10830"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Valbruna ASW Inc.",
+  "f_name": "Valbruna ASW Inc.",
+  "o_city": "Welland",
+  "f_city": "Welland",
+  "pair": [
+   "VALBRUNA ASW",
+   "VALBRUNA ASW"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1237,
+  "ghgrp_id": "G11368"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "H&A Graham #3",
+  "f_name": "H&A Graham #3",
+  "o_city": "Kingsville",
+  "f_city": "Kingsville",
+  "pair": [
+   "H AND A GRAHAM 3",
+   "H AND A GRAHAM 3"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1238,
+  "ghgrp_id": "G12219"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "J.C. Fresh Farms Ltd.",
+  "f_name": "J.C. Fresh Farms Ltd.",
+  "o_city": "Kingsville",
+  "f_city": "Kingsville",
+  "pair": [
+   "J C FRESH FARMS",
+   "J C FRESH FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1239,
+  "ghgrp_id": "G11847"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "BIOX Canada Limited",
+  "f_name": "BIOX Canada Limited",
+  "o_city": "Hamilton",
+  "f_city": "Hamilton",
+  "pair": [
+   "BIOX",
+   "BIOX"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1240,
+  "ghgrp_id": "G10991"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Sun Gro Farms Inc.",
+  "f_name": "Sun Gro Farms Inc.",
+  "o_city": "Kingsville",
+  "f_city": "Kingsville",
+  "pair": [
+   "SUN GRO FARMS",
+   "SUN GRO FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1241,
+  "ghgrp_id": "G11838"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Hendrickson Springs",
+  "f_name": "Hendrickson Springs",
+  "o_city": "Stratford",
+  "f_city": "Stratford",
+  "pair": [
+   "HENDRICKSON SPRINGS",
+   "HENDRICKSON SPRINGS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1242,
+  "ghgrp_id": "G10141"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Brockville Activated Alumina Plant",
+  "f_name": "Brockville Activated Alumina Plant",
+  "o_city": "Brockville",
+  "f_city": "Brockville",
+  "pair": [
+   "BROCKVILLE ACTIVATED ALUMINA PLANT",
+   "BROCKVILLE ACTIVATED ALUMINA PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1243,
+  "ghgrp_id": "G11716"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Canadian General-Tower Ltd.",
+  "f_name": "Canadian General-Tower Ltd.",
+  "o_city": "Cambridge",
+  "f_city": "Cambridge",
+  "pair": [
+   "CANADIAN GENERAL TOWER",
+   "CANADIAN GENERAL TOWER"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1244,
+  "ghgrp_id": "G11060"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Panolam Industries Ltd./Daiken North America Ltd.",
+  "f_name": "Panolam Industries Ltd./Daiken North America Ltd.",
+  "o_city": "Huntsville",
+  "f_city": "Huntsville",
+  "pair": [
+   "PANOLAM INDUSTRIES LTD DAIKEN NORTH AMERICA",
+   "PANOLAM INDUSTRIES LTD DAIKEN NORTH AMERICA"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1245,
+  "ghgrp_id": "G11073"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Warden Energy Centre",
+  "f_name": "Warden Energy Centre",
+  "o_city": "Markham",
+  "f_city": "Markham",
+  "pair": [
+   "WARDEN ENERGY CENTRE",
+   "WARDEN ENERGY CENTRE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1246,
+  "ghgrp_id": "G11159"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Matalco Canada Inc.",
+  "f_name": "Matalco Canada Inc.",
+  "o_city": "BRAMPTON",
+  "f_city": "BRAMPTON",
+  "pair": [
+   "MATALCO",
+   "MATALCO"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1247,
+  "ghgrp_id": "G11020"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Cambridge Manufacturing",
+  "f_name": "Cambridge Manufacturing",
+  "o_city": "Cambridge",
+  "f_city": "Cambridge",
+  "pair": [
+   "CAMBRIDGE MANUFACTURING",
+   "CAMBRIDGE MANUFACTURING"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1248,
+  "ghgrp_id": "G11824"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Toronto Brewery",
+  "f_name": "Toronto Brewery",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "TORONTO BREWERY",
+   "TORONTO BREWERY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1249,
+  "ghgrp_id": "G11026"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Levesque Plywood Ltd.",
+  "f_name": "Levesque Plywood Ltd.",
+  "o_city": "Hearst",
+  "f_city": "Hearst",
+  "pair": [
+   "LEVESQUE PLYWOOD",
+   "LEVESQUE PLYWOOD"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1250,
+  "ghgrp_id": "G11855"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "GENPAK MISSISSAUGA",
+  "f_name": "GENPAK MISSISSAUGA",
+  "o_city": "Mississauga",
+  "f_city": "Mississauga",
+  "pair": [
+   "GENPAK MISSISSAUGA",
+   "GENPAK MISSISSAUGA"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1251,
+  "ghgrp_id": "G11813"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Hartmann North America",
+  "f_name": "Hartmann North America",
+  "o_city": "Brantford",
+  "f_city": "Brantford",
+  "pair": [
+   "HARTMANN NORTH AMERICA",
+   "HARTMANN NORTH AMERICA"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1252,
+  "ghgrp_id": "G11084"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "St. Joseph's Healthcare Hamilton",
+  "f_name": "St. Joseph's Healthcare Hamilton",
+  "o_city": "Hamilton",
+  "f_city": "HAMILTON",
+  "pair": [
+   "ST JOSEPH S HEALTHCARE HAMILTON",
+   "ST JOSEPH S HEALTHCARE HAMILTON"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1254,
+  "ghgrp_id": "G11753"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Brantford Facility",
+  "f_name": "Brantford Facility",
+  "o_city": "Brantford",
+  "f_city": "Brantford",
+  "pair": [
+   "BRANTFORD FACILITY",
+   "BRANTFORD FACILITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1255,
+  "ghgrp_id": "G11755"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Fallsview Casino Resort",
+  "f_name": "Fallsview Casino Resort",
+  "o_city": "Niagara Falls",
+  "f_city": "Niagara Falls",
+  "pair": [
+   "FALLSVIEW CASINO RESORT",
+   "FALLSVIEW CASINO RESORT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1256,
+  "ghgrp_id": "G11776"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "GODERICH PLANT",
+  "f_name": "GODERICH PLANT",
+  "o_city": "Goderich",
+  "f_city": "Goderich",
+  "pair": [
+   "GODERICH PLANT",
+   "GODERICH PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1257,
+  "ghgrp_id": "G10919"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Brampton Civic Hospital",
+  "f_name": "Brampton Civic Hospital",
+  "o_city": "Brampton",
+  "f_city": "Brampton",
+  "pair": [
+   "BRAMPTON CIVIC HOSPITAL",
+   "BRAMPTON CIVIC HOSPITAL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1258,
+  "ghgrp_id": "G11949"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Baycoat",
+  "f_name": "Baycoat",
+  "o_city": "Hamilton",
+  "f_city": "Hamilton",
+  "pair": [
+   "BAYCOAT",
+   "BAYCOAT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1259,
+  "ghgrp_id": "G11124"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Metex Heat Treating Ltd.",
+  "f_name": "Metex Heat Treating Ltd.",
+  "o_city": "Brampton",
+  "f_city": "Brampton",
+  "pair": [
+   "METEX HEAT TREATING",
+   "METEX HEAT TREATING"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1260,
+  "ghgrp_id": "G12302"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Toronto Plant",
+  "f_name": "Toronto Plant",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "TORONTO PLANT",
+   "TORONTO PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1261,
+  "ghgrp_id": "G11009"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Skyjack Inc.",
+  "f_name": "Skyjack Inc.",
+  "o_city": "GUELPH",
+  "f_city": "GUELPH",
+  "pair": [
+   "SKYJACK",
+   "SKYJACK"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1262,
+  "ghgrp_id": "G12306"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Guelph Glass Plant",
+  "f_name": "Guelph Glass Plant",
+  "o_city": "Guelph",
+  "f_city": "Guelph",
+  "pair": [
+   "GUELPH GLASS PLANT",
+   "GUELPH GLASS PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1263,
+  "ghgrp_id": "G11241"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "HCE Energy Centre",
+  "f_name": "HCE Energy Centre",
+  "o_city": "Hamilton",
+  "f_city": "Hamilton",
+  "pair": [
+   "HCE ENERGY CENTRE",
+   "HCE ENERGY CENTRE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1265,
+  "ghgrp_id": "G11051"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Welded Tube (Q&T Plant)",
+  "f_name": "Welded Tube (Q&T Plant)",
+  "o_city": "Welland",
+  "f_city": "Welland",
+  "pair": [
+   "WELDED TUBE Q AND T PLANT",
+   "WELDED TUBE Q AND T PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1266,
+  "ghgrp_id": "G11361"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Ferrero Canada Limited",
+  "f_name": "Ferrero Canada Limited",
+  "o_city": "Brantford",
+  "f_city": "Brantford",
+  "pair": [
+   "FERRERO",
+   "FERRERO"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1269,
+  "ghgrp_id": "G11398"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Air Liquide Canada - Hamilton (ASU and H2)",
+  "f_name": "Air Liquide Canada - Hamilton (ASU and H2)",
+  "o_city": "Hamilton",
+  "f_city": "Hamilton",
+  "pair": [
+   "AIR LIQUIDE CANADA HAMILTON ASU AND H2",
+   "AIR LIQUIDE CANADA HAMILTON ASU AND H2"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1271,
+  "ghgrp_id": "G11220"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Natural Gas Distribution System",
+  "f_name": "Natural Gas Distribution System",
+  "o_city": "Kingston",
+  "f_city": "KINGSTON",
+  "pair": [
+   "NATURAL GAS DISTRIBUTION SYSTEM",
+   "NATURAL GAS DISTRIBUTION SYSTEM"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1283,
+  "ghgrp_id": "G11818"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Hydro One Networks",
+  "f_name": "Hydro One Networks",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "HYDRO ONE NETWORKS",
+   "HYDRO ONE NETWORKS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1284,
+  "ghgrp_id": "G12161"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Rosa Flora Growers Limited",
+  "f_name": "Rosa Flora Growers Limited",
+  "o_city": "Dunnville",
+  "f_city": "Dunnville",
+  "pair": [
+   "ROSA FLORA GROWERS",
+   "ROSA FLORA GROWERS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1294,
+  "ghgrp_id": "G12022"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Truly Green Farms",
+  "f_name": "Truly Green Farms",
+  "o_city": "Chatham",
+  "f_city": "Chatham",
+  "pair": [
+   "TRULY GREEN FARMS",
+   "TRULY GREEN FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1333,
+  "ghgrp_id": "G11787"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Allegro Acres Inc.",
+  "f_name": "Allegro Acres Inc.",
+  "o_city": "Ruthven",
+  "f_city": "Ruthven",
+  "pair": [
+   "ALLEGRO ACRES",
+   "ALLEGRO ACRES"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1334,
+  "ghgrp_id": "G11788"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Lakeridge Health Oshawa",
+  "f_name": "Lakeridge Health Oshawa",
+  "o_city": "Oshawa",
+  "f_city": "Oshawa",
+  "pair": [
+   "LAKERIDGE HEALTH OSHAWA",
+   "LAKERIDGE HEALTH OSHAWA"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1339,
+  "ghgrp_id": "G11752"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Linamar Gear",
+  "f_name": "Linamar Gear",
+  "o_city": "Guelph",
+  "f_city": "Guelph",
+  "pair": [
+   "LINAMAR GEAR",
+   "LINAMAR GEAR"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1340,
+  "ghgrp_id": "G12356"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Sun-Brite Foods Inc.",
+  "f_name": "Sun-Brite Foods Inc.",
+  "o_city": "Ruthven",
+  "f_city": "Ruthven",
+  "pair": [
+   "SUN BRITE FOODS",
+   "SUN BRITE FOODS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1341,
+  "ghgrp_id": "G11790"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Pickering",
+  "f_name": "Pickering",
+  "o_city": "Pickering",
+  "f_city": "Pickering",
+  "pair": [
+   "PICKERING",
+   "PICKERING"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1342,
+  "ghgrp_id": "G11744"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "3M BROCKVILLE 501",
+  "f_name": "3M BROCKVILLE 501",
+  "o_city": "BROCKVILLE",
+  "f_city": "BROCKVILLE",
+  "pair": [
+   "3M BROCKVILLE 501",
+   "3M BROCKVILLE 501"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1344,
+  "ghgrp_id": "G11133"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "G.E. Booth Water Resource Recovery Facility",
+  "f_name": "G.E. Booth Water Resource Recovery Facility",
+  "o_city": "Mississauga",
+  "f_city": "Mississauga",
+  "pair": [
+   "G E BOOTH WATER RESOURCE RECOVERY FACILITY",
+   "G E BOOTH WATER RESOURCE RECOVERY FACILITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1345,
+  "ghgrp_id": "G11082"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "SUPER-PUFFT SNACKS CORPORATION",
+  "f_name": "SUPER-PUFFT SNACKS CORPORATION",
+  "o_city": "Mississauga",
+  "f_city": "Mississauga",
+  "pair": [
+   "SUPER PUFFT SNACKS",
+   "SUPER PUFFT SNACKS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1346,
+  "ghgrp_id": "G11791"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Oakville Trafalgar Memorial Hospital",
+  "f_name": "Oakville Trafalgar Memorial Hospital",
+  "o_city": "Oakville",
+  "f_city": "Oakville",
+  "pair": [
+   "OAKVILLE TRAFALGAR MEMORIAL HOSPITAL",
+   "OAKVILLE TRAFALGAR MEMORIAL HOSPITAL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1347,
+  "ghgrp_id": "G11751"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "980 Oliver Road",
+  "f_name": "980 Oliver Road",
+  "o_city": "Thunder Bay",
+  "f_city": "Thunder Bay",
+  "pair": [
+   "980 OLIVER ROAD",
+   "980 OLIVER ROAD"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1348,
+  "ghgrp_id": "G11754"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Six Nations Natural Gas Company Limited",
+  "f_name": "Six Nations Natural Gas Company Limited",
+  "o_city": "Ohsweken",
+  "f_city": "Ohsweken",
+  "pair": [
+   "SIX NATIONS NATURAL GAS",
+   "SIX NATIONS NATURAL GAS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1351,
+  "ghgrp_id": "G11748"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Canada Malting, Thunder Bay",
+  "f_name": "Canada Malting, Thunder Bay",
+  "o_city": "Thunder Bay",
+  "f_city": "Thunder Bay",
+  "pair": [
+   "CANADA MALTING THUNDER BAY",
+   "CANADA MALTING THUNDER BAY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1354,
+  "ghgrp_id": "G11043"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Young-Davidson",
+  "f_name": "Young-Davidson",
+  "o_city": "Matachewan",
+  "f_city": "Matachewan",
+  "pair": [
+   "YOUNG DAVIDSON",
+   "YOUNG DAVIDSON"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1356,
+  "ghgrp_id": "G11375"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Green Electron Power Plant",
+  "f_name": "Green Electron Power Plant",
+  "o_city": "Courtright",
+  "f_city": "Courtright",
+  "pair": [
+   "GREEN ELECTRON POWER PLANT",
+   "GREEN ELECTRON POWER PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1357,
+  "ghgrp_id": "G11743"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Kaiser Aluminum Canada Limited",
+  "f_name": "Kaiser Aluminum Canada Limited",
+  "o_city": "London",
+  "f_city": "London",
+  "pair": [
+   "KAISER ALUMINUM",
+   "KAISER ALUMINUM"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1361,
+  "ghgrp_id": "G11103"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "NBRHC",
+  "f_name": "NBRHC",
+  "o_city": "North Bay",
+  "f_city": "North Bay",
+  "pair": [
+   "NBRHC",
+   "NBRHC"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1367,
+  "ghgrp_id": "G11501"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Port Hope Conversion Facility",
+  "f_name": "Port Hope Conversion Facility",
+  "o_city": "Port Hope",
+  "f_city": "Port Hope",
+  "pair": [
+   "PORT HOPE CONVERSION FACILITY",
+   "PORT HOPE CONVERSION FACILITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1368,
+  "ghgrp_id": "G11319"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "MSC Toronto",
+  "f_name": "MSC Toronto",
+  "o_city": "Etobicoke",
+  "f_city": "Etobicoke",
+  "pair": [
+   "MSC TORONTO",
+   "MSC TORONTO"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1369,
+  "ghgrp_id": "G11119"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Guelph",
+  "f_name": "Guelph",
+  "o_city": "Guelph",
+  "f_city": "Guelph",
+  "pair": [
+   "GUELPH",
+   "GUELPH"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1371,
+  "ghgrp_id": "G11802"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Winchester",
+  "f_name": "Winchester",
+  "o_city": "Winchester",
+  "f_city": "Winchester",
+  "pair": [
+   "WINCHESTER",
+   "WINCHESTER"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1372,
+  "ghgrp_id": "G11105"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Englehart Oriented Strand Board Plant",
+  "f_name": "Englehart Oriented Strand Board Plant",
+  "o_city": "Englehart",
+  "f_city": "Englehart",
+  "pair": [
+   "ENGLEHART ORIENTED STRAND BOARD PLANT",
+   "ENGLEHART ORIENTED STRAND BOARD PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1373,
+  "ghgrp_id": "G10610"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Calstock Power Plant",
+  "f_name": "Calstock Power Plant",
+  "o_city": "Hearst",
+  "f_city": "Hearst",
+  "pair": [
+   "CALSTOCK POWER PLANT",
+   "CALSTOCK POWER PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1374,
+  "ghgrp_id": "G10042"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Main Greenhouses",
+  "f_name": "Main Greenhouses",
+  "o_city": "Exeter",
+  "f_city": "Exeter",
+  "pair": [
+   "MAIN GREENHOUSES",
+   "MAIN GREENHOUSES"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1376,
+  "ghgrp_id": "G11803"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Ashbridges Bay Treatment Plant",
+  "f_name": "Ashbridges Bay Treatment Plant",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "ASHBRIDGES BAY TREATMENT PLANT",
+   "ASHBRIDGES BAY TREATMENT PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1379,
+  "ghgrp_id": "G11808"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Highland Creek Treatment Plant",
+  "f_name": "Highland Creek Treatment Plant",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "HIGHLAND CREEK TREATMENT PLANT",
+   "HIGHLAND CREEK TREATMENT PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1380,
+  "ghgrp_id": "G11809"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Burlington",
+  "f_name": "Burlington",
+  "o_city": "Burlington",
+  "f_city": "Burlington",
+  "pair": [
+   "BURLINGTON",
+   "BURLINGTON"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1381,
+  "ghgrp_id": "G11731"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Windsor Plant",
+  "f_name": "Windsor Plant",
+  "o_city": "Windsor",
+  "f_city": "Windsor",
+  "pair": [
+   "WINDSOR PLANT",
+   "WINDSOR PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1384,
+  "ghgrp_id": "G10838"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Whitby",
+  "f_name": "Whitby",
+  "o_city": "Whitby",
+  "f_city": "Whitby",
+  "pair": [
+   "WHITBY",
+   "WHITBY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1385,
+  "ghgrp_id": "G11719"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Belleville",
+  "f_name": "Belleville",
+  "o_city": "Belleville",
+  "f_city": "Belleville",
+  "pair": [
+   "BELLEVILLE",
+   "BELLEVILLE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1386,
+  "ghgrp_id": "G11019"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Ingleside",
+  "f_name": "Ingleside",
+  "o_city": "Ingleside",
+  "f_city": "Ingleside",
+  "pair": [
+   "INGLESIDE",
+   "INGLESIDE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1387,
+  "ghgrp_id": "G11797"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Klassen Greenhouse Farms",
+  "f_name": "Klassen Greenhouse Farms",
+  "o_city": "Cottam",
+  "f_city": "Cottam",
+  "pair": [
+   "KLASSEN GREENHOUSE FARMS",
+   "KLASSEN GREENHOUSE FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1395,
+  "ghgrp_id": "G11835"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Cargill Guelph Dunlop Facility",
+  "f_name": "Cargill Guelph Dunlop Facility",
+  "o_city": "Guelph",
+  "f_city": "Guelph",
+  "pair": [
+   "CARGILL GUELPH DUNLOP FACILITY",
+   "CARGILL GUELPH DUNLOP FACILITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1396,
+  "ghgrp_id": "G11115"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Envirofresh Produce Inc.",
+  "f_name": "Envirofresh Produce Inc.",
+  "o_city": "Sombra",
+  "f_city": "Sombra",
+  "pair": [
+   "ENVIROFRESH PRODUCE",
+   "ENVIROFRESH PRODUCE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1397,
+  "ghgrp_id": "G11781"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Meridian Lightweight Technologies Inc",
+  "f_name": "Meridian Lightweight Technologies Inc",
+  "o_city": "Strathroy",
+  "f_city": "Strathroy",
+  "pair": [
+   "MERIDIAN LIGHTWEIGHT TECHNOLOGIES",
+   "MERIDIAN LIGHTWEIGHT TECHNOLOGIES"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1402,
+  "ghgrp_id": "G10768"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Meridian Lightweight Technologies Inc. Plant E",
+  "f_name": "Meridian Lightweight Technologies Inc. Plant E",
+  "o_city": "Strathroy",
+  "f_city": "Strathroy",
+  "pair": [
+   "MERIDIAN LIGHTWEIGHT TECHNOLOGIES INC PLANT E",
+   "MERIDIAN LIGHTWEIGHT TECHNOLOGIES INC PLANT E"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1403,
+  "ghgrp_id": "G10769"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Greenway Pollution Control Centre",
+  "f_name": "Greenway Pollution Control Centre",
+  "o_city": "London",
+  "f_city": "London",
+  "pair": [
+   "GREENWAY POLLUTION CONTROL CENTRE",
+   "GREENWAY POLLUTION CONTROL CENTRE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1404,
+  "ghgrp_id": "G11234"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "CertainTeed Insulation Ottawa",
+  "f_name": "CertainTeed Insulation Ottawa",
+  "o_city": "Ottawa",
+  "f_city": "Ottawa",
+  "pair": [
+   "CERTAINTEED INSULATION OTTAWA",
+   "CERTAINTEED INSULATION OTTAWA"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1406,
+  "ghgrp_id": "G10983"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Rainy River Mine",
+  "f_name": "Rainy River Mine",
+  "o_city": "Emo",
+  "f_city": "Emo",
+  "pair": [
+   "RAINY RIVER MINE",
+   "RAINY RIVER MINE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1407,
+  "ghgrp_id": "G11496"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "LONDON",
+  "f_name": "LONDON",
+  "o_city": "London",
+  "f_city": "London",
+  "pair": [
+   "LONDON",
+   "LONDON"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1408,
+  "ghgrp_id": "G11886"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "BLIND RIVER REFINERY",
+  "f_name": "BLIND RIVER REFINERY",
+  "o_city": "Blind River",
+  "f_city": "Blind River",
+  "pair": [
+   "BLIND RIVER REFINERY",
+   "BLIND RIVER REFINERY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1409,
+  "ghgrp_id": "G11165"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Impala Canada Ltd.",
+  "f_name": "Impala Canada Ltd.",
+  "o_city": "Thunder Bay Unorganized",
+  "f_city": "Thunder Bay Unorganized",
+  "pair": [
+   "IMPALA",
+   "IMPALA"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1410,
+  "ghgrp_id": "G10926"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "NATT Tools Group Inc.",
+  "f_name": "NATT Tools Group Inc.",
+  "o_city": "Hamilton",
+  "f_city": "Hamilton",
+  "pair": [
+   "NATT TOOLS",
+   "NATT TOOLS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1411,
+  "ghgrp_id": "G12009"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Max Aicher (North America) Limited",
+  "f_name": "Max Aicher (North America) Limited",
+  "o_city": "Hamilton",
+  "f_city": "Hamilton",
+  "pair": [
+   "MAX AICHER NORTH AMERICA",
+   "MAX AICHER NORTH AMERICA"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1412,
+  "ghgrp_id": "G11878"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "EACOM Elk Lake Sawmill",
+  "f_name": "EACOM Elk Lake Sawmill",
+  "o_city": "Elk Lake",
+  "f_city": "Elk Lake",
+  "pair": [
+   "EACOM ELK LAKE SAWMILL",
+   "EACOM ELK LAKE SAWMILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1413,
+  "ghgrp_id": "G12115"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Bell Creek Complex",
+  "f_name": "Bell Creek Complex",
+  "o_city": "Porcupine",
+  "f_city": "Porcupine",
+  "pair": [
+   "BELL CREEK COMPLEX",
+   "BELL CREEK COMPLEX"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1414,
+  "ghgrp_id": "G10931"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Lake Shore Gold Timmins West Mine",
+  "f_name": "Lake Shore Gold Timmins West Mine",
+  "o_city": "Timmins",
+  "f_city": "Timmins",
+  "pair": [
+   "LAKE SHORE GOLD TIMMINS WEST MINE",
+   "LAKE SHORE GOLD TIMMINS WEST MINE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1415,
+  "ghgrp_id": "G10929"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "McEwen Ontario Black Fox Mine",
+  "f_name": "McEwen Ontario Black Fox Mine",
+  "o_city": "Matheson",
+  "f_city": "Matheson",
+  "pair": [
+   "MCEWEN ONTARIO BLACK FOX MINE",
+   "MCEWEN ONTARIO BLACK FOX MINE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1416,
+  "ghgrp_id": "G10930"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Nepheline Syenite Operations",
+  "f_name": "Nepheline Syenite Operations",
+  "o_city": "Havelock",
+  "f_city": "Havelock",
+  "pair": [
+   "NEPHELINE SYENITE OPERATIONS",
+   "NEPHELINE SYENITE OPERATIONS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1417,
+  "ghgrp_id": "G10920"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Detour Lake Mine",
+  "f_name": "Detour Lake Mine",
+  "o_city": "Cochrane",
+  "f_city": "Cochrane",
+  "pair": [
+   "DETOUR LAKE MINE",
+   "DETOUR LAKE MINE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1418,
+  "ghgrp_id": "G10765"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Eastview Landfill",
+  "f_name": "Eastview Landfill",
+  "o_city": "Guelph",
+  "f_city": "Guelph",
+  "pair": [
+   "EASTVIEW LANDFILL",
+   "EASTVIEW LANDFILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1420,
+  "ghgrp_id": "G10358"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "W12A Landfill",
+  "f_name": "W12A Landfill",
+  "o_city": "London",
+  "f_city": "London",
+  "pair": [
+   "W12A LANDFILL",
+   "W12A LANDFILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1421,
+  "ghgrp_id": "G10310"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "PROFILE INDUSTRIES INC.",
+  "f_name": "PROFILE INDUSTRIES INC.",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "PROFILE INDUSTRIES",
+   "PROFILE INDUSTRIES"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1422,
+  "ghgrp_id": "G10718"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Britannia Sanitary Landfill Site",
+  "f_name": "Britannia Sanitary Landfill Site",
+  "o_city": "Mississauga",
+  "f_city": "Mississauga",
+  "pair": [
+   "BRITANNIA SANITARY LANDFILL SITE",
+   "BRITANNIA SANITARY LANDFILL SITE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1423,
+  "ghgrp_id": "G10376"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "North Sheridan Landfill Site (Closed)",
+  "f_name": "North Sheridan Landfill Site (Closed)",
+  "o_city": "Mississauga",
+  "f_city": "Mississauga",
+  "pair": [
+   "NORTH SHERIDAN LANDFILL SITE CLOSED",
+   "NORTH SHERIDAN LANDFILL SITE CLOSED"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1424,
+  "ghgrp_id": "G11162"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Stoney Creek Regional Facility",
+  "f_name": "Stoney Creek Regional Facility",
+  "o_city": "Stoney Creek",
+  "f_city": "Stoney Creek",
+  "pair": [
+   "STONEY CREEK REGIONAL FACILITY",
+   "STONEY CREEK REGIONAL FACILITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1425,
+  "ghgrp_id": "G11479"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Spec Furniture",
+  "f_name": "Spec Furniture",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "SPEC FURNITURE",
+   "SPEC FURNITURE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1426,
+  "ghgrp_id": "G10724"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Expert Manufacturing Inc.",
+  "f_name": "Expert Manufacturing Inc.",
+  "o_city": "Concord",
+  "f_city": "Concord",
+  "pair": [
+   "EXPERT MANUFACTURING",
+   "EXPERT MANUFACTURING"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1427,
+  "ghgrp_id": "G10703"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Napanee Generating Station",
+  "f_name": "Napanee Generating Station",
+  "o_city": "BATH",
+  "f_city": "BATH",
+  "pair": [
+   "NAPANEE GENERATING STATION",
+   "NAPANEE GENERATING STATION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1428,
+  "ghgrp_id": "G12145"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "BLENHEIM LANDFILL",
+  "f_name": "BLENHEIM LANDFILL",
+  "o_city": "Blenheim",
+  "f_city": "Blenheim",
+  "pair": [
+   "BLENHEIM LANDFILL",
+   "BLENHEIM LANDFILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1429,
+  "ghgrp_id": "G11302"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Highway 48 Landfill",
+  "f_name": "Highway 48 Landfill",
+  "o_city": "Stouffville",
+  "f_city": "Stouffville",
+  "pair": [
+   "HIGHWAY 48 LANDFILL",
+   "HIGHWAY 48 LANDFILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1430,
+  "ghgrp_id": "G12168"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Twin Creeks Landfill (formerly Warwick Landfill)",
+  "f_name": "Twin Creeks Landfill (formerly Warwick Landfill)",
+  "o_city": "Watford",
+  "f_city": "Watford",
+  "pair": [
+   "TWIN CREEKS LANDFILL FORMERLY WARWICK LANDFILL",
+   "TWIN CREEKS LANDFILL FORMERLY WARWICK LANDFILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1431,
+  "ghgrp_id": "G10762"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Enbridge Gas Inc.",
+  "f_name": "Enbridge Gas Inc.",
+  "o_city": "North York",
+  "f_city": "North York",
+  "pair": [
+   "ENBRIDGE GAS",
+   "ENBRIDGE GAS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1432,
+  "ghgrp_id": "G12146"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Enbridge Gas Inc. - Distribution",
+  "f_name": "Enbridge Gas Inc. - Distribution",
+  "o_city": "North York",
+  "f_city": "North York",
+  "pair": [
+   "ENBRIDGE GAS INC DISTRIBUTION",
+   "ENBRIDGE GAS INC DISTRIBUTION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1433,
+  "ghgrp_id": "G12147"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Apotex Inc. 150 Signet",
+  "f_name": "Apotex Inc. 150 Signet",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "APOTEX INC 150 SIGNET",
+   "APOTEX INC 150 SIGNET"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1434,
+  "ghgrp_id": "G12287"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Plant #2",
+  "f_name": "Plant #2",
+  "o_city": "Stoney Creek",
+  "f_city": "Stoney Creek",
+  "pair": [
+   "PLANT 2",
+   "PLANT 2"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1435,
+  "ghgrp_id": "G12176"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "P5 Farms, a division of Pure Flavor Farms LP",
+  "f_name": "P5 Farms, a division of Pure Flavor Farms LP",
+  "o_city": "Staples",
+  "f_city": "Staples",
+  "pair": [
+   "P5 FARMS A DIVISION OF PURE FLAVOR FARMS",
+   "P5 FARMS A DIVISION OF PURE FLAVOR FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1436,
+  "ghgrp_id": "G12183"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Chosen Fresh Farms Ltd.",
+  "f_name": "Chosen Fresh Farms Ltd.",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "CHOSEN FRESH FARMS",
+   "CHOSEN FRESH FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1437,
+  "ghgrp_id": "G12200"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Woodward Avenue Wastewater Treatment Plant",
+  "f_name": "Woodward Avenue Wastewater Treatment Plant",
+  "o_city": "Hamilton",
+  "f_city": "Hamilton",
+  "pair": [
+   "WOODWARD AVENUE WASTEWATER TREATMENT PLANT",
+   "WOODWARD AVENUE WASTEWATER TREATMENT PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1438,
+  "ghgrp_id": "G12265"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "City of Thunder Bay Solid Waste and Recycling Facility",
+  "f_name": "City of Thunder Bay Solid Waste and Recycling Facility",
+  "o_city": "Thunder Bay",
+  "f_city": "Thunder Bay",
+  "pair": [
+   "CITY OF THUNDER BAY SOLID WASTE AND RECYCLING FACILITY",
+   "CITY OF THUNDER BAY SOLID WASTE AND RECYCLING FACILITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1439,
+  "ghgrp_id": "G10601"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Brock West Landfill",
+  "f_name": "Brock West Landfill",
+  "o_city": "Pickering",
+  "f_city": "Pickering",
+  "pair": [
+   "BROCK WEST LANDFILL",
+   "BROCK WEST LANDFILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1440,
+  "ghgrp_id": "G10032"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Keele Valley Landfill",
+  "f_name": "Keele Valley Landfill",
+  "o_city": "Maple",
+  "f_city": "Maple",
+  "pair": [
+   "KEELE VALLEY LANDFILL",
+   "KEELE VALLEY LANDFILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1441,
+  "ghgrp_id": "G10161"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "City of Cornwall Landfill Site",
+  "f_name": "City of Cornwall Landfill Site",
+  "o_city": "Cornwall",
+  "f_city": "Cornwall",
+  "pair": [
+   "CITY OF CORNWALL LANDFILL SITE",
+   "CITY OF CORNWALL LANDFILL SITE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1442,
+  "ghgrp_id": "G12085"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Welland Plant",
+  "f_name": "Welland Plant",
+  "o_city": "Niagara Falls",
+  "f_city": "Niagara Falls",
+  "pair": [
+   "WELLAND PLANT",
+   "WELLAND PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1443,
+  "ghgrp_id": "G11129"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Victor Mine",
+  "f_name": "Victor Mine",
+  "o_city": "Kenora",
+  "f_city": "Kenora",
+  "pair": [
+   "VICTOR MINE",
+   "VICTOR MINE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1444,
+  "ghgrp_id": "G10910"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Nairn Centre Sawmill",
+  "f_name": "Nairn Centre Sawmill",
+  "o_city": "Nairn Centre",
+  "f_city": "Nairn Centre",
+  "pair": [
+   "NAIRN CENTRE SAWMILL",
+   "NAIRN CENTRE SAWMILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1445,
+  "ghgrp_id": "G12114"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Pinnacle Acres",
+  "f_name": "Pinnacle Acres",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "PINNACLE ACRES",
+   "PINNACLE ACRES"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1446,
+  "ghgrp_id": "G12217"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Aphria Inc.",
+  "f_name": "Aphria Inc.",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "APHRIA",
+   "APHRIA"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1447,
+  "ghgrp_id": "G12208"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Essex County Landfill No. 3",
+  "f_name": "Essex County Landfill No. 3",
+  "o_city": "Lakeshore",
+  "f_city": "Lakeshore",
+  "pair": [
+   "ESSEX COUNTY LANDFILL NO 3",
+   "ESSEX COUNTY LANDFILL NO 3"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1448,
+  "ghgrp_id": "G10364"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Essex-Windsor Regional Landfill",
+  "f_name": "Essex-Windsor Regional Landfill",
+  "o_city": "Essex",
+  "f_city": "Essex",
+  "pair": [
+   "ESSEX WINDSOR REGIONAL LANDFILL",
+   "ESSEX WINDSOR REGIONAL LANDFILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1449,
+  "ghgrp_id": "G10365"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Transfer Station No. 2",
+  "f_name": "Transfer Station No. 2",
+  "o_city": "Kingsville",
+  "f_city": "Kingsville",
+  "pair": [
+   "TRANSFER STATION NO 2",
+   "TRANSFER STATION NO 2"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1450,
+  "ghgrp_id": "G10379"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Eastern Ontario Waste Handling Facility – Landfill",
+  "f_name": "Eastern Ontario Waste Handling Facility – Landfill",
+  "o_city": "Moose Creek",
+  "f_city": "Moose Creek",
+  "pair": [
+   "EASTERN ONTARIO WASTE HANDLING FACILITY LANDFILL",
+   "EASTERN ONTARIO WASTE HANDLING FACILITY LANDFILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1451,
+  "ghgrp_id": "G11388"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Global Contract Inc.",
+  "f_name": "Global Contract Inc.",
+  "o_city": "North York",
+  "f_city": "North York",
+  "pair": [
+   "GLOBAL CONTRACT",
+   "GLOBAL CONTRACT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1452,
+  "ghgrp_id": "G10581"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Green Lane Landfill",
+  "f_name": "Green Lane Landfill",
+  "o_city": "St. Thomas",
+  "f_city": "St. Thomas",
+  "pair": [
+   "GREEN LANE LANDFILL",
+   "GREEN LANE LANDFILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1453,
+  "ghgrp_id": "G10471"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Hacienda North Farms Plant 1",
+  "f_name": "Hacienda North Farms Plant 1",
+  "o_city": "WHEATLEY",
+  "f_city": "WHEATLEY",
+  "pair": [
+   "HACIENDA NORTH FARMS PLANT 1",
+   "HACIENDA NORTH FARMS PLANT 1"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1454,
+  "ghgrp_id": "G12242"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Tom Howe Landfill Site",
+  "f_name": "Tom Howe Landfill Site",
+  "o_city": "WALPOLE",
+  "f_city": "WALPOLE",
+  "pair": [
+   "TOM HOWE LANDFILL SITE",
+   "TOM HOWE LANDFILL SITE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1455,
+  "ghgrp_id": "G11065"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Island Gold Mine",
+  "f_name": "Island Gold Mine",
+  "o_city": "Dubreuilville",
+  "f_city": "Dubreuilville",
+  "pair": [
+   "ISLAND GOLD MINE",
+   "ISLAND GOLD MINE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1456,
+  "ghgrp_id": "G10917"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Macassa Mine",
+  "f_name": "Macassa Mine",
+  "o_city": "Kirkland Lake",
+  "f_city": "Kirkland Lake",
+  "pair": [
+   "MACASSA MINE",
+   "MACASSA MINE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1457,
+  "ghgrp_id": "G10617"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Maple Leaf Foods - Heritage",
+  "f_name": "Maple Leaf Foods - Heritage",
+  "o_city": "Hamilton",
+  "f_city": "Hamilton",
+  "pair": [
+   "MAPLE LEAF FOODS HERITAGE",
+   "MAPLE LEAF FOODS HERITAGE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1458,
+  "ghgrp_id": "G11439"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "MASTERLOY PRODUCTS Company",
+  "f_name": "MASTERLOY PRODUCTS Company",
+  "o_city": "Ottawa",
+  "f_city": "Ottawa",
+  "pair": [
+   "MASTERLOY PRODUCTS",
+   "MASTERLOY PRODUCTS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1459,
+  "ghgrp_id": "G11956"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "1200 Montreal Road Campus",
+  "f_name": "1200 Montreal Road Campus",
+  "o_city": "Ottawa",
+  "f_city": "Ottawa",
+  "pair": [
+   "1200 MONTREAL ROAD CAMPUS",
+   "1200 MONTREAL ROAD CAMPUS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1460,
+  "ghgrp_id": "G11540"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Ontario Plants Propagation Limited",
+  "f_name": "Ontario Plants Propagation Limited",
+  "o_city": "St. Thomas",
+  "f_city": "St. Thomas",
+  "pair": [
+   "ONTARIO PLANTS PROPAGATION",
+   "ONTARIO PLANTS PROPAGATION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1461,
+  "ghgrp_id": "G12255"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Sarnia CO2 & Dry Ice Plant",
+  "f_name": "Sarnia CO2 & Dry Ice Plant",
+  "o_city": "Sarnia",
+  "f_city": "Sarnia",
+  "pair": [
+   "SARNIA CO2 AND DRY ICE PLANT",
+   "SARNIA CO2 AND DRY ICE PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1462,
+  "ghgrp_id": "G11416"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Cliff Central Heating and Cooling Plant",
+  "f_name": "Cliff Central Heating and Cooling Plant",
+  "o_city": "Ottawa",
+  "f_city": "OTTAWA",
+  "pair": [
+   "CLIFF CENTRAL HEATING AND COOLING PLANT",
+   "CLIFF CENTRAL HEATING AND COOLING PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1463,
+  "ghgrp_id": "G10862"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Confederation Heights Central Heating and Cooling Plant",
+  "f_name": "Confederation Heights Central Heating and Cooling Plant",
+  "o_city": "Ottawa",
+  "f_city": "Ottawa",
+  "pair": [
+   "CONFEDERATION HEIGHTS CENTRAL HEATING AND COOLING PLANT",
+   "CONFEDERATION HEIGHTS CENTRAL HEATING AND COOLING PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1464,
+  "ghgrp_id": "G11088"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Halton Waste Management Site",
+  "f_name": "Halton Waste Management Site",
+  "o_city": "25 Milton",
+  "f_city": "25 Milton",
+  "pair": [
+   "HALTON WASTE MANAGEMENT SITE",
+   "HALTON WASTE MANAGEMENT SITE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1465,
+  "ghgrp_id": "G11093"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Cambridge Landfill Site",
+  "f_name": "Cambridge Landfill Site",
+  "o_city": "CAMBRIDGE",
+  "f_city": "CAMBRIDGE",
+  "pair": [
+   "CAMBRIDGE LANDFILL SITE",
+   "CAMBRIDGE LANDFILL SITE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1466,
+  "ghgrp_id": "G10539"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Waterloo Landfill Site",
+  "f_name": "Waterloo Landfill Site",
+  "o_city": "WATERLOO",
+  "f_city": "WATERLOO",
+  "pair": [
+   "WATERLOO LANDFILL SITE",
+   "WATERLOO LANDFILL SITE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1467,
+  "ghgrp_id": "G10540"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Duffin Creek WPCP",
+  "f_name": "Duffin Creek WPCP",
+  "o_city": "Pickering",
+  "f_city": "Pickering",
+  "pair": [
+   "DUFFIN CREEK WPCP",
+   "DUFFIN CREEK WPCP"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1468,
+  "ghgrp_id": "G10404"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "HUMBERSTONE LANDFILL",
+  "f_name": "HUMBERSTONE LANDFILL",
+  "o_city": "Welland",
+  "f_city": "Welland",
+  "pair": [
+   "HUMBERSTONE LANDFILL",
+   "HUMBERSTONE LANDFILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1469,
+  "ghgrp_id": "G10632"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Glenridge Landfill Site",
+  "f_name": "Glenridge Landfill Site",
+  "o_city": "St. Catharines",
+  "f_city": "St. Catharines",
+  "pair": [
+   "GLENRIDGE LANDFILL SITE",
+   "GLENRIDGE LANDFILL SITE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1470,
+  "ghgrp_id": "G10821"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Niagara Road 12 Landfill Site",
+  "f_name": "Niagara Road 12 Landfill Site",
+  "o_city": "West Lincoln",
+  "f_city": "West Lincoln",
+  "pair": [
+   "NIAGARA ROAD 12 LANDFILL SITE",
+   "NIAGARA ROAD 12 LANDFILL SITE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1471,
+  "ghgrp_id": "G11339"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Bridge Street Landfiil Site",
+  "f_name": "Bridge Street Landfiil Site",
+  "o_city": "Fort Erie",
+  "f_city": "Fort Erie",
+  "pair": [
+   "BRIDGE STREET LANDFIIL SITE",
+   "BRIDGE STREET LANDFIIL SITE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1472,
+  "ghgrp_id": "G11340"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Elm Street Landfill Site",
+  "f_name": "Elm Street Landfill Site",
+  "o_city": "Port Colborne",
+  "f_city": "Port Colborne",
+  "pair": [
+   "ELM STREET LANDFILL SITE",
+   "ELM STREET LANDFILL SITE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1473,
+  "ghgrp_id": "G11341"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Mountain Road Landfill",
+  "f_name": "Mountain Road Landfill",
+  "o_city": "Niagara Falls",
+  "f_city": "Niagara Falls",
+  "pair": [
+   "MOUNTAIN ROAD LANDFILL",
+   "MOUNTAIN ROAD LANDFILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1474,
+  "ghgrp_id": "G11449"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Park Road Landfill",
+  "f_name": "Park Road Landfill",
+  "o_city": "GRIMSBY",
+  "f_city": "GRIMSBY",
+  "pair": [
+   "PARK ROAD LANDFILL",
+   "PARK ROAD LANDFILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1475,
+  "ghgrp_id": "G11601"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "SAULT STE. MARIE MUNICIPAL LANDFILL",
+  "f_name": "SAULT STE. MARIE MUNICIPAL LANDFILL",
+  "o_city": "Sault Ste. Marie",
+  "f_city": "Sault Ste. Marie",
+  "pair": [
+   "SAULT STE MARIE MUNICIPAL LANDFILL",
+   "SAULT STE MARIE MUNICIPAL LANDFILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1476,
+  "ghgrp_id": "G10822"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Mohawk Street Landfill",
+  "f_name": "Mohawk Street Landfill",
+  "o_city": "Brantford",
+  "f_city": "Brantford",
+  "pair": [
+   "MOHAWK STREET LANDFILL",
+   "MOHAWK STREET LANDFILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1477,
+  "ghgrp_id": "G10193"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Credit Valley Hospital",
+  "f_name": "Credit Valley Hospital",
+  "o_city": "Mississauga",
+  "f_city": "Mississauga",
+  "pair": [
+   "CREDIT VALLEY HOSPITAL",
+   "CREDIT VALLEY HOSPITAL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1478,
+  "ghgrp_id": "G12261"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Walker Environmental Group Inc. Landfill Sites",
+  "f_name": "Walker Environmental Group Inc. Landfill Sites",
+  "o_city": "Niagara Falls",
+  "f_city": "Niagara Falls",
+  "pair": [
+   "WALKER ENVIRONMENTAL GROUP INC LANDFILL SITES",
+   "WALKER ENVIRONMENTAL GROUP INC LANDFILL SITES"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1479,
+  "ghgrp_id": "G10337"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Ridge Landfill",
+  "f_name": "Ridge Landfill",
+  "o_city": "Blenheim",
+  "f_city": "Blenheim",
+  "pair": [
+   "RIDGE LANDFILL",
+   "RIDGE LANDFILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1480,
+  "ghgrp_id": "G10343"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Navan Landfill",
+  "f_name": "Navan Landfill",
+  "o_city": "Ottawa",
+  "f_city": "Ottawa",
+  "pair": [
+   "NAVAN LANDFILL",
+   "NAVAN LANDFILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1481,
+  "ghgrp_id": "G10975"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "8 WG/ 8 Esc Trenton",
+  "f_name": "8 WG/ 8 Esc Trenton",
+  "o_city": "Astra",
+  "f_city": "Astra",
+  "pair": [
+   "8 WG 8 ESC TRENTON",
+   "8 WG 8 ESC TRENTON"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1482,
+  "ghgrp_id": "G11120"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "CFB/ BFC Borden",
+  "f_name": "CFB/ BFC Borden",
+  "o_city": "Borden",
+  "f_city": "Borden",
+  "pair": [
+   "CFB BFC BORDEN",
+   "CFB BFC BORDEN"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1483,
+  "ghgrp_id": "G11066"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "4 CDSB / BS 4 Div C Petawawa - Petawawa",
+  "f_name": "4 CDSB / BS 4 Div C Petawawa - Petawawa",
+  "o_city": "Petawawa",
+  "f_city": "Petawawa",
+  "pair": [
+   "4 CDSB BS 4 DIV C PETAWAWA PETAWAWA",
+   "4 CDSB BS 4 DIV C PETAWAWA PETAWAWA"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1484,
+  "ghgrp_id": "G11027"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "CFB/ BFC Kingston",
+  "f_name": "CFB/ BFC Kingston",
+  "o_city": "Kingston",
+  "f_city": "Kingston",
+  "pair": [
+   "CFB BFC KINGSTON",
+   "CFB BFC KINGSTON"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1485,
+  "ghgrp_id": "G11122"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Tunney's Pasture Central Heating and Cooling Plant",
+  "f_name": "Tunney's Pasture Central Heating and Cooling Plant",
+  "o_city": "Ottawa",
+  "f_city": "Ottawa",
+  "pair": [
+   "TUNNEY S PASTURE CENTRAL HEATING AND COOLING PLANT",
+   "TUNNEY S PASTURE CENTRAL HEATING AND COOLING PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1486,
+  "ghgrp_id": "G11087"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Eagle River Mill",
+  "f_name": "Eagle River Mill",
+  "o_city": "Wawa",
+  "f_city": "Wawa",
+  "pair": [
+   "EAGLE RIVER MILL",
+   "EAGLE RIVER MILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1487,
+  "ghgrp_id": "G12304"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Grace Family Farms Ltd",
+  "f_name": "Grace Family Farms Ltd",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "GRACE FAMILY FARMS",
+   "GRACE FAMILY FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1488,
+  "ghgrp_id": "G12425"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "VEHCOM MANUFACTURING",
+  "f_name": "VEHCOM MANUFACTURING",
+  "o_city": "Guelph",
+  "f_city": "Guelph",
+  "pair": [
+   "VEHCOM MANUFACTURING",
+   "VEHCOM MANUFACTURING"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1489,
+  "ghgrp_id": "G12395"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Sensei Farms Leamington ULC",
+  "f_name": "Sensei Farms Leamington ULC",
+  "o_city": "Staples",
+  "f_city": "Staples",
+  "pair": [
+   "SENSEI FARMS LEAMINGTON",
+   "SENSEI FARMS LEAMINGTON"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1490,
+  "ghgrp_id": "G12369"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Aphria Diamond",
+  "f_name": "Aphria Diamond",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "APHRIA DIAMOND",
+   "APHRIA DIAMOND"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1491,
+  "ghgrp_id": "G12338"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "2492309 Ontario Ltd",
+  "f_name": "2492309 Ontario Ltd",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "2492309",
+   "2492309"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1492,
+  "ghgrp_id": "G12374"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Gerald Parisien Energy Facility",
+  "f_name": "Gerald Parisien Energy Facility",
+  "o_city": "Cornwall",
+  "f_city": "Cornwall",
+  "pair": [
+   "GERALD PARISIEN ENERGY FACILITY",
+   "GERALD PARISIEN ENERGY FACILITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1493,
+  "ghgrp_id": "G12390"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Mitchell",
+  "f_name": "Mitchell",
+  "o_city": "Mitchell",
+  "f_city": "Mitchell",
+  "pair": [
+   "MITCHELL",
+   "MITCHELL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1494,
+  "ghgrp_id": "G12435"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Grande Pointe Greenhouse",
+  "f_name": "Grande Pointe Greenhouse",
+  "o_city": "Grande Pointe",
+  "f_city": "Grande Pointe",
+  "pair": [
+   "GRANDE POINTE GREENHOUSE",
+   "GRANDE POINTE GREENHOUSE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1495,
+  "ghgrp_id": "G12372"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Thackeray Landfill",
+  "f_name": "Thackeray Landfill",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "THACKERAY LANDFILL",
+   "THACKERAY LANDFILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1496,
+  "ghgrp_id": "G12336"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Beare Road Landfill",
+  "f_name": "Beare Road Landfill",
+  "o_city": "Scarborough",
+  "f_city": "Scarborough",
+  "pair": [
+   "BEARE ROAD LANDFILL",
+   "BEARE ROAD LANDFILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1497,
+  "ghgrp_id": "G12309"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Birchmount Energy Centre",
+  "f_name": "Birchmount Energy Centre",
+  "o_city": "Markham",
+  "f_city": "Markham",
+  "pair": [
+   "BIRCHMOUNT ENERGY CENTRE",
+   "BIRCHMOUNT ENERGY CENTRE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1498,
+  "ghgrp_id": "G12440"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Clegg Energy Centre",
+  "f_name": "Clegg Energy Centre",
+  "o_city": "Markham",
+  "f_city": "Markham",
+  "pair": [
+   "CLEGG ENERGY CENTRE",
+   "CLEGG ENERGY CENTRE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1499,
+  "ghgrp_id": "G12446"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Sandy Lake Diesel Generating Station",
+  "f_name": "Sandy Lake Diesel Generating Station",
+  "o_city": "Sandy Lake",
+  "f_city": "Sandy Lake",
+  "pair": [
+   "SANDY LAKE DIESEL GENERATING STATION",
+   "SANDY LAKE DIESEL GENERATING STATION"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1500,
+  "ghgrp_id": "G12437"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "PepsiCo Beverage Company",
+  "f_name": "PepsiCo Beverage Company",
+  "o_city": "Mississauga",
+  "f_city": "Mississauga",
+  "pair": [
+   "PEPSICO BEVERAGE",
+   "PEPSICO BEVERAGE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1501,
+  "ghgrp_id": "G12422"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "OTTAWA VALLEY WASTE RECOVERY CENTRE",
+  "f_name": "OTTAWA VALLEY WASTE RECOVERY CENTRE",
+  "o_city": "Pembroke",
+  "f_city": "Pembroke",
+  "pair": [
+   "OTTAWA VALLEY WASTE RECOVERY CENTRE",
+   "OTTAWA VALLEY WASTE RECOVERY CENTRE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1502,
+  "ghgrp_id": "G12334"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Global Upholstery",
+  "f_name": "Global Upholstery",
+  "o_city": "Downsview",
+  "f_city": "Downsview",
+  "pair": [
+   "GLOBAL UPHOLSTERY",
+   "GLOBAL UPHOLSTERY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1503,
+  "ghgrp_id": "G10609"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Belleville Plant",
+  "f_name": "Belleville Plant",
+  "o_city": "Belleville",
+  "f_city": "Belleville",
+  "pair": [
+   "BELLEVILLE PLANT",
+   "BELLEVILLE PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1504,
+  "ghgrp_id": "G12451"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Bimbo Canada EPS - Integrated Facility",
+  "f_name": "Bimbo Canada EPS - Integrated Facility",
+  "o_city": "HANNON",
+  "f_city": "HANNON",
+  "pair": [
+   "BIMBO CANADA EPS INTEGRATED FACILITY",
+   "BIMBO CANADA EPS INTEGRATED FACILITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1505,
+  "ghgrp_id": "G12455"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Williams Mine",
+  "f_name": "Williams Mine",
+  "o_city": "MARATHON",
+  "f_city": "MARATHON",
+  "pair": [
+   "WILLIAMS MINE",
+   "WILLIAMS MINE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1506,
+  "ghgrp_id": "G10857"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "PERTH",
+  "f_name": "PERTH",
+  "o_city": "PERTH",
+  "f_city": "PERTH",
+  "pair": [
+   "PERTH",
+   "PERTH"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1507,
+  "ghgrp_id": "G12520"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Global File Inc.",
+  "f_name": "Global File Inc.",
+  "o_city": "Concord",
+  "f_city": "Concord",
+  "pair": [
+   "GLOBAL FILE",
+   "GLOBAL FILE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1508,
+  "ghgrp_id": "G10706"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "MODATEK SYSTEMS",
+  "f_name": "MODATEK SYSTEMS",
+  "o_city": "Milton",
+  "f_city": "Milton",
+  "pair": [
+   "MODATEK SYSTEMS",
+   "MODATEK SYSTEMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1509,
+  "ghgrp_id": "G12549"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Brampton Plant",
+  "f_name": "Brampton Plant",
+  "o_city": "Brampton",
+  "f_city": "Brampton",
+  "pair": [
+   "BRAMPTON PLANT",
+   "BRAMPTON PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1510,
+  "ghgrp_id": "G12490"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Golden Acre Farms Inc.",
+  "f_name": "Golden Acre Farms Inc.",
+  "o_city": "KINGSVILLE",
+  "f_city": "KINGSVILLE",
+  "pair": [
+   "GOLDEN ACRE FARMS",
+   "GOLDEN ACRE FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1511,
+  "ghgrp_id": "G12531"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Brampton Westwyn",
+  "f_name": "Brampton Westwyn",
+  "o_city": "Brampton",
+  "f_city": "Brampton",
+  "pair": [
+   "BRAMPTON WESTWYN",
+   "BRAMPTON WESTWYN"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1512,
+  "ghgrp_id": "G12529"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Cielo Vista Farms Inc.",
+  "f_name": "Cielo Vista Farms Inc.",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "CIELO VISTA FARMS",
+   "CIELO VISTA FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1513,
+  "ghgrp_id": "G12528"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Red Sun Farms Ontario LP",
+  "f_name": "Red Sun Farms Ontario LP",
+  "o_city": "Kingsville",
+  "f_city": "Kingsville",
+  "pair": [
+   "RED SUN FARMS",
+   "RED SUN FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1514,
+  "ghgrp_id": "G12525"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Fernlea Flowers",
+  "f_name": "Fernlea Flowers",
+  "o_city": "Delhi",
+  "f_city": "Delhi",
+  "pair": [
+   "FERNLEA FLOWERS",
+   "FERNLEA FLOWERS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1515,
+  "ghgrp_id": "G12527"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Ya Ya Foods Corporation",
+  "f_name": "Ya Ya Foods Corporation",
+  "o_city": "Etobicoke",
+  "f_city": "Etobicoke",
+  "pair": [
+   "YA YA FOODS",
+   "YA YA FOODS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1516,
+  "ghgrp_id": "G12526"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Boem Berry Farms Inc.",
+  "f_name": "Boem Berry Farms Inc.",
+  "o_city": "Kingsville",
+  "f_city": "Kingsville",
+  "pair": [
+   "BOEM BERRY FARMS",
+   "BOEM BERRY FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1517,
+  "ghgrp_id": "G12517"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Dellcom Aerospace",
+  "f_name": "Dellcom Aerospace",
+  "o_city": "Concord",
+  "f_city": "Concord",
+  "pair": [
+   "DELLCOM AEROSPACE",
+   "DELLCOM AEROSPACE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1518,
+  "ghgrp_id": "G12522"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Via Verde Hydroponics",
+  "f_name": "Via Verde Hydroponics",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "VIA VERDE HYDROPONICS",
+   "VIA VERDE HYDROPONICS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1519,
+  "ghgrp_id": "G12514"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Nylene Canada Inc.",
+  "f_name": "Nylene Canada Inc.",
+  "o_city": "Arnprior",
+  "f_city": "Arnprior",
+  "pair": [
+   "NYLENE",
+   "NYLENE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1520,
+  "ghgrp_id": "G12496"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Côté Gold",
+  "f_name": "Côté Gold",
+  "o_city": "Gogama",
+  "f_city": "Gogama",
+  "pair": [
+   "CÔTÉ GOLD",
+   "CÔTÉ GOLD"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1521,
+  "ghgrp_id": "G12466"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Orlando",
+  "f_name": "Orlando",
+  "o_city": "Mississauga",
+  "f_city": "Mississauga",
+  "pair": [
+   "ORLANDO",
+   "ORLANDO"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1522,
+  "ghgrp_id": "G12537"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Canada Royal Milk ULC",
+  "f_name": "Canada Royal Milk ULC",
+  "o_city": "Kingston",
+  "f_city": "Kingston",
+  "pair": [
+   "CANADA ROYAL MILK",
+   "CANADA ROYAL MILK"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1523,
+  "ghgrp_id": "G12546"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Kerry Renfrew",
+  "f_name": "Kerry Renfrew",
+  "o_city": "Renfrew",
+  "f_city": "Renfrew",
+  "pair": [
+   "KERRY RENFREW",
+   "KERRY RENFREW"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1524,
+  "ghgrp_id": "G12545"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Rokeby Site",
+  "f_name": "Rokeby Site",
+  "o_city": "St. Clair Township",
+  "f_city": "St. Clair Township",
+  "pair": [
+   "ROKEBY SITE",
+   "ROKEBY SITE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1526,
+  "ghgrp_id": "G12816"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "IMT Integrated Facility",
+  "f_name": "IMT Integrated Facility",
+  "o_city": "Kitchener",
+  "f_city": "Kitchener",
+  "pair": [
+   "IMT INTEGRATED FACILITY",
+   "IMT INTEGRATED FACILITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1527,
+  "ghgrp_id": "G12538"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Weston Plant",
+  "f_name": "Weston Plant",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "WESTON PLANT",
+   "WESTON PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1528,
+  "ghgrp_id": "G12491"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "PRESSTRAN INDUSTRIES (1155 Talbot St)",
+  "f_name": "PRESSTRAN INDUSTRIES (1155 Talbot St)",
+  "o_city": "St Thomas",
+  "f_city": "St Thomas",
+  "pair": [
+   "PRESSTRAN INDUSTRIES 1155 TALBOT ST",
+   "PRESSTRAN INDUSTRIES 1155 TALBOT ST"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1529,
+  "ghgrp_id": "G12560"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "PRESSTRAN INDUSTRIES (170 Edward St)",
+  "f_name": "PRESSTRAN INDUSTRIES (170 Edward St)",
+  "o_city": "St Thomas",
+  "f_city": "St Thomas",
+  "pair": [
+   "PRESSTRAN INDUSTRIES 170 EDWARD ST",
+   "PRESSTRAN INDUSTRIES 170 EDWARD ST"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1530,
+  "ghgrp_id": "G12559"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Integrated Hot Mix",
+  "f_name": "Integrated Hot Mix",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "INTEGRATED HOT MIX",
+   "INTEGRATED HOT MIX"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1531,
+  "ghgrp_id": "G12621"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Skyberry Farms Inc.",
+  "f_name": "Skyberry Farms Inc.",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "SKYBERRY FARMS",
+   "SKYBERRY FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1532,
+  "ghgrp_id": "G12618"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "East York Bakery",
+  "f_name": "East York Bakery",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "EAST YORK BAKERY",
+   "EAST YORK BAKERY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1533,
+  "ghgrp_id": "G12611"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Hamilton Confectionery Plant",
+  "f_name": "Hamilton Confectionery Plant",
+  "o_city": "Hamilton",
+  "f_city": "Hamilton",
+  "pair": [
+   "HAMILTON CONFECTIONERY PLANT",
+   "HAMILTON CONFECTIONERY PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1534,
+  "ghgrp_id": "G12589"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "115 Drumlin Cir",
+  "f_name": "115 Drumlin Cir",
+  "o_city": "Concord",
+  "f_city": "Concord",
+  "pair": [
+   "115 DRUMLIN CIR",
+   "115 DRUMLIN CIR"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1535,
+  "ghgrp_id": "G12564"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "180 Viceroy RD",
+  "f_name": "180 Viceroy RD",
+  "o_city": "Concord",
+  "f_city": "Concord",
+  "pair": [
+   "180 VICEROY RD",
+   "180 VICEROY RD"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1536,
+  "ghgrp_id": "G12565"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Magino Mine",
+  "f_name": "Magino Mine",
+  "o_city": "Dubreuilville",
+  "f_city": "Dubreuilville",
+  "pair": [
+   "MAGINO MINE",
+   "MAGINO MINE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1537,
+  "ghgrp_id": "G12844"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Greenstone Mine",
+  "f_name": "Greenstone Mine",
+  "o_city": "Geraldton",
+  "f_city": "Geraldton",
+  "pair": [
+   "GREENSTONE MINE",
+   "GREENSTONE MINE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1538,
+  "ghgrp_id": "G12678"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Pure Flavor Farms, a division of Pure Flavor Farms LP",
+  "f_name": "Pure Flavor Farms, a division of Pure Flavor Farms LP",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "PURE FLAVOR FARMS A DIVISION OF PURE FLAVOR FARMS",
+   "PURE FLAVOR FARMS A DIVISION OF PURE FLAVOR FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1539,
+  "ghgrp_id": "G12679"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Robert O. Pickard Environmental Centre",
+  "f_name": "Robert O. Pickard Environmental Centre",
+  "o_city": "Ottawa",
+  "f_city": "Ottawa",
+  "pair": [
+   "ROBERT O PICKARD ENVIRONMENTAL CENTRE",
+   "ROBERT O PICKARD ENVIRONMENTAL CENTRE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1540,
+  "ghgrp_id": "G12561"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Humber Treatment Plant",
+  "f_name": "Humber Treatment Plant",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "HUMBER TREATMENT PLANT",
+   "HUMBER TREATMENT PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1541,
+  "ghgrp_id": "G12582"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Belden Canada",
+  "f_name": "Belden Canada",
+  "o_city": "Cobourg",
+  "f_city": "Cobourg",
+  "pair": [
+   "BELDEN",
+   "BELDEN"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1542,
+  "ghgrp_id": "G12575"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Extrusion North America - Mississauga",
+  "f_name": "Extrusion North America - Mississauga",
+  "o_city": "Mississauga",
+  "f_city": "Mississauga",
+  "pair": [
+   "EXTRUSION NORTH AMERICA MISSISSAUGA",
+   "EXTRUSION NORTH AMERICA MISSISSAUGA"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1543,
+  "ghgrp_id": "G12581"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Corunna Storage Facility",
+  "f_name": "Corunna Storage Facility",
+  "o_city": "Corunna",
+  "f_city": "Corunna",
+  "pair": [
+   "CORUNNA STORAGE FACILITY",
+   "CORUNNA STORAGE FACILITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1544,
+  "ghgrp_id": "G12634"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Erie Meats Listowel",
+  "f_name": "Erie Meats Listowel",
+  "o_city": "Listowel",
+  "f_city": "Listowel",
+  "pair": [
+   "ERIE MEATS LISTOWEL",
+   "ERIE MEATS LISTOWEL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1545,
+  "ghgrp_id": "G12620"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Richmond Landfill",
+  "f_name": "Richmond Landfill",
+  "o_city": "Napanee",
+  "f_city": "Napanee",
+  "pair": [
+   "RICHMOND LANDFILL",
+   "RICHMOND LANDFILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1546,
+  "ghgrp_id": "G12694"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Peterborough County/City Waste Management Facility",
+  "f_name": "Peterborough County/City Waste Management Facility",
+  "o_city": "Peterborough",
+  "f_city": "Peterborough",
+  "pair": [
+   "PETERBOROUGH COUNTY CITY WASTE MANAGEMENT FACILITY",
+   "PETERBOROUGH COUNTY CITY WASTE MANAGEMENT FACILITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1547,
+  "ghgrp_id": "G12676"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Rochester Aluminum Smelting Canada Limited",
+  "f_name": "Rochester Aluminum Smelting Canada Limited",
+  "o_city": "Concord",
+  "f_city": "Concord",
+  "pair": [
+   "ROCHESTER ALUMINUM SMELTING",
+   "ROCHESTER ALUMINUM SMELTING"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1548,
+  "ghgrp_id": "G12708"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "KARMAX HEAVY STAMPING - MILTON",
+  "f_name": "KARMAX HEAVY STAMPING - MILTON",
+  "o_city": "Milton",
+  "f_city": "Milton",
+  "pair": [
+   "KARMAX HEAVY STAMPING MILTON",
+   "KARMAX HEAVY STAMPING MILTON"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1549,
+  "ghgrp_id": "G12720"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Hacienda North Farms Plant 2",
+  "f_name": "Hacienda North Farms Plant 2",
+  "o_city": "Wheatley",
+  "f_city": "Wheatley",
+  "pair": [
+   "HACIENDA NORTH FARMS PLANT 2",
+   "HACIENDA NORTH FARMS PLANT 2"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1550,
+  "ghgrp_id": "G12800"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "1300 Flint",
+  "f_name": "1300 Flint",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "1300 FLINT",
+   "1300 FLINT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1551,
+  "ghgrp_id": "G12835"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "141 Snidercroft",
+  "f_name": "141 Snidercroft",
+  "o_city": "Vaughan",
+  "f_city": "Vaughan",
+  "pair": [
+   "141 SNIDERCROFT",
+   "141 SNIDERCROFT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1552,
+  "ghgrp_id": "G12834"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "JPI Farms Inc.",
+  "f_name": "JPI Farms Inc.",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "JPI FARMS",
+   "JPI FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1553,
+  "ghgrp_id": "G12831"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Flavor Fresh Farms Ltd.",
+  "f_name": "Flavor Fresh Farms Ltd.",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "FLAVOR FRESH FARMS",
+   "FLAVOR FRESH FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1554,
+  "ghgrp_id": "G12830"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Atikokan Sawmill",
+  "f_name": "Atikokan Sawmill",
+  "o_city": "Atikokan",
+  "f_city": "Atikokan",
+  "pair": [
+   "ATIKOKAN SAWMILL",
+   "ATIKOKAN SAWMILL"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1555,
+  "ghgrp_id": "G12740"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Maple Leaf Foods - London Poultry",
+  "f_name": "Maple Leaf Foods - London Poultry",
+  "o_city": "London",
+  "f_city": "London",
+  "pair": [
+   "MAPLE LEAF FOODS LONDON POULTRY",
+   "MAPLE LEAF FOODS LONDON POULTRY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1557,
+  "ghgrp_id": "G12825"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Teeswater",
+  "f_name": "Teeswater",
+  "o_city": "Teeswater",
+  "f_city": "Teeswater",
+  "pair": [
+   "TEESWATER",
+   "TEESWATER"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1558,
+  "ghgrp_id": "G12797"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Clarkson Water Resource Recovery Facility",
+  "f_name": "Clarkson Water Resource Recovery Facility",
+  "o_city": "Mississauga",
+  "f_city": "Mississauga",
+  "pair": [
+   "CLARKSON WATER RESOURCE RECOVERY FACILITY",
+   "CLARKSON WATER RESOURCE RECOVERY FACILITY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1560,
+  "ghgrp_id": "G12759"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "J/E Bearing & Machine Ltd.",
+  "f_name": "J/E Bearing & Machine Ltd.",
+  "o_city": "Tillsonburg",
+  "f_city": "Tillsonburg",
+  "pair": [
+   "J E BEARING AND MACHINE",
+   "J E BEARING AND MACHINE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1561,
+  "ghgrp_id": "G12827"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Brampton Orenda",
+  "f_name": "Brampton Orenda",
+  "o_city": "Brampton",
+  "f_city": "Brampton",
+  "pair": [
+   "BRAMPTON ORENDA",
+   "BRAMPTON ORENDA"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1562,
+  "ghgrp_id": "G12791"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Oakville",
+  "f_name": "Oakville",
+  "o_city": "Oakville",
+  "f_city": "Oakville",
+  "pair": [
+   "OAKVILLE",
+   "OAKVILLE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1563,
+  "ghgrp_id": "G12792"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Paris",
+  "f_name": "Paris",
+  "o_city": "Paris",
+  "f_city": "Paris",
+  "pair": [
+   "PARIS",
+   "PARIS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1564,
+  "ghgrp_id": "G12793"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Port Colborne",
+  "f_name": "Port Colborne",
+  "o_city": "Port Colborne",
+  "f_city": "Port Colborne",
+  "pair": [
+   "PORT COLBORNE",
+   "PORT COLBORNE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1565,
+  "ghgrp_id": "G12794"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Miller Central Integrated Asphalt and Aggregate",
+  "f_name": "Miller Central Integrated Asphalt and Aggregate",
+  "o_city": "Scarborough",
+  "f_city": "Scarborough",
+  "pair": [
+   "MILLER CENTRAL INTEGRATED ASPHALT AND AGGREGATE",
+   "MILLER CENTRAL INTEGRATED ASPHALT AND AGGREGATE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1566,
+  "ghgrp_id": "G12737"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Kubebooth Inc.",
+  "f_name": "Kubebooth Inc.",
+  "o_city": "Toronto",
+  "f_city": "Toronto",
+  "pair": [
+   "KUBEBOOTH",
+   "KUBEBOOTH"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1567,
+  "ghgrp_id": "G12741"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Barrie Landfill Site",
+  "f_name": "Barrie Landfill Site",
+  "o_city": "Barrie",
+  "f_city": "Barrie",
+  "pair": [
+   "BARRIE LANDFILL SITE",
+   "BARRIE LANDFILL SITE"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1568,
+  "ghgrp_id": "G12837"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Generate Two Path 21 Fenmar LP",
+  "f_name": "Generate Two Path 21 Fenmar LP",
+  "o_city": "North York",
+  "f_city": "North York",
+  "pair": [
+   "GENERATE TWO PATH 21 FENMAR",
+   "GENERATE TWO PATH 21 FENMAR"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1569,
+  "ghgrp_id": "G12846"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Bombardier Toronto",
+  "f_name": "Bombardier Toronto",
+  "o_city": "Mississauga",
+  "f_city": "Mississauga",
+  "pair": [
+   "BOMBARDIER TORONTO",
+   "BOMBARDIER TORONTO"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1570,
+  "ghgrp_id": "G12197"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "De Temporada Farms a division of Pure Flavor Farms LP",
+  "f_name": "De Temporada Farms a division of Pure Flavor Farms LP",
+  "o_city": "Merlin",
+  "f_city": "Merlin",
+  "pair": [
+   "DE TEMPORADA FARMS A DIVISION OF PURE FLAVOR FARMS",
+   "DE TEMPORADA FARMS A DIVISION OF PURE FLAVOR FARMS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1571,
+  "ghgrp_id": "G12849"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Wallenstein Feed & Supply",
+  "f_name": "Wallenstein Feed & Supply",
+  "o_city": "Wallenstein",
+  "f_city": "Wallenstein",
+  "pair": [
+   "WALLENSTEIN FEED AND SUPPLY",
+   "WALLENSTEIN FEED AND SUPPLY"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1572,
+  "ghgrp_id": "G12856"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Darlington Nuclear",
+  "f_name": "Darlington Nuclear",
+  "o_city": "Bowmanville",
+  "f_city": "Bowmanville",
+  "pair": [
+   "DARLINGTON NUCLEAR",
+   "DARLINGTON NUCLEAR"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1573,
+  "ghgrp_id": "G12858"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "2820853 Ontario Inc.",
+  "f_name": "2820853 Ontario Inc.",
+  "o_city": "Leamington",
+  "f_city": "Leamington",
+  "pair": [
+   "2820853",
+   "2820853"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1574,
+  "ghgrp_id": "G12901"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Mid-Halton Wastewater Treatment Plant",
+  "f_name": "Mid-Halton Wastewater Treatment Plant",
+  "o_city": "Oakville",
+  "f_city": "Oakville",
+  "pair": [
+   "MID HALTON WASTEWATER TREATMENT PLANT",
+   "MID HALTON WASTEWATER TREATMENT PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1575,
+  "ghgrp_id": "G12940"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Burlington Skyway Wastewater Treatment Plant",
+  "f_name": "Burlington Skyway Wastewater Treatment Plant",
+  "o_city": "Burlington",
+  "f_city": "Burlington",
+  "pair": [
+   "BURLINGTON SKYWAY WASTEWATER TREATMENT PLANT",
+   "BURLINGTON SKYWAY WASTEWATER TREATMENT PLANT"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1576,
+  "ghgrp_id": "G12945"
+ },
+ {
+  "ratio": 1.0,
+  "o_name": "Conestoga Meat Packers",
+  "f_name": "Conestoga Meat Packers",
+  "o_city": "Breslau",
+  "f_city": "Breslau",
+  "pair": [
+   "CONESTOGA MEAT PACKERS",
+   "CONESTOGA MEAT PACKERS"
+  ],
+  "tier": "anchored",
+  "ontario_ghg_id": 1577,
+  "ghgrp_id": "G12942"
+ }
+]

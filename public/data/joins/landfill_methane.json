@@ -1,0 +1,317 @@
+{
+ "join_spec": {
+  "purpose": "Link the Ontario landfill registry (waste disposal site inventory) to the emissions spine.",
+  "join_keys": [
+   "facility name (normalized)",
+   "municipality/city",
+   "postal code FSA",
+   "operator/legal name"
+  ],
+  "expected_confidence": "anchored on exact normalized (name, city); resolved on fuzzy name + same municipality",
+  "grain": "One registry site may map to one spine facility; multi-cell landfills may split across ECA approvals.",
+  "blocker": "The registry was not part of this build; only the facility-side methane ranking below is computed."
+ },
+ "n_landfill_like": 89,
+ "methane_ranking_2024": [
+  {
+   "program": "ontario_ghg",
+   "facility_id": "1449",
+   "name": "Essex-Windsor Regional Landfill",
+   "city": "Essex",
+   "naics": "562210",
+   "total_2024_t": 335255.0,
+   "ch4_2024_co2e_t": 332599.8214,
+   "ch4_share_pct": 99.2
+  },
+  {
+   "program": "federal_ghgrp",
+   "facility_id": "G10365",
+   "name": "Essex-Windsor Regional Landfill",
+   "city": "Essex",
+   "naics": "562210",
+   "total_2024_t": 333782.8794,
+   "ch4_2024_co2e_t": 332599.8214,
+   "ch4_share_pct": 99.6
+  },
+  {
+   "program": "ontario_ghg",
+   "facility_id": "1431",
+   "name": "Twin Creeks Landfill (formerly Warwick Landfill)",
+   "city": "Watford",
+   "naics": "562210",
+   "total_2024_t": 323659.0,
+   "ch4_2024_co2e_t": 320601.106,
+   "ch4_share_pct": 99.1
+  },
+  {
+   "program": "federal_ghgrp",
+   "facility_id": "G10762",
+   "name": "Twin Creeks Landfill (formerly Warwick Landfill)",
+   "city": "Watford",
+   "naics": "562210",
+   "total_2024_t": 323588.1878,
+   "ch4_2024_co2e_t": 320601.106,
+   "ch4_share_pct": 99.1
+  },
+  {
+   "program": "ontario_ghg",
+   "facility_id": "1441",
+   "name": "Keele Valley Landfill",
+   "city": "Maple",
+   "naics": "562210",
+   "total_2024_t": 243901.0,
+   "ch4_2024_co2e_t": 222895.26,
+   "ch4_share_pct": 91.4
+  },
+  {
+   "program": "federal_ghgrp",
+   "facility_id": "G10161",
+   "name": "Keele Valley Landfill",
+   "city": "Maple",
+   "naics": "562210",
+   "total_2024_t": 222964.203,
+   "ch4_2024_co2e_t": 222895.26,
+   "ch4_share_pct": 100.0
+  },
+  {
+   "program": "ontario_ghg",
+   "facility_id": "1479",
+   "name": "Walker Environmental Group Inc. Landfill Sites",
+   "city": "Niagara Falls",
+   "naics": "562210",
+   "total_2024_t": 262122.0,
+   "ch4_2024_co2e_t": 206036.18,
+   "ch4_share_pct": 78.6
+  },
+  {
+   "program": "federal_ghgrp",
+   "facility_id": "G10337",
+   "name": "Walker Environmental Group Inc. Landfill Sites",
+   "city": "Niagara Falls",
+   "naics": "562210",
+   "total_2024_t": 206036.18,
+   "ch4_2024_co2e_t": 206036.18,
+   "ch4_share_pct": 100.0
+  },
+  {
+   "program": "ontario_ghg",
+   "facility_id": "1480",
+   "name": "Ridge Landfill",
+   "city": "Blenheim",
+   "naics": "562210",
+   "total_2024_t": 233964.0,
+   "ch4_2024_co2e_t": 161350.9005,
+   "ch4_share_pct": 69.0
+  },
+  {
+   "program": "federal_ghgrp",
+   "facility_id": "G10343",
+   "name": "Ridge Landfill",
+   "city": "Blenheim",
+   "naics": "562210",
+   "total_2024_t": 165044.4454,
+   "ch4_2024_co2e_t": 161350.9005,
+   "ch4_share_pct": 97.8
+  },
+  {
+   "program": "ontario_ghg",
+   "facility_id": "1423",
+   "name": "Britannia Sanitary Landfill Site",
+   "city": "Mississauga",
+   "naics": "562210",
+   "total_2024_t": 160633.0,
+   "ch4_2024_co2e_t": 155255.072,
+   "ch4_share_pct": 96.7
+  },
+  {
+   "program": "federal_ghgrp",
+   "facility_id": "G10376",
+   "name": "Britannia Sanitary Landfill Site",
+   "city": "Mississauga",
+   "naics": "562210",
+   "total_2024_t": 155255.072,
+   "ch4_2024_co2e_t": 155255.072,
+   "ch4_share_pct": 100.0
+  },
+  {
+   "program": "ontario_ghg",
+   "facility_id": "1453",
+   "name": "Green Lane Landfill",
+   "city": "St. Thomas",
+   "naics": "562210",
+   "total_2024_t": 195824.0,
+   "ch4_2024_co2e_t": 136789.1728,
+   "ch4_share_pct": 69.9
+  },
+  {
+   "program": "federal_ghgrp",
+   "facility_id": "G10471",
+   "name": "Green Lane Landfill",
+   "city": "St. Thomas",
+   "naics": "562210",
+   "total_2024_t": 139381.1411,
+   "ch4_2024_co2e_t": 136789.1728,
+   "ch4_share_pct": 98.1
+  },
+  {
+   "program": "ontario_ghg",
+   "facility_id": "1477",
+   "name": "Mohawk Street Landfill",
+   "city": "Brantford",
+   "naics": "562210",
+   "total_2024_t": 139982.0,
+   "ch4_2024_co2e_t": 128063.5692,
+   "ch4_share_pct": 91.5
+  },
+  {
+   "program": "federal_ghgrp",
+   "facility_id": "G10193",
+   "name": "Mohawk Street Landfill",
+   "city": "Brantford",
+   "naics": "562210",
+   "total_2024_t": 128653.9517,
+   "ch4_2024_co2e_t": 128063.5692,
+   "ch4_share_pct": 99.5
+  },
+  {
+   "program": "ontario_ghg",
+   "facility_id": "1421",
+   "name": "W12A Landfill",
+   "city": "London",
+   "naics": "562210",
+   "total_2024_t": 131314.0,
+   "ch4_2024_co2e_t": 109061.792,
+   "ch4_share_pct": 83.1
+  },
+  {
+   "program": "federal_ghgrp",
+   "facility_id": "G10310",
+   "name": "W12A Landfill",
+   "city": "London",
+   "naics": "562210",
+   "total_2024_t": 110313.657,
+   "ch4_2024_co2e_t": 109061.792,
+   "ch4_share_pct": 98.9
+  },
+  {
+   "program": "ontario_ghg",
+   "facility_id": "1440",
+   "name": "Brock West Landfill",
+   "city": "Pickering",
+   "naics": "562210",
+   "total_2024_t": 112839.0,
+   "ch4_2024_co2e_t": 108995.5439,
+   "ch4_share_pct": 96.6
+  },
+  {
+   "program": "federal_ghgrp",
+   "facility_id": "G10032",
+   "name": "Brock West Landfill",
+   "city": "Pickering",
+   "naics": "562210",
+   "total_2024_t": 109008.4563,
+   "ch4_2024_co2e_t": 108995.5439,
+   "ch4_share_pct": 100.0
+  },
+  {
+   "program": "ontario_ghg",
+   "facility_id": "1448",
+   "name": "Essex County Landfill No. 3",
+   "city": "Lakeshore",
+   "naics": "562210",
+   "total_2024_t": 100494.0,
+   "ch4_2024_co2e_t": 100493.008,
+   "ch4_share_pct": 100.0
+  },
+  {
+   "program": "federal_ghgrp",
+   "facility_id": "G10364",
+   "name": "Essex County Landfill No. 3",
+   "city": "Lakeshore",
+   "naics": "562210",
+   "total_2024_t": 100493.008,
+   "ch4_2024_co2e_t": 100493.008,
+   "ch4_share_pct": 100.0
+  },
+  {
+   "program": "ontario_ghg",
+   "facility_id": "1465",
+   "name": "Halton Waste Management Site",
+   "city": "25 Milton",
+   "naics": "562210",
+   "total_2024_t": 97847.0,
+   "ch4_2024_co2e_t": 97207.9052,
+   "ch4_share_pct": 99.3
+  },
+  {
+   "program": "federal_ghgrp",
+   "facility_id": "G11093",
+   "name": "Halton Waste Management Site",
+   "city": "25 Milton",
+   "naics": "562210",
+   "total_2024_t": 97207.9052,
+   "ch4_2024_co2e_t": 97207.9052,
+   "ch4_share_pct": 100.0
+  },
+  {
+   "program": "ontario_ghg",
+   "facility_id": "1451",
+   "name": "Eastern Ontario Waste Handling Facility – Landfill",
+   "city": "Moose Creek",
+   "naics": "562210",
+   "total_2024_t": 246443.0,
+   "ch4_2024_co2e_t": 84400.8396,
+   "ch4_share_pct": 34.2
+  },
+  {
+   "program": "federal_ghgrp",
+   "facility_id": "G11388",
+   "name": "Eastern Ontario Waste Handling Facility – Landfill",
+   "city": "Moose Creek",
+   "naics": "562210",
+   "total_2024_t": 84479.4492,
+   "ch4_2024_co2e_t": 84400.8396,
+   "ch4_share_pct": 99.9
+  },
+  {
+   "program": "ontario_ghg",
+   "facility_id": "1027",
+   "name": "Trail Road Waste Facility",
+   "city": "Ottawa",
+   "naics": "562210",
+   "total_2024_t": 93633.0,
+   "ch4_2024_co2e_t": 74096.3468,
+   "ch4_share_pct": 79.1
+  },
+  {
+   "program": "federal_ghgrp",
+   "facility_id": "G10348",
+   "name": "Trail Road Waste Facility",
+   "city": "Ottawa",
+   "naics": "562210",
+   "total_2024_t": 75374.95858,
+   "ch4_2024_co2e_t": 74096.3468,
+   "ch4_share_pct": 98.3
+  },
+  {
+   "program": "ontario_ghg",
+   "facility_id": "1547",
+   "name": "Peterborough County/City Waste Management Facility",
+   "city": "Peterborough",
+   "naics": "562210",
+   "total_2024_t": 62058.0,
+   "ch4_2024_co2e_t": 58823.3996,
+   "ch4_share_pct": 94.8
+  },
+  {
+   "program": "federal_ghgrp",
+   "facility_id": "G12676",
+   "name": "Peterborough County/City Waste Management Facility",
+   "city": "Peterborough",
+   "naics": "562210",
+   "total_2024_t": 59191.4706,
+   "ch4_2024_co2e_t": 58823.3996,
+   "ch4_share_pct": 99.4
+  }
+ ]
+}

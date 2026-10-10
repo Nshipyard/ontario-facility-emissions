@@ -1,0 +1,825 @@
+{
+ "note": "No record-level join exists: EWRB publishes no building names or street addresses, only city and 3-character postal code, so no EWRB row can be resolved to a named facility. All EWRB rows are quarantined with reason codes. This file carries city-level manufacturing-plant intensity context attached to matched industrial facilities (ecological confidence, not building-level).",
+ "cities_with_manufacturing_context": 49,
+ "facilities_with_context": 96,
+ "city_context": {
+  "121 Pippin Road": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 3.647,
+   "p10_wn_site_eui": 3.647,
+   "p90_wn_site_eui": 3.647,
+   "median_ghg_kgco2e_m2": 56.08,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Ajax": {
+   "n_buildings": 3,
+   "median_wn_site_eui_gj_m2": 0.321,
+   "p10_wn_site_eui": 0.321,
+   "p90_wn_site_eui": 0.321,
+   "median_ghg_kgco2e_m2": 2.37,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Barrie": {
+   "n_buildings": 4,
+   "median_wn_site_eui_gj_m2": 1.109,
+   "p10_wn_site_eui": 0.701,
+   "p90_wn_site_eui": 1.517,
+   "median_ghg_kgco2e_m2": 14.26,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Bradford": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 0.744,
+   "p10_wn_site_eui": 0.744,
+   "p90_wn_site_eui": 0.744,
+   "median_ghg_kgco2e_m2": 23.57,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Brampton": {
+   "n_buildings": 43,
+   "median_wn_site_eui_gj_m2": 0.587,
+   "p10_wn_site_eui": 0.426,
+   "p90_wn_site_eui": 2.521,
+   "median_ghg_kgco2e_m2": 16.25,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Brantford": {
+   "n_buildings": 5,
+   "median_wn_site_eui_gj_m2": 3.38,
+   "p10_wn_site_eui": 1.643,
+   "p90_wn_site_eui": 5.91,
+   "median_ghg_kgco2e_m2": 50.38,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Brockville": {
+   "n_buildings": 2,
+   "median_wn_site_eui_gj_m2": 8543.463,
+   "p10_wn_site_eui": 1712.666,
+   "p90_wn_site_eui": 15374.261,
+   "median_ghg_kgco2e_m2": 405048.07,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Burlington": {
+   "n_buildings": 5,
+   "median_wn_site_eui_gj_m2": 1.032,
+   "p10_wn_site_eui": 0.322,
+   "p90_wn_site_eui": 1.788,
+   "median_ghg_kgco2e_m2": 37.57,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Cambridge": {
+   "n_buildings": 3,
+   "median_wn_site_eui_gj_m2": 1.538,
+   "p10_wn_site_eui": 1.326,
+   "p90_wn_site_eui": 1.75,
+   "median_ghg_kgco2e_m2": 36.27,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Collingwood": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 2.056,
+   "p10_wn_site_eui": 2.056,
+   "p90_wn_site_eui": 2.056,
+   "median_ghg_kgco2e_m2": 55.43,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Concord": {
+   "n_buildings": 17,
+   "median_wn_site_eui_gj_m2": 1.054,
+   "p10_wn_site_eui": 0.417,
+   "p90_wn_site_eui": 8.12,
+   "median_ghg_kgco2e_m2": 23.79,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Elmira": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 1.936,
+   "p10_wn_site_eui": 1.936,
+   "p90_wn_site_eui": 1.936,
+   "median_ghg_kgco2e_m2": 61.68,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Etobicoke": {
+   "n_buildings": 10,
+   "median_wn_site_eui_gj_m2": 0.845,
+   "p10_wn_site_eui": 0.374,
+   "p90_wn_site_eui": 2.475,
+   "median_ghg_kgco2e_m2": 23.52,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Fergus": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 0.759,
+   "p10_wn_site_eui": 0.759,
+   "p90_wn_site_eui": 0.759,
+   "median_ghg_kgco2e_m2": 21.85,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Grimsby": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 0.756,
+   "p10_wn_site_eui": 0.756,
+   "p90_wn_site_eui": 0.756,
+   "median_ghg_kgco2e_m2": 17.01,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Guelph": {
+   "n_buildings": 3,
+   "median_wn_site_eui_gj_m2": 0.763,
+   "p10_wn_site_eui": 0.439,
+   "p90_wn_site_eui": 1.167,
+   "median_ghg_kgco2e_m2": 27.02,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Kanata": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 4.183,
+   "p10_wn_site_eui": 4.183,
+   "p90_wn_site_eui": 4.183,
+   "median_ghg_kgco2e_m2": 107.21,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Kitchener": {
+   "n_buildings": 3,
+   "median_wn_site_eui_gj_m2": 0.897,
+   "p10_wn_site_eui": 0.61,
+   "p90_wn_site_eui": 6.014,
+   "median_ghg_kgco2e_m2": 25.73,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Leamington": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 4.854,
+   "p10_wn_site_eui": 4.854,
+   "p90_wn_site_eui": 4.854,
+   "median_ghg_kgco2e_m2": 91.92,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "London": {
+   "n_buildings": 3,
+   "median_wn_site_eui_gj_m2": 0.692,
+   "p10_wn_site_eui": 0.666,
+   "p90_wn_site_eui": 0.763,
+   "median_ghg_kgco2e_m2": 21.64,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Markham": {
+   "n_buildings": 3,
+   "median_wn_site_eui_gj_m2": 0.872,
+   "p10_wn_site_eui": 0.815,
+   "p90_wn_site_eui": 8.507,
+   "median_ghg_kgco2e_m2": 24.65,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Milton": {
+   "n_buildings": 4,
+   "median_wn_site_eui_gj_m2": 0.354,
+   "p10_wn_site_eui": 0.141,
+   "p90_wn_site_eui": 0.55,
+   "median_ghg_kgco2e_m2": 10.98,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Mississauga": {
+   "n_buildings": 177,
+   "median_wn_site_eui_gj_m2": 0.606,
+   "p10_wn_site_eui": 0.401,
+   "p90_wn_site_eui": 1.568,
+   "median_ghg_kgco2e_m2": 14.21,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "New Tecumseth": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 1.448,
+   "p10_wn_site_eui": 1.448,
+   "p90_wn_site_eui": 1.448,
+   "median_ghg_kgco2e_m2": 23.36,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Newmarket": {
+   "n_buildings": 3,
+   "median_wn_site_eui_gj_m2": 1.926,
+   "p10_wn_site_eui": 1.926,
+   "p90_wn_site_eui": 1.926,
+   "median_ghg_kgco2e_m2": 68.89,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Norfolk County": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 9.898,
+   "p10_wn_site_eui": 9.898,
+   "p90_wn_site_eui": 9.898,
+   "median_ghg_kgco2e_m2": 250.05,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "North Bay": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 0.663,
+   "p10_wn_site_eui": 0.663,
+   "p90_wn_site_eui": 0.663,
+   "median_ghg_kgco2e_m2": 19.81,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "North York": {
+   "n_buildings": 7,
+   "median_wn_site_eui_gj_m2": 7.91,
+   "p10_wn_site_eui": 0.843,
+   "p90_wn_site_eui": 10.125,
+   "median_ghg_kgco2e_m2": 252.31,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Oakville": {
+   "n_buildings": 4,
+   "median_wn_site_eui_gj_m2": 0.88,
+   "p10_wn_site_eui": 0.587,
+   "p90_wn_site_eui": 3.558,
+   "median_ghg_kgco2e_m2": 28.69,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Oldcastle": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 2.275,
+   "p10_wn_site_eui": 2.275,
+   "p90_wn_site_eui": 2.275,
+   "median_ghg_kgco2e_m2": 32.61,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Ottawa": {
+   "n_buildings": 3,
+   "median_wn_site_eui_gj_m2": 0.788,
+   "p10_wn_site_eui": 0.536,
+   "p90_wn_site_eui": 1.041,
+   "median_ghg_kgco2e_m2": 12.38,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Owen Sound": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 0.799,
+   "p10_wn_site_eui": 0.799,
+   "p90_wn_site_eui": 0.799,
+   "median_ghg_kgco2e_m2": 9.36,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Owen Sound, On, Canada": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 0.888,
+   "p10_wn_site_eui": 0.888,
+   "p90_wn_site_eui": 0.888,
+   "median_ghg_kgco2e_m2": 26.26,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Perth": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 1.557,
+   "p10_wn_site_eui": 1.557,
+   "p90_wn_site_eui": 1.557,
+   "median_ghg_kgco2e_m2": 31.97,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Pickering": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 0.882,
+   "p10_wn_site_eui": 0.882,
+   "p90_wn_site_eui": 0.882,
+   "median_ghg_kgco2e_m2": 22.17,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Renfrew": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 0.486,
+   "p10_wn_site_eui": 0.486,
+   "p90_wn_site_eui": 0.486,
+   "median_ghg_kgco2e_m2": 12.92,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Richmond Hill": {
+   "n_buildings": 6,
+   "median_wn_site_eui_gj_m2": 0.626,
+   "p10_wn_site_eui": 0.54,
+   "p90_wn_site_eui": 0.794,
+   "median_ghg_kgco2e_m2": 18.84,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Ruthven": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 9.434,
+   "p10_wn_site_eui": 9.434,
+   "p90_wn_site_eui": 9.434,
+   "median_ghg_kgco2e_m2": 422.16,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Scarborough": {
+   "n_buildings": 18,
+   "median_wn_site_eui_gj_m2": 0.938,
+   "p10_wn_site_eui": 0.592,
+   "p90_wn_site_eui": 1.67,
+   "median_ghg_kgco2e_m2": 27.77,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Shelburne": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 2.257,
+   "p10_wn_site_eui": 2.257,
+   "p90_wn_site_eui": 2.257,
+   "median_ghg_kgco2e_m2": 22.6,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Stoney Creek": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 1.373,
+   "p10_wn_site_eui": 1.373,
+   "p90_wn_site_eui": 1.373,
+   "median_ghg_kgco2e_m2": 34.23,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Sudbury": {
+   "n_buildings": 2,
+   "median_wn_site_eui_gj_m2": 0.053,
+   "p10_wn_site_eui": 0.053,
+   "p90_wn_site_eui": 0.053,
+   "median_ghg_kgco2e_m2": 117.17,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Tecumseh": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 1.722,
+   "p10_wn_site_eui": 1.722,
+   "p90_wn_site_eui": 1.722,
+   "median_ghg_kgco2e_m2": 41.12,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Toronto": {
+   "n_buildings": 39,
+   "median_wn_site_eui_gj_m2": 1.026,
+   "p10_wn_site_eui": 0.348,
+   "p90_wn_site_eui": 7.962,
+   "median_ghg_kgco2e_m2": 29.71,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Vaughan": {
+   "n_buildings": 30,
+   "median_wn_site_eui_gj_m2": 0.644,
+   "p10_wn_site_eui": 0.429,
+   "p90_wn_site_eui": 1.973,
+   "median_ghg_kgco2e_m2": 19.27,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Whitby": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 0.593,
+   "p10_wn_site_eui": 0.593,
+   "p90_wn_site_eui": 0.593,
+   "median_ghg_kgco2e_m2": 21.53,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Windsor": {
+   "n_buildings": 3,
+   "median_wn_site_eui_gj_m2": 0.747,
+   "p10_wn_site_eui": 0.61,
+   "p90_wn_site_eui": 0.857,
+   "median_ghg_kgco2e_m2": 23.57,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "Woodbridge": {
+   "n_buildings": 12,
+   "median_wn_site_eui_gj_m2": 0.992,
+   "p10_wn_site_eui": 0.643,
+   "p90_wn_site_eui": 2.471,
+   "median_ghg_kgco2e_m2": 26.75,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  },
+  "York": {
+   "n_buildings": 1,
+   "median_wn_site_eui_gj_m2": 0.403,
+   "p10_wn_site_eui": 0.403,
+   "p90_wn_site_eui": 0.403,
+   "median_ghg_kgco2e_m2": 15.82,
+   "confidence": "ecological",
+   "note": "City median across anonymized EWRB manufacturing plants. No building-level join possible."
+  }
+ },
+ "best_matches": [
+  {
+   "spine_id": "ONF-000069",
+   "name": "Mississauga Cement Plant",
+   "city": "Mississauga",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Mississauga",
+    "n_buildings": 177,
+    "median_wn_site_eui_gj_m2": 0.606,
+    "p10_wn_site_eui": 0.401,
+    "p90_wn_site_eui": 1.568,
+    "median_ghg_kgco2e_m2": 14.21,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000111",
+   "name": "Mississauga Lubricants Centre",
+   "city": "Mississauga",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Mississauga",
+    "n_buildings": 177,
+    "median_wn_site_eui_gj_m2": 0.606,
+    "p10_wn_site_eui": 0.401,
+    "p90_wn_site_eui": 1.568,
+    "median_ghg_kgco2e_m2": 14.21,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000299",
+   "name": "Whitby",
+   "city": "Whitby",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Whitby",
+    "n_buildings": 1,
+    "median_wn_site_eui_gj_m2": 0.593,
+    "p10_wn_site_eui": 0.593,
+    "p90_wn_site_eui": 0.593,
+    "median_ghg_kgco2e_m2": 21.53,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000055",
+   "name": "Gerdau Ameristeel Corporation, Whitby Mill",
+   "city": "Whitby",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Whitby",
+    "n_buildings": 1,
+    "median_wn_site_eui_gj_m2": 0.593,
+    "p10_wn_site_eui": 0.593,
+    "p90_wn_site_eui": 0.593,
+    "median_ghg_kgco2e_m2": 21.53,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000076",
+   "name": "Ingredion Canada Incorporated - London Plant",
+   "city": "London",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "London",
+    "n_buildings": 3,
+    "median_wn_site_eui_gj_m2": 0.692,
+    "p10_wn_site_eui": 0.666,
+    "p90_wn_site_eui": 0.763,
+    "median_ghg_kgco2e_m2": 21.64,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000103",
+   "name": "Plant #31 Brampton",
+   "city": "Brampton",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Brampton",
+    "n_buildings": 43,
+    "median_wn_site_eui_gj_m2": 0.587,
+    "p10_wn_site_eui": 0.426,
+    "p90_wn_site_eui": 2.521,
+    "median_ghg_kgco2e_m2": 16.25,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000001",
+   "name": "ADM AGRI-INDUSTRIES - ADM Windsor",
+   "city": "Windsor",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Windsor",
+    "n_buildings": 3,
+    "median_wn_site_eui_gj_m2": 0.747,
+    "p10_wn_site_eui": 0.61,
+    "p90_wn_site_eui": 0.857,
+    "median_ghg_kgco2e_m2": 23.57,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000094",
+   "name": "New Forest Paper Mills LP",
+   "city": "Scarborough",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Scarborough",
+    "n_buildings": 18,
+    "median_wn_site_eui_gj_m2": 0.938,
+    "p10_wn_site_eui": 0.592,
+    "p90_wn_site_eui": 1.67,
+    "median_ghg_kgco2e_m2": 27.77,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000118",
+   "name": "Toronto Refinery",
+   "city": "Toronto",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Toronto",
+    "n_buildings": 39,
+    "median_wn_site_eui_gj_m2": 1.026,
+    "p10_wn_site_eui": 0.348,
+    "p90_wn_site_eui": 7.962,
+    "median_ghg_kgco2e_m2": 29.71,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000140",
+   "name": "Toyota Motor Manufacturing Canada Inc. (Cambridge)",
+   "city": "Cambridge",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Cambridge",
+    "n_buildings": 3,
+    "median_wn_site_eui_gj_m2": 1.538,
+    "p10_wn_site_eui": 1.326,
+    "p90_wn_site_eui": 1.75,
+    "median_ghg_kgco2e_m2": 36.27,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000121",
+   "name": "ROXUL Inc.",
+   "city": "Milton",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Milton",
+    "n_buildings": 4,
+    "median_wn_site_eui_gj_m2": 0.354,
+    "p10_wn_site_eui": 0.141,
+    "p90_wn_site_eui": 0.55,
+    "median_ghg_kgco2e_m2": 10.98,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000123",
+   "name": "Sanofi Pasteur Limited",
+   "city": "Toronto",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Toronto",
+    "n_buildings": 39,
+    "median_wn_site_eui_gj_m2": 1.026,
+    "p10_wn_site_eui": 0.348,
+    "p90_wn_site_eui": 7.962,
+    "median_ghg_kgco2e_m2": 29.71,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000026",
+   "name": "FCA Canada Inc. - Windsor Assembly Plant",
+   "city": "Windsor",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Windsor",
+    "n_buildings": 3,
+    "median_wn_site_eui_gj_m2": 0.747,
+    "p10_wn_site_eui": 0.61,
+    "p90_wn_site_eui": 0.857,
+    "median_ghg_kgco2e_m2": 23.57,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000062",
+   "name": "Highbury Canco Corporation",
+   "city": "Leamington",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Leamington",
+    "n_buildings": 1,
+    "median_wn_site_eui_gj_m2": 4.854,
+    "p10_wn_site_eui": 4.854,
+    "p90_wn_site_eui": 4.854,
+    "median_ghg_kgco2e_m2": 91.92,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000068",
+   "name": "Walkerville",
+   "city": "Windsor",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Windsor",
+    "n_buildings": 3,
+    "median_wn_site_eui_gj_m2": 0.747,
+    "p10_wn_site_eui": 0.61,
+    "p90_wn_site_eui": 0.857,
+    "median_ghg_kgco2e_m2": 23.57,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000139",
+   "name": "Agincourt Plant",
+   "city": "Toronto",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Toronto",
+    "n_buildings": 39,
+    "median_wn_site_eui_gj_m2": 1.026,
+    "p10_wn_site_eui": 0.348,
+    "p90_wn_site_eui": 7.962,
+    "median_ghg_kgco2e_m2": 29.71,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000006",
+   "name": "111 Progress",
+   "city": "Scarborough",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Scarborough",
+    "n_buildings": 18,
+    "median_wn_site_eui_gj_m2": 0.938,
+    "p10_wn_site_eui": 0.592,
+    "p90_wn_site_eui": 1.67,
+    "median_ghg_kgco2e_m2": 27.77,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000011",
+   "name": "Brampton Brick Limited",
+   "city": "Brampton",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Brampton",
+    "n_buildings": 43,
+    "median_wn_site_eui_gj_m2": 0.587,
+    "p10_wn_site_eui": 0.426,
+    "p90_wn_site_eui": 2.521,
+    "median_ghg_kgco2e_m2": 16.25,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000047",
+   "name": "Ford Oakville Assembly Complex",
+   "city": "Oakville",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Oakville",
+    "n_buildings": 4,
+    "median_wn_site_eui_gj_m2": 0.88,
+    "p10_wn_site_eui": 0.587,
+    "p90_wn_site_eui": 3.558,
+    "median_ghg_kgco2e_m2": 28.69,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000024",
+   "name": "Toronto Board Plant",
+   "city": "Mississauga",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Mississauga",
+    "n_buildings": 177,
+    "median_wn_site_eui_gj_m2": 0.606,
+    "p10_wn_site_eui": 0.401,
+    "p90_wn_site_eui": 1.568,
+    "median_ghg_kgco2e_m2": 14.21,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000164",
+   "name": "POLYCON INDUSTRIES",
+   "city": "Guelph",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Guelph",
+    "n_buildings": 3,
+    "median_wn_site_eui_gj_m2": 0.763,
+    "p10_wn_site_eui": 0.439,
+    "p90_wn_site_eui": 1.167,
+    "median_ghg_kgco2e_m2": 27.02,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000092",
+   "name": "Maple Lodge Farms",
+   "city": "Brampton",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Brampton",
+    "n_buildings": 43,
+    "median_wn_site_eui_gj_m2": 0.587,
+    "p10_wn_site_eui": 0.426,
+    "p90_wn_site_eui": 2.521,
+    "median_ghg_kgco2e_m2": 16.25,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000250",
+   "name": "Brantford Facility",
+   "city": "Brantford",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Brantford",
+    "n_buildings": 5,
+    "median_wn_site_eui_gj_m2": 3.38,
+    "p10_wn_site_eui": 1.643,
+    "p90_wn_site_eui": 5.91,
+    "median_ghg_kgco2e_m2": 50.38,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000221",
+   "name": "ARCELORMITTAL WINDSOR A DIVISION OF ARCELORMITTAL DOFASCO G.P.",
+   "city": "Windsor",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Windsor",
+    "n_buildings": 3,
+    "median_wn_site_eui_gj_m2": 0.747,
+    "p10_wn_site_eui": 0.61,
+    "p90_wn_site_eui": 0.857,
+    "median_ghg_kgco2e_m2": 23.57,
+    "confidence": "ecological"
+   }
+  },
+  {
+   "spine_id": "ONF-000261",
+   "name": "Ferrero Canada Limited",
+   "city": "Brantford",
+   "tier": "anchored",
+   "ewrb": {
+    "city": "Brantford",
+    "n_buildings": 5,
+    "median_wn_site_eui_gj_m2": 3.38,
+    "p10_wn_site_eui": 1.643,
+    "p90_wn_site_eui": 5.91,
+    "median_ghg_kgco2e_m2": 50.38,
+    "confidence": "ecological"
+   }
+  }
+ ]
+}
