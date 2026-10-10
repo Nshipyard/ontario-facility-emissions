@@ -6,6 +6,7 @@ import Explorer from "@/components/Explorer";
 import Showcase from "@/components/Showcase";
 import Methodology from "@/components/Methodology";
 import Developers from "@/components/Developers";
+import ShareableCharts from "@/components/ShareableCharts";
 
 function Hero() {
   const { t } = useLang();
@@ -89,6 +90,7 @@ export default function Home() {
         <Methodology />
         <Developers />
         <Downloads />
+        <ShareableCharts projectKey="emissions" />
       </main>
       <Footer />
     </>
